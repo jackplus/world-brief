@@ -66,6 +66,16 @@ test('rate limits, malformed model response and missing key degrade gracefully',
   }
   assert.equal((await summarize([item()], '')).mode, 'excerpt');
 });
+test('temporary Gemini 503 retries and recovers to Chinese AI edition', async () => {
+  let calls = 0;
+  const output = await summarize([item()], 'test-secret', async () => {
+    if (++calls === 1) return { ok: false, status: 503 };
+    return { ok: true, json: async () => ({ candidates: [{ content: { parts: [{ text: JSON.stringify({ items: [{ category: 'finance', title: '市场新闻', summary: '来源报道的事实。', sourceIds: ['a'] }] }) }] } }] }) };
+  });
+  assert.equal(output.mode, 'ai');
+  assert.equal(output.items[0].title, '市场新闻');
+  assert.equal(calls, 2);
+});
 test('collector tolerates partial failure and reports disabled feeds', async () => {
   const sources = [source, { ...source, id: 'broken' }, { ...source, id: 'off', enabled: false }];
   let requests = 0;
