@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-14T13:03:31.244Z",
+  "coverageStart": "2026-10-13T13:03:31.244Z",
+  "coverageEnd": "2026-10-14T13:03:31.244Z",
+  "mode": "excerpt",
+  "notice": "未配置 AI 密钥，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Pending usable feed and written authorization for public excerpts. Directory returned HTML on verification."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Pending usable feed and written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "0da4f2b36793d4cc6616",
+      "category": "finance",
+      "title": "US inflation rises more than expected ahead of midterm elections",
+      "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs.",
+      "publishedAt": "2026-10-14T12:47:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+        }
+      ]
+    },
+    {
+      "id": "da953957818612cbe4c5",
+      "category": "politics",
+      "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+      "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street.",
+      "publishedAt": "2026-10-14T12:36:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o"
+        }
+      ]
+    },
+    {
+      "id": "53911f98c21c784fce1a",
+      "category": "ai",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "summary": "",
+      "publishedAt": "2026-10-13T17:05:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
+        }
+      ]
+    },
+    {
+      "id": "0f9c1b94b21d5c291fc8",
+      "category": "finance",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "publishedAt": "2026-10-14T12:09:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po"
+        }
+      ]
+    },
+    {
+      "id": "e8762018cc4151db91e2",
+      "category": "politics",
+      "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+      "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany.",
+      "publishedAt": "2026-10-14T12:27:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo"
+        }
+      ]
+    },
+    {
+      "id": "d72ff559a3c86930a589",
+      "category": "finance",
+      "title": "Civil servant faked illness with make-up to juggle five jobs, court hears",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple government jobs while working from home.",
+      "publishedAt": "2026-10-14T11:57:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvdyx5d6jo"
+        }
+      ]
+    },
+    {
+      "id": "390f0d7022d3c25716dd",
+      "category": "politics",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "publishedAt": "2026-10-14T12:26:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o"
+        }
+      ]
+    },
+    {
+      "id": "b9f1fc3746df05f110c8",
+      "category": "finance",
+      "title": "Job cuts could fund diesel price drop says deputy",
+      "summary": "With the ongoing war in the Middle East increasing prices, one deputy is ask for duty to be frozen.",
+      "publishedAt": "2026-10-14T11:13:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2qw2xn1x4o"
+        }
+      ]
+    },
+    {
+      "id": "d273d75aadb90c0815a9",
+      "category": "politics",
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "summary": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "publishedAt": "2026-10-14T11:32:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do"
+        }
+      ]
+    },
+    {
+      "id": "1f8c5653b2cccb9f477a",
+      "category": "finance",
+      "title": "Faisal Islam: What surprise praise for UK economy tells us about the Budget",
+      "summary": "On three occasions in the past 24 hours, top IMF officials have praised UK plans to reduce its annual levels of borrowing.",
+      "publishedAt": "2026-10-14T11:04:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cx30eq0vyed4o"
+        }
+      ]
+    },
+    {
+      "id": "08f65305491ca02ba749",
+      "category": "politics",
+      "title": "Mauritius reels from worst riots in decades after woman shot by police",
+      "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages.",
+      "publishedAt": "2026-10-14T11:24:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo"
+        }
+      ]
+    },
+    {
+      "id": "d15f3d24bcb5c2435523",
+      "category": "finance",
+      "title": "'It's definitely tight trying to budget on maternity leave'",
+      "summary": "An estimated 47,500 people in Sheffield are unable to make ends meet and pay their bills.",
+      "publishedAt": "2026-10-14T09:59:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewegye0g0qo"
+        }
+      ]
+    },
+    {
+      "id": "764d9f189c05a60a6847",
+      "category": "politics",
+      "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+      "summary": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
+      "publishedAt": "2026-10-14T11:17:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o"
+        }
+      ]
+    },
+    {
+      "id": "db3c9bbeef5ace6c2b04",
+      "category": "finance",
+      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "publishedAt": "2026-10-14T08:27:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo"
+        }
+      ]
+    },
+    {
+      "id": "617092cee695ac96725e",
+      "category": "politics",
+      "title": "Cornell bans all fraternity parties over gang sex assault allegations",
+      "summary": "The school has faced an uproar over how it handled assault allegations brought by a woman known as Jane Doe.",
+      "publishedAt": "2026-10-14T11:08:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dzg094zd9o"
+        }
+      ]
+    },
+    {
+      "id": "7ac27b8efac3e17ed2c9",
+      "category": "finance",
+      "title": "Hundreds of Royal Mail staff quitting each week under new efficiency plans",
+      "summary": "The CWU says more posties are leaving since a new delivery system was brought in that it claims is not working in hundreds of offices.",
+      "publishedAt": "2026-10-14T07:18:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o"
+        }
+      ]
+    },
+    {
+      "id": "84e0f40d75ed2e0a4726",
+      "category": "politics",
+      "title": "Turkish police raid opposition TV station, halting live broadcasts",
+      "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government.",
+      "publishedAt": "2026-10-14T10:50:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo"
+        }
+      ]
+    }
+  ]
+}

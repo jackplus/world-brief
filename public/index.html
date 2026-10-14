@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f5f3ed">
+  <meta name="description" content="早晚两次，阅读环球财经、国际时事与 AI 精选。每条新闻都可回到原始来源。">
+  <title>观澜 · 环球资讯</title>
+  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./style.css">
+  <script src="./app.js" type="module"></script>
+</head>
+<body>
+  <a class="skip" href="#news">跳至新闻</a>
+  <header class="masthead wrap">
+    <a class="brand" href="./" aria-label="观澜首页"><span class="mark">观</span><span>观澜<small>THE WORLD, IN PERSPECTIVE</small></span></a>
+    <div class="schedule"><span class="live-dot"></span> 早晚两阅 <span>北京时间 08:00 / 20:00</span></div>
+  </header>
+  <main class="wrap">
+    <section class="intro" aria-labelledby="headline">
+      <div><p class="eyebrow">YOUR DAILY WORLD BRIEF</p><h1 id="headline">世界很大，<br>看见<span>重要的事。</span></h1><p class="intro-copy">环球财经 · 时事政治 · 人工智能<br>用一份简报，连接正在发生的世界。</p></div>
+      <aside class="edition-meta"><span class="eyebrow">本期简报 · BEIJING TIME</span><strong id="edition-date">正在连接</strong><p id="updated">读取最新简报…</p><p id="coverage"></p><label for="edition">回看最近七天</label><select id="edition" disabled><option>最新一期</option></select></aside>
+    </section>
+    <div id="status" class="status" role="status" aria-live="polite">正在读取最新内容…</div>
+    <button id="apply-update" class="update-button" hidden>有新一期简报，点击查看</button>
+    <section id="highlights" class="highlights" aria-labelledby="highlights-title" hidden>
+      <div class="section-heading"><h2 id="highlights-title">本期关注</h2><span>THE BIG PICTURE / 03</span></div>
+      <div id="lead-grid" class="lead-grid"></div>
+    </section>
+    <section id="news" aria-labelledby="news-title">
+      <div class="news-toolbar"><div><p class="eyebrow">ACROSS THE WORLD</p><h2 id="news-title">资讯全览 <span id="count"></span></h2></div><nav id="filters" aria-label="新闻分类"><button data-category="all" aria-pressed="true">全部</button><button data-category="finance" aria-pressed="false">环球财经</button><button data-category="politics" aria-pressed="false">时事政治</button><button data-category="ai" aria-pressed="false">AI 前沿</button></nav></div>
+      <div id="news-grid" class="news-grid"></div>
+      <p id="empty" class="empty" hidden>近24小时暂无符合条件的报道。我们不以旧闻凑数。</p>
+    </section>
+    <details class="sources"><summary>来源与本期采集状态 <span>透明、可追溯</span></summary><ul id="source-status"></ul><p>AI 摘要仅根据订阅源提供的文本生成，可能存在偏差；阅读原始报道以核对详情。原文摘录模式保留来源语言。所有时间以北京时间显示。</p></details>
+  </main>
+  <footer class="wrap"><span class="footer-name">观澜 <small>WORLD BRIEF</small></span><p>保持好奇，也保持判断。<br>非商业个人资讯阅读 · 每日早晚自动更新，实际发布时间可能延迟。</p><a href="#headline">回到顶部 ↑</a></footer>
+  <noscript><p class="wrap">请启用 JavaScript 以读取简报数据。</p></noscript>
+</body>
+</html>
