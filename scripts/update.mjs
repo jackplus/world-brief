@@ -23,6 +23,7 @@ export async function collect(sources, now, fetcher = fetch) {
 }
 export async function summarize(items, apiKey, fetcher = fetch) {
   if (!apiKey || !items.length) return { items: fallback(items), mode: 'excerpt', reason: apiKey ? null : '未配置 AI 密钥，当前展示原文标题与来源摘录。' };
+  const diagnostic = { phase: 'request' };
   try {
     const model = process.env.GEMINI_MODEL || 'gemini-3.8-flash';
     const response = await fetcher(`https://generativelanguage.googleapis.com/v1beta/models/${encodeURIComponent(model)}:generateContent`, {
@@ -33,11 +34,21 @@ export async function summarize(items, apiKey, fetcher = fetch) {
         generationConfig: { responseMimeType: 'application/json', temperature: 0.2, maxOutputTokens: 10000 }
       })
     });
-    if (!response.ok) throw new Error('Model unavailable');
+    if (!response.ok) {
+      diagnostic.status = response.status;
+      throw new Error('Model unavailable');
+    }
+    diagnostic.phase = 'response';
     const payload = await response.json();
     const json = payload.candidates?.[0]?.content?.parts?.filter(p => !p.thought).map(p => p.text || '').join('');
-    return { items: validateModel(JSON.parse(json), items), mode: 'ai', reason: null };
-  } catch {
+    const value = JSON.parse(json);
+    diagnostic.phase = 'validation';
+    return { items: validateModel(value, items), mode: 'ai', reason: null };
+  } catch (error) {
+    // Only fixed validation messages and HTTP codes; never log keys or API response bodies.
+    const known = ['Invalid model items', 'Invalid model shape', 'Category overflow', 'Unknown or duplicate source', 'Title-only source must not have summary', 'Missing category'];
+    if (diagnostic.phase === 'validation' && known.includes(error.message)) diagnostic.reason = error.message;
+    console.warn('AI fallback:', JSON.stringify(diagnostic));
     return { items: fallback(items), mode: 'excerpt', reason: 'AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。' };
   }
 }
