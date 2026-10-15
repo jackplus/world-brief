@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T16:23:43.465Z",
+  "coverageStart": "2026-10-14T16:23:43.465Z",
+  "coverageEnd": "2026-10-15T16:23:43.465Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "aef1173e9d6f466a7fc2",
+      "category": "finance",
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+      "publishedAt": "2026-10-15T14:55:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no"
+        }
+      ]
+    },
+    {
+      "id": "c19abe99481e77f66d93",
+      "category": "politics",
+      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+      "publishedAt": "2026-10-15T15:52:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo"
+        }
+      ]
+    },
+    {
+      "id": "39052ad94a8a76cc68a2",
+      "category": "ai",
+      "title": "Apertus 1.5 Release Notes",
+      "summary": "",
+      "publishedAt": "2026-10-15T09:08:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+        }
+      ]
+    },
+    {
+      "id": "66dbbfbf66b4fa815945",
+      "category": "finance",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "publishedAt": "2026-10-15T13:25:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no"
+        }
+      ]
+    },
+    {
+      "id": "c9f7a604dde34a1bf706",
+      "category": "politics",
+      "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+      "summary": "Children were buried under the debris after the roof crashed through three classrooms, police say.",
+      "publishedAt": "2026-10-15T15:26:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cked326llddgo"
+        }
+      ]
+    },
+    {
+      "id": "eb67409897ed2136a753",
+      "category": "ai",
+      "title": "Welcome FLUX.3 Image Klein in Diffusers",
+      "summary": "",
+      "publishedAt": "2026-10-15T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/flux-3"
+        }
+      ]
+    },
+    {
+      "id": "f3140b4dcbb3619b517f",
+      "category": "finance",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "publishedAt": "2026-10-15T11:34:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo"
+        }
+      ]
+    },
+    {
+      "id": "f0930aaa5f3df4a12641",
+      "category": "politics",
+      "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+      "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks.",
+      "publishedAt": "2026-10-15T15:09:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o"
+        }
+      ]
+    },
+    {
+      "id": "176405020207904b767e",
+      "category": "finance",
+      "title": "Thousands of NI workers to get pay bump as Real Living Wage rises",
+      "summary": "About 6,000 workers in NI are paid the Real Living Wage - which is voluntarily paid to reflect the cost of living.",
+      "publishedAt": "2026-10-15T05:37:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cq398xnyx4gyo"
+        }
+      ]
+    },
+    {
+      "id": "b5f2db8fc7666d9be01a",
+      "category": "politics",
+      "title": "Watch: Pupils heard 'cracking' sound heard moments before Pakistan school roof collapse",
+      "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
+      "publishedAt": "2026-10-15T15:05:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmq8n5gv1pnpo"
+        }
+      ]
+    },
+    {
+      "id": "e033e3f234503006b804",
+      "category": "finance",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "publishedAt": "2026-10-15T05:02:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o"
+        }
+      ]
+    },
+    {
+      "id": "ca95899a202fed4a4efe",
+      "category": "politics",
+      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
+      "summary": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
+      "publishedAt": "2026-10-15T14:51:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo"
+        }
+      ]
+    },
+    {
+      "id": "bb8245a91ad81640bf70",
+      "category": "finance",
+      "title": "How much is the minimum wage?",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "publishedAt": "2026-10-14T23:01:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro"
+        }
+      ]
+    },
+    {
+      "id": "f288b7f18606a2844e04",
+      "category": "politics",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "publishedAt": "2026-10-15T11:25:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo"
+        }
+      ]
+    },
+    {
+      "id": "f6bcf5ed0b0f5db432a2",
+      "category": "finance",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+      "publishedAt": "2026-10-14T17:46:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro"
+        }
+      ]
+    },
+    {
+      "id": "19690a35fd841470a964",
+      "category": "politics",
+      "title": "Obama says drift towards extremism 'not inevitable'",
+      "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing..",
+      "publishedAt": "2026-10-15T10:51:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o"
+        }
+      ]
+    },
+    {
+      "id": "1919bbf1cbd70c5ef974",
+      "category": "finance",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "publishedAt": "2026-10-14T16:47:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o"
+        }
+      ]
+    },
+    {
+      "id": "9ebc228560759524498e",
+      "category": "politics",
+      "title": "Two dead in Istanbul after heaviest rainfall in 84 years, governor says",
+      "summary": "Residents have been told to avoid leaving their homes unless absolutely necessary.",
+      "publishedAt": "2026-10-15T10:05:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq398x7j1lrwo"
+        }
+      ]
+    }
+  ]
+}
