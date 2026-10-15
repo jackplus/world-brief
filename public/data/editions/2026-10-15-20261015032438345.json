@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-15T03:24:38.345Z",
+  "coverageStart": "2026-10-14T03:24:38.345Z",
+  "coverageEnd": "2026-10-15T03:24:38.345Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 23
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "f3140b4dcbb3619b517f",
+      "category": "finance",
+      "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "publishedAt": "2026-10-15T01:56:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo"
+        }
+      ]
+    },
+    {
+      "id": "5a6742740bc15ec7cfa2",
+      "category": "politics",
+      "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
+      "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit.",
+      "publishedAt": "2026-10-14T22:31:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo"
+        }
+      ]
+    },
+    {
+      "id": "504a28fcb44d1a3d50f6",
+      "category": "ai",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "summary": "",
+      "publishedAt": "2026-10-14T16:12:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2"
+        }
+      ]
+    },
+    {
+      "id": "4d4ac0ad311194256d4b",
+      "category": "finance",
+      "title": "How backlash against data centres could shape the US midterm elections",
+      "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US.",
+      "publishedAt": "2026-10-14T23:02:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro"
+        }
+      ]
+    },
+    {
+      "id": "8ebbb4d8e67eb5f57eac",
+      "category": "politics",
+      "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+      "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\".",
+      "publishedAt": "2026-10-14T20:55:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo"
+        }
+      ]
+    },
+    {
+      "id": "dc11611ff4d92e8c6941",
+      "category": "finance",
+      "title": "How a Chinese-made toy gets to a US retailer",
+      "summary": "With Christmas on the horizon, we trace children's toys from factories in China to US shelves.",
+      "publishedAt": "2026-10-14T23:01:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5djvyde0y1jo"
+        }
+      ]
+    },
+    {
+      "id": "336744407371becd7345",
+      "category": "politics",
+      "title": "Why Zelensky's meeting with Burnham matters",
+      "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Uk",
+      "publishedAt": "2026-10-14T20:41:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o"
+        }
+      ]
+    },
+    {
+      "id": "bb8245a91ad81640bf70",
+      "category": "finance",
+      "title": "How much is the minimum wage?",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "publishedAt": "2026-10-14T23:01:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro"
+        }
+      ]
+    },
+    {
+      "id": "64a5d21395656c2f450d",
+      "category": "politics",
+      "title": "Student protesters attack government buildings in Albania",
+      "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects.",
+      "publishedAt": "2026-10-14T20:29:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o"
+        }
+      ]
+    },
+    {
+      "id": "f6bcf5ed0b0f5db432a2",
+      "category": "finance",
+      "title": "Drop-off charges at UK airports to be reviewed after sharp increase",
+      "summary": "Confirming the review, the government said it was \"vital to ensure travel remains accessible and that passengers are treated fairly\".",
+      "publishedAt": "2026-10-14T17:46:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwp8gynk13rro"
+        }
+      ]
+    },
+    {
+      "id": "f288b7f18606a2844e04",
+      "category": "politics",
+      "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
+      "summary": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
+      "publishedAt": "2026-10-14T19:52:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo"
+        }
+      ]
+    },
+    {
+      "id": "8b685f27be47d773af30",
+      "category": "finance",
+      "title": "'It's rough out here': Americans struggle with rising inflation",
+      "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving.",
+      "publishedAt": "2026-10-14T15:57:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o"
+        }
+      ]
+    },
+    {
+      "id": "d61a1d4451f78bdd82c1",
+      "category": "politics",
+      "title": "What if you could turn off your algorithm? Australia is about to try",
+      "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
+      "publishedAt": "2026-10-14T18:00:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po"
+        }
+      ]
+    },
+    {
+      "id": "d78b9885b2c15446dc6b",
+      "category": "finance",
+      "title": "Driving test waits fall to two-year low - but still average 20 weeks",
+      "summary": "Learner drivers in September had to wait an average of 19.7 weeks, or around five months, for a practical test.",
+      "publishedAt": "2026-10-14T13:45:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1kvz006ko"
+        }
+      ]
+    },
+    {
+      "id": "bc67eb89f9f404f27453",
+      "category": "politics",
+      "title": "Kenya confirms second Ebola case - a relative of the first victim",
+      "summary": "It follows the death last week of a man who had arrived in Kenya after travelling from DR Congo.",
+      "publishedAt": "2026-10-14T17:23:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo"
+        }
+      ]
+    },
+    {
+      "id": "0f9c1b94b21d5c291fc8",
+      "category": "finance",
+      "title": "Wayfair among firms fined millions for misleading sales tactics",
+      "summary": "The Competition and Markets Authority has fined Wayfair, Appliances Direct, and Gold's Gym £6m in total.",
+      "publishedAt": "2026-10-14T12:09:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqx298e5rr3po"
+        }
+      ]
+    },
+    {
+      "id": "1919bbf1cbd70c5ef974",
+      "category": "politics",
+      "title": "Netflix to shed 1,000 jobs in steepest cuts since 2022",
+      "summary": "The cuts equate to around 6% of the streaming giant's total workforce worldwide.",
+      "publishedAt": "2026-10-14T16:47:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o"
+        }
+      ]
+    }
+  ]
+}
