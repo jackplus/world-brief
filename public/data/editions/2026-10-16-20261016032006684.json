@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-16T03:20:06.684Z",
+  "coverageStart": "2026-10-15T03:20:06.684Z",
+  "coverageEnd": "2026-10-16T03:20:06.684Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 29
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 10
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "303a1be0911da0c40a7c",
+      "category": "finance",
+      "title": "Living with a stink? Technology might help",
+      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "publishedAt": "2026-10-15T23:18:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o"
+        }
+      ]
+    },
+    {
+      "id": "fbda300348f27f40179f",
+      "category": "politics",
+      "title": "Three children and teacher killed by 16-year-old at Oregon primary school",
+      "summary": "The suspect was shot dead by a local community member who followed him into the school, said police.",
+      "publishedAt": "2026-10-16T03:01:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo"
+        }
+      ]
+    },
+    {
+      "id": "138e9b7e7d9747243aa5",
+      "category": "ai",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "publishedAt": "2026-10-16T01:44:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        }
+      ]
+    },
+    {
+      "id": "0455a49b6eb6bbf9b1d7",
+      "category": "finance",
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "publishedAt": "2026-10-15T23:16:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o"
+        }
+      ]
+    },
+    {
+      "id": "cc0107ef1896c8d2552a",
+      "category": "politics",
+      "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+      "summary": "Three children aged 5, 8 and 11 and a teacher were killed after a 16-year-old suspect opened fire in the city of Bend, local police say.",
+      "publishedAt": "2026-10-16T01:36:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o"
+        }
+      ]
+    },
+    {
+      "id": "d330643595776f9f542e",
+      "category": "ai",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": "",
+      "publishedAt": "2026-10-15T20:34:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+        }
+      ]
+    },
+    {
+      "id": "a7519b959322a735787a",
+      "category": "finance",
+      "title": "'I'd spend $1,000 on a wedding present'",
+      "summary": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
+      "publishedAt": "2026-10-15T18:30:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo"
+        }
+      ]
+    },
+    {
+      "id": "67ec43e3d8305dc7d2cd",
+      "category": "politics",
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "publishedAt": "2026-10-15T23:38:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo"
+        }
+      ]
+    },
+    {
+      "id": "e033e3f234503006b804",
+      "category": "finance",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "publishedAt": "2026-10-15T17:19:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o"
+        }
+      ]
+    },
+    {
+      "id": "ee9fdb03755f68a46640",
+      "category": "politics",
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
+      "publishedAt": "2026-10-15T23:27:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo"
+        }
+      ]
+    },
+    {
+      "id": "1e850dc89d468c55e597",
+      "category": "finance",
+      "title": "Banks say Healey is planning Budget tax raid on their profits",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "publishedAt": "2026-10-15T17:14:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo"
+        }
+      ]
+    },
+    {
+      "id": "d96e3cf07db5888a7872",
+      "category": "politics",
+      "title": "Are student protests being manipulated ahead of France's presidential election?",
+      "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
+      "publishedAt": "2026-10-15T23:25:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o"
+        }
+      ]
+    },
+    {
+      "id": "aef1173e9d6f466a7fc2",
+      "category": "finance",
+      "title": "Nandy 'minded to intervene' in Sky's £1.6bn takeover of ITV entertainment arm",
+      "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape.",
+      "publishedAt": "2026-10-15T14:55:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no"
+        }
+      ]
+    },
+    {
+      "id": "4e5bd01b3071b44acabf",
+      "category": "politics",
+      "title": "Letters with 'suspicious substances' sent to US senators and election offices",
+      "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana.",
+      "publishedAt": "2026-10-15T22:46:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o"
+        }
+      ]
+    },
+    {
+      "id": "66dbbfbf66b4fa815945",
+      "category": "finance",
+      "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
+      "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction.",
+      "publishedAt": "2026-10-15T13:25:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no"
+        }
+      ]
+    },
+    {
+      "id": "0c87e7130336b9f90deb",
+      "category": "politics",
+      "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+      "summary": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+      "publishedAt": "2026-10-15T22:37:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o"
+        }
+      ]
+    },
+    {
+      "id": "f3140b4dcbb3619b517f",
+      "category": "finance",
+      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
+      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
+      "publishedAt": "2026-10-15T11:34:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo"
+        }
+      ]
+    },
+    {
+      "id": "5e95b44dd4d3e089b1c8",
+      "category": "politics",
+      "title": "At the scene of a school roof collapse in Pakistan",
+      "summary": "At least 33 pupils and a teacher were killed according to hospital officials, and more than a dozen were injured.",
+      "publishedAt": "2026-10-15T20:31:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cr5yn5wel153o"
+        }
+      ]
+    }
+  ]
+}
