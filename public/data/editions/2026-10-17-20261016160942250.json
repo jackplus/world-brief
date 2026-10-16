@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-16T16:09:42.250Z",
+  "coverageStart": "2026-10-15T16:09:42.250Z",
+  "coverageEnd": "2026-10-16T16:09:42.250Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 10
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "e2834c74f4065e96c922",
+      "category": "finance",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+        }
+      ]
+    },
+    {
+      "id": "da4374ac8d73daa6283c",
+      "category": "politics",
+      "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+      "summary": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump.",
+      "publishedAt": "2026-10-16T16:00:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po"
+        }
+      ]
+    },
+    {
+      "id": "138e9b7e7d9747243aa5",
+      "category": "ai",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "summary": "",
+      "publishedAt": "2026-10-16T01:44:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        }
+      ]
+    },
+    {
+      "id": "1e850dc89d468c55e597",
+      "category": "finance",
+      "title": "Banks expect to be hit with higher taxes in Budget",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "publishedAt": "2026-10-16T10:16:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo"
+        }
+      ]
+    },
+    {
+      "id": "835389c1e833d47e2dce",
+      "category": "politics",
+      "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+      "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+      "publishedAt": "2026-10-16T15:59:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro"
+        }
+      ]
+    },
+    {
+      "id": "c9a6184923cc1a5837b4",
+      "category": "ai",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "summary": "",
+      "publishedAt": "2026-10-16T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/reflection-beam"
+        }
+      ]
+    },
+    {
+      "id": "78a218de13c8200ab57e",
+      "category": "finance",
+      "title": "Fuel costs squeezing margins for some businesses",
+      "summary": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
+      "publishedAt": "2026-10-16T05:30:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno"
+        }
+      ]
+    },
+    {
+      "id": "66c73c7c72d48f4d39ce",
+      "category": "politics",
+      "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "publishedAt": "2026-10-16T15:45:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo"
+        }
+      ]
+    },
+    {
+      "id": "d330643595776f9f542e",
+      "category": "ai",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "summary": "",
+      "publishedAt": "2026-10-15T20:34:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
+        }
+      ]
+    },
+    {
+      "id": "1d3c087995f83fa4b4aa",
+      "category": "finance",
+      "title": "'TV and cheap booze' blamed for landlord quitting",
+      "summary": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
+      "publishedAt": "2026-10-16T05:03:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o"
+        }
+      ]
+    },
+    {
+      "id": "94d77e439a0a5b696eb2",
+      "category": "politics",
+      "title": "Patients in chains rescued from suspected illegal rehab centre in South Africa",
+      "summary": "Some of the 200 patients were found with \"sores all over their bodies\" and in overcrowded rooms.",
+      "publishedAt": "2026-10-16T14:57:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyvxj49gpwo"
+        }
+      ]
+    },
+    {
+      "id": "303a1be0911da0c40a7c",
+      "category": "finance",
+      "title": "Living with a stink? Technology might help",
+      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
+      "publishedAt": "2026-10-15T23:18:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr6240q1w136o"
+        }
+      ]
+    },
+    {
+      "id": "9f87264c711562f21275",
+      "category": "politics",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "publishedAt": "2026-10-16T14:36:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o"
+        }
+      ]
+    },
+    {
+      "id": "0455a49b6eb6bbf9b1d7",
+      "category": "finance",
+      "title": "I find it quite demoralising in store - why I do all my shopping online",
+      "summary": "After Primark announced plans for home delivery, we hear from women who never go into clothes stores.",
+      "publishedAt": "2026-10-15T23:16:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c36lk280kd1o"
+        }
+      ]
+    },
+    {
+      "id": "5d4ec07d30d0a2cede97",
+      "category": "politics",
+      "title": "Albanian protests turn violent: What we know",
+      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "publishedAt": "2026-10-16T14:33:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko"
+        }
+      ]
+    },
+    {
+      "id": "a7519b959322a735787a",
+      "category": "finance",
+      "title": "'I'd spend $1,000 on a wedding present'",
+      "summary": "New Yorkers share how much they spend on a wedding gift - and how they decide.",
+      "publishedAt": "2026-10-15T18:30:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckly0jy2ygdjo"
+        }
+      ]
+    },
+    {
+      "id": "6de0edc4a54d7ff3e91f",
+      "category": "politics",
+      "title": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+      "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+      "publishedAt": "2026-10-16T14:31:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo"
+        }
+      ]
+    },
+    {
+      "id": "e033e3f234503006b804",
+      "category": "finance",
+      "title": "'I paid thousands to a company for jobs that never came'",
+      "summary": "Apurv Patel is one of several people who say they were promised job opportunities that did not appear.",
+      "publishedAt": "2026-10-15T17:19:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3dvezpdz0o"
+        }
+      ]
+    },
+    {
+      "id": "5509cfde5b98d58291c4",
+      "category": "politics",
+      "title": "Dad fined after son, 2, died in Cyprus hotel fall",
+      "summary": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+      "publishedAt": "2026-10-16T14:21:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o"
+        }
+      ]
+    }
+  ]
+}
