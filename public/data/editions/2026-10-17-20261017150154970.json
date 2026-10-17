@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-17T15:01:54.970Z",
+  "coverageStart": "2026-10-16T15:01:54.970Z",
+  "coverageEnd": "2026-10-17T15:01:54.970Z",
+  "mode": "ai",
+  "notice": null,
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "0dfb5b40b57b2ba25527",
+      "category": "politics",
+      "title": "特朗普因国家安全考虑豁免多项对俄制裁，遭意大利防长批评",
+      "summary": "美国总统特朗普出于“国家安全”考虑，暂时终止了国会近期通过的针对莫斯科的多项限制措施，正值其与泽连斯基争端加剧之际。意大利国防部长对此表示，限制对乌支持完全错误，可能延长而非结束冲突。",
+      "publishedAt": "2026-10-17T11:56:06.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+        },
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do"
+        }
+      ]
+    },
+    {
+      "id": "88cce3dc18dfee2667c3",
+      "category": "politics",
+      "title": "教皇接受肺癌手术数日后出院",
+      "summary": "在接受肺癌手术数天后，教皇已顺利出院。据悉，教皇将于周日在圣伯多禄广场主持传统的“三钟经”祈祷并进行祝福活动。",
+      "publishedAt": "2026-10-17T13:51:36.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko"
+        }
+      ]
+    },
+    {
+      "id": "f0cee96600056bd4504a",
+      "category": "politics",
+      "title": "中国一幼儿园园长因数百名儿童中毒案被判无期徒刑",
+      "summary": "报道称，中国一名幼儿园园长及其五名工作人员因在餐食中使用不可食用涂料以使其看起来更诱人，导致数百名儿童中毒，该园长最终被判处无期徒刑。",
+      "publishedAt": "2026-10-17T12:11:58.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o"
+        }
+      ]
+    },
+    {
+      "id": "da4374ac8d73daa6283c",
+      "category": "politics",
+      "title": "乌克兰在顿巴斯展开进攻行动，美乌关系趋紧引发忧虑",
+      "summary": "乌克兰在顿巴斯地区开展“维瓦尔第行动”并收复关键领土，星链在其中发挥了关键作用。然而，乌克兰与美国总统特朗普的关系恶化，引发了外界对乌方后续支持力度的担忧。",
+      "publishedAt": "2026-10-16T16:00:30.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po"
+        },
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo"
+        }
+      ]
+    },
+    {
+      "id": "d863cf07005191aa25c3",
+      "category": "politics",
+      "title": "巴西大选临近之际亚马逊森林砍伐量创纪录下降",
+      "summary": "在关键选举临近之际，巴西境内的亚马逊雨林砍伐量出现创纪录的下降。亚马逊雨林是应对气候变化的关键缓冲带，其砍伐面积在前总统博索纳罗任内曾出现扩大。",
+      "publishedAt": "2026-10-17T02:33:09.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o"
+        }
+      ]
+    },
+    {
+      "id": "3c8bd046e5ee5b86bf7b",
+      "category": "politics",
+      "title": "白宫新闻秘书上任不足五天即离职",
+      "summary": "凯蒂·扎卡里亚在担任白宫新闻秘书不满五天后即决定离职。此前，她在公开亮相后，因专业资格和准备工作方面的问题遭到了媒体的大量批评。",
+      "publishedAt": "2026-10-17T09:14:10.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o"
+        }
+      ]
+    },
+    {
+      "id": "0a2086bfc3211b20e8f5",
+      "category": "politics",
+      "title": "澳大利亚寻求规范社交平台算法推荐机制",
+      "summary": "澳大利亚政府正探讨推出相关机制，希望赋予用户关闭算法推荐的权力，以保护社交媒体用户免受其不想查看的有害内容的持续推送与影响。",
+      "publishedAt": "2026-10-16T18:11:29.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo"
+        }
+      ]
+    },
+    {
+      "id": "c72501030d0fd50f587a",
+      "category": "politics",
+      "title": "墨西哥法院判处杀害美澳冲浪者的三名男子各158年监禁",
+      "summary": "三名男子因在墨西哥杀害澳大利亚籍兄弟杰克和卡勒姆·罗宾逊及其美国朋友卡特·罗德，各自被判处158年监禁。据悉，受害者是在一次冲浪旅行中因遭遇疑似劫案未遂而被害。",
+      "publishedAt": "2026-10-17T03:11:10.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo"
+        }
+      ]
+    },
+    {
+      "id": "fc76efe50de5297bb8b0",
+      "category": "finance",
+      "title": "生活成本高企引发食品资助呼吁与慈善需求变化",
+      "summary": "英国各地反映出生活成本压力：副议员路易丝·杜布莱特呼吁增加食品资金，质疑试点结束未充分考虑生活成本；根西岛儿童慈善机构则表示，在成立25年间已提供超过120万英镑的基础支持。",
+      "publishedAt": "2026-10-17T06:18:16.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o"
+        },
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o"
+        }
+      ]
+    },
+    {
+      "id": "48d89f8f3d6e7a421983",
+      "category": "finance",
+      "title": "低成本诊所为低收入群体提供宠物医疗援助",
+      "summary": "英国防止虐待动物协会（RSPCA）西梅德韦分会开设了一家低成本诊所，旨在为低收入人群的宠物提供医疗援助，协助宠主缓解高昂的兽医账单压力。",
+      "publishedAt": "2026-10-17T14:12:02.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo"
+        }
+      ]
+    },
+    {
+      "id": "ce587c7f0c7bad03e788",
+      "category": "finance",
+      "title": "夜总会数量减少对英国年轻人社交生活造成影响",
+      "summary": "相关报道指出，夜总会的逐渐消失正对年轻人产生影响。有受访年轻人表示，由于所在城镇缺乏夜生活场所，他们失去了放松和社交的空间。",
+      "publishedAt": "2026-10-17T06:01:55.000Z",
+      "mode": "ai",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro"
+        }
+      ]
+    }
+  ]
+}
