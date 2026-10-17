@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-17T03:11:08.954Z",
+  "coverageStart": "2026-10-16T03:11:08.954Z",
+  "coverageEnd": "2026-10-17T03:11:08.954Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "e2834c74f4065e96c922",
+      "category": "finance",
+      "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
+      "publishedAt": "2026-10-16T15:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm"
+        }
+      ]
+    },
+    {
+      "id": "0dfb5b40b57b2ba25527",
+      "category": "politics",
+      "title": "Trump waives several Russia sanctions as new US law takes effect",
+      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "publishedAt": "2026-10-17T02:48:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+        }
+      ]
+    },
+    {
+      "id": "1e850dc89d468c55e597",
+      "category": "finance",
+      "title": "Banks expect to be hit with higher taxes in Budget",
+      "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+      "publishedAt": "2026-10-16T10:16:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo"
+        }
+      ]
+    },
+    {
+      "id": "d863cf07005191aa25c3",
+      "category": "politics",
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "publishedAt": "2026-10-17T02:33:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o"
+        }
+      ]
+    },
+    {
+      "id": "78a218de13c8200ab57e",
+      "category": "finance",
+      "title": "Fuel costs squeezing margins for some businesses",
+      "summary": "Diesel recently topped £2 per litre and there is concern that a duty freeze will not go far enough.",
+      "publishedAt": "2026-10-16T05:30:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9rky27ljrxno"
+        }
+      ]
+    },
+    {
+      "id": "c42e2fbf44860ee24f3a",
+      "category": "politics",
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+      "publishedAt": "2026-10-17T01:19:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o"
+        }
+      ]
+    },
+    {
+      "id": "1d3c087995f83fa4b4aa",
+      "category": "finance",
+      "title": "'TV and cheap booze' blamed for landlord quitting",
+      "summary": "Lincolnshire has lost 27% of its pubs and bars since 2009 and some are calling on the government to act against cheap supermarket booze.",
+      "publishedAt": "2026-10-16T05:03:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6lyk77jq9d2o"
+        }
+      ]
+    },
+    {
+      "id": "ce5e9013fa68aed22ae6",
+      "category": "politics",
+      "title": "The uncertain future of Canada's 30 rescued belugas",
+      "summary": "An international rescue operation for the last 30 captive whales in Canada made headlines. Then five of them died.",
+      "publishedAt": "2026-10-17T01:18:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c623dnn3xvpko"
+        }
+      ]
+    },
+    {
+      "id": "cad4f3d98881747cf131",
+      "category": "politics",
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "publishedAt": "2026-10-17T00:41:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o"
+        }
+      ]
+    },
+    {
+      "id": "c70fc4415c28570225cc",
+      "category": "politics",
+      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
+      "publishedAt": "2026-10-16T23:54:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do"
+        }
+      ]
+    },
+    {
+      "id": "9f87264c711562f21275",
+      "category": "politics",
+      "title": "Pope pictured for first time since surgery and cancer diagnosis",
+      "summary": "The pontiff was diagnosed with lung cancer after having surgery at Rome's Gemelli Hospital on Tuesday.",
+      "publishedAt": "2026-10-16T23:20:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw146ej00yn7o"
+        }
+      ]
+    },
+    {
+      "id": "d5de742d5f6d0b6f3139",
+      "category": "politics",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "summary": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "publishedAt": "2026-10-16T23:07:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo"
+        }
+      ]
+    }
+  ]
+}
