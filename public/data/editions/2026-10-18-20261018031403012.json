@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T03:14:03.012Z",
+  "coverageStart": "2026-10-17T03:14:03.012Z",
+  "coverageEnd": "2026-10-18T03:14:03.012Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 12
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "48d89f8f3d6e7a421983",
+      "category": "finance",
+      "title": "Low-cost clinic helps pet owners with vet bills",
+      "summary": "RSPCA Medway West launches its clinic for the pets of people with low incomes.",
+      "publishedAt": "2026-10-17T14:12:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgl39rnnvzo"
+        }
+      ]
+    },
+    {
+      "id": "0dfb5b40b57b2ba25527",
+      "category": "politics",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "publishedAt": "2026-10-18T01:10:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+        }
+      ]
+    },
+    {
+      "id": "fc76efe50de5297bb8b0",
+      "category": "finance",
+      "title": "Call for more food funding due to high living cost",
+      "summary": "Deputy Louise Doublet does not think the cost of living was considered in the ending of a trial.",
+      "publishedAt": "2026-10-17T06:18:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqde8zk6d916o"
+        }
+      ]
+    },
+    {
+      "id": "f164bedfbd859a518ec5",
+      "category": "politics",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "publishedAt": "2026-10-17T23:52:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo"
+        }
+      ]
+    },
+    {
+      "id": "336779df18ed2aed8600",
+      "category": "finance",
+      "title": "Charity reflects on changing needs over 25 years",
+      "summary": "Help a Guernsey Child says it has provided in excess of £1.2m worth of essential support.",
+      "publishedAt": "2026-10-17T06:11:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c615jnxv7n45o"
+        }
+      ]
+    },
+    {
+      "id": "c2510198fdd60aec02b0",
+      "category": "politics",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "publishedAt": "2026-10-17T22:09:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo"
+        }
+      ]
+    },
+    {
+      "id": "ce587c7f0c7bad03e788",
+      "category": "finance",
+      "title": "Nightclubs are disappearing - and it's affecting young people",
+      "summary": "One young person said with no nightlife in their town they cannot \"let loose and mess around\".",
+      "publishedAt": "2026-10-17T06:01:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yngn0pl2ro"
+        }
+      ]
+    },
+    {
+      "id": "5a2bff3a36c754834c1d",
+      "category": "politics",
+      "title": "How day of protests unfolded as disorder breaks out across France",
+      "summary": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+      "publishedAt": "2026-10-17T21:33:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo"
+        }
+      ]
+    },
+    {
+      "id": "874dc9c462d32690456f",
+      "category": "politics",
+      "title": "Anti-government protesters battle with police in Albania",
+      "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana.",
+      "publishedAt": "2026-10-17T20:53:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno"
+        }
+      ]
+    },
+    {
+      "id": "4b8ce6b66ca34400d951",
+      "category": "politics",
+      "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+      "summary": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+      "publishedAt": "2026-10-17T20:52:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo"
+        }
+      ]
+    },
+    {
+      "id": "738ef5a208831fc0cef1",
+      "category": "politics",
+      "title": "At least 17 dead in crush at Hindu festival event in India",
+      "summary": "Many more have been injured at an event in the Indian city of Kolkata to mark a Hindu festival.",
+      "publishedAt": "2026-10-17T19:19:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c820vwq7qg2ko"
+        }
+      ]
+    },
+    {
+      "id": "88cce3dc18dfee2667c3",
+      "category": "politics",
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "publishedAt": "2026-10-17T13:51:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko"
+        }
+      ]
+    }
+  ]
+}
