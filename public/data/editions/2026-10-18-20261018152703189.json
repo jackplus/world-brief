@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-18T15:27:03.189Z",
+  "coverageStart": "2026-10-17T15:27:03.189Z",
+  "coverageEnd": "2026-10-18T15:27:03.189Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 12
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 7
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "e0577227d03c8db4b721",
+      "category": "finance",
+      "title": "Gleaning group gives £1m of produce to food banks",
+      "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply.",
+      "publishedAt": "2026-10-18T11:03:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo"
+        }
+      ]
+    },
+    {
+      "id": "1f91918277b7fd64f7c4",
+      "category": "politics",
+      "title": "Search for Amelia Earhart's plane resumes after stormy weather",
+      "summary": "An expedition to a remote Pacific island hoping to uncover the American aviator's wreckage was on hold for three days.",
+      "publishedAt": "2026-10-18T13:47:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv70pxe5j90eo"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-18T10:22:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "f164bedfbd859a518ec5",
+      "category": "politics",
+      "title": "European diplomats attacked by Israeli settlers in West Bank",
+      "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+      "publishedAt": "2026-10-18T12:16:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo"
+        }
+      ]
+    },
+    {
+      "id": "055146f82f855b6a65d4",
+      "category": "finance",
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+      "publishedAt": "2026-10-18T08:12:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o"
+        }
+      ]
+    },
+    {
+      "id": "22d9e3d39f2a88cfe255",
+      "category": "politics",
+      "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "summary": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+      "publishedAt": "2026-10-18T12:07:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no"
+        }
+      ]
+    },
+    {
+      "id": "44ee7923c3553957c35a",
+      "category": "finance",
+      "title": "'I took a chance on the whisky industry and I haven't looked back'",
+      "summary": "Zoey Darnbrough had no idea there was a distillery near her home - now she has a top tourism role there.",
+      "publishedAt": "2026-10-18T08:12:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6y8ln9831v3o"
+        }
+      ]
+    },
+    {
+      "id": "57605e8821c0a3b51639",
+      "category": "politics",
+      "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
+      "summary": "At least one person was killed in the strikes, which also hit a data centre used by Russia's equivalent of Facebook.",
+      "publishedAt": "2026-10-18T11:57:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o"
+        }
+      ]
+    },
+    {
+      "id": "5ed200f0fbd95370d347",
+      "category": "finance",
+      "title": "Heating oil customers face tough winter",
+      "summary": "The government plans to regulate heating oil prices after increases.",
+      "publishedAt": "2026-10-18T06:07:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j3x66e1rno"
+        }
+      ]
+    },
+    {
+      "id": "0d5edefabea466697791",
+      "category": "politics",
+      "title": "Pope Leo XIV thanks wellwishers in first event after cancer surgery",
+      "summary": "The Pope's first event since his lung cancer diagnosis and surgery saw him recite the traditional Angelus prayer from the balcony of the Apostolic Palace.",
+      "publishedAt": "2026-10-18T11:09:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq70px6pjkg5o"
+        }
+      ]
+    },
+    {
+      "id": "83e821571c436a961bd2",
+      "category": "finance",
+      "title": "There's a crackdown on sports piracy - but is it already out of control?",
+      "summary": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal streaming links, writes Theo Leggett.",
+      "publishedAt": "2026-10-18T00:11:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo"
+        }
+      ]
+    },
+    {
+      "id": "b5eb2da369b8611370b6",
+      "category": "politics",
+      "title": "Parisians wake up to protest damage and looted shops",
+      "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+      "publishedAt": "2026-10-18T10:58:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go"
+        }
+      ]
+    },
+    {
+      "id": "380fde0ad9a62b96cd1f",
+      "category": "politics",
+      "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+      "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+      "publishedAt": "2026-10-18T05:04:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o"
+        }
+      ]
+    },
+    {
+      "id": "0dfb5b40b57b2ba25527",
+      "category": "politics",
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+      "publishedAt": "2026-10-18T01:10:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o"
+        }
+      ]
+    }
+  ]
+}
