@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T18:23:19.938Z",
+  "coverageStart": "2026-10-18T18:23:19.938Z",
+  "coverageEnd": "2026-10-19T18:23:19.938Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "9f627aa62b616a2654da",
+      "category": "finance",
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "publishedAt": "2026-10-19T16:46:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro"
+        }
+      ]
+    },
+    {
+      "id": "d59392938f21cb3a0aed",
+      "category": "politics",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "publishedAt": "2026-10-19T18:22:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo"
+        }
+      ]
+    },
+    {
+      "id": "a8b8acad71bf90ce9ae3",
+      "category": "finance",
+      "title": "Bikes 'not for jousting,' says Lime after duel video",
+      "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+      "publishedAt": "2026-10-19T15:44:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo"
+        }
+      ]
+    },
+    {
+      "id": "c1bb4045c2bda5ae7209",
+      "category": "politics",
+      "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
+      "summary": "Self-proclaimed pastor Paul Mackenzie was found guilty of 191 murder charges - all but one of them children.",
+      "publishedAt": "2026-10-19T17:18:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo"
+        }
+      ]
+    },
+    {
+      "id": "eb05fef0bbdb8c8794c7",
+      "category": "finance",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "publishedAt": "2026-10-19T12:54:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo"
+        }
+      ]
+    },
+    {
+      "id": "7abb0b2e1f16ef0166b5",
+      "category": "politics",
+      "title": "Warning signs over threats to Australian politicians were rising before MP hit by car",
+      "summary": "The apparent attack on MP Helen Haines suggests the worst fears of politicians and public figures appear to have been realised.",
+      "publishedAt": "2026-10-19T16:32:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo"
+        }
+      ]
+    },
+    {
+      "id": "60734c95c7b112b56336",
+      "category": "finance",
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "publishedAt": "2026-10-19T12:16:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go"
+        }
+      ]
+    },
+    {
+      "id": "7e296f78fa87c916df9e",
+      "category": "politics",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "publishedAt": "2026-10-19T16:22:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo"
+        }
+      ]
+    },
+    {
+      "id": "23b9e0857ac102f1243f",
+      "category": "finance",
+      "title": "People playing loud music on buses could face £100 fine",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage,",
+      "publishedAt": "2026-10-19T09:49:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo"
+        }
+      ]
+    },
+    {
+      "id": "eaa910b025edcecf7530",
+      "category": "politics",
+      "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits.",
+      "publishedAt": "2026-10-19T16:20:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo"
+        }
+      ]
+    },
+    {
+      "id": "053e9cb768fc1085b4ee",
+      "category": "finance",
+      "title": "What are the new faces coming to UK bank notes?",
+      "summary": "Banknotes are getting a nature-themed makeover – and the Bank of England has revealed the four creatures that will feature on our money.",
+      "publishedAt": "2026-10-19T09:48:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c9zrd6d12ll8o"
+        }
+      ]
+    },
+    {
+      "id": "c9bec4fb200e38ebaf15",
+      "category": "politics",
+      "title": "Obama blasts federal probe of congresswoman Ilhan Omar as 'so appalling'",
+      "summary": "Obama says federal agents' search of the Democrat's home was an effort to intimidate a Trump critic.",
+      "publishedAt": "2026-10-19T16:16:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr15jl7dd42vo"
+        }
+      ]
+    },
+    {
+      "id": "e459dfa95b5ce4a2c377",
+      "category": "finance",
+      "title": "Musk and Anthropic pledge public share giveaways",
+      "summary": "Musk's announcement comes after Anthropic pledged to create a public benefit fund ahead of its blockbuster stock market listing.",
+      "publishedAt": "2026-10-19T09:38:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko"
+        }
+      ]
+    },
+    {
+      "id": "55f300071881c31ef106",
+      "category": "politics",
+      "title": "In pictures: French landmarks damaged and destroyed by violent protesters",
+      "summary": "France is used to protests but the violence and damage seen across the country is shocking many people.",
+      "publishedAt": "2026-10-19T15:21:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8n7l0le11o"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-19T09:01:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "e74668d084d7ee7f7f04",
+      "category": "politics",
+      "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
+      "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known.",
+      "publishedAt": "2026-10-19T14:13:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo"
+        }
+      ]
+    }
+  ]
+}

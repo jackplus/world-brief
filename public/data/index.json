@@ -2,6 +2,11 @@
   "schemaVersion": 1,
   "editions": [
     {
+      "date": "2026-10-20",
+      "file": "editions/2026-10-20-20261019182319938.json",
+      "generatedAt": "2026-10-19T18:23:19.938Z"
+    },
+    {
       "date": "2026-10-19",
       "file": "editions/2026-10-19-20261019032705524.json",
       "generatedAt": "2026-10-19T03:27:05.524Z"
