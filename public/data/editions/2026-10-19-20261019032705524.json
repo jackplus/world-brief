@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-19T03:27:05.524Z",
+  "coverageStart": "2026-10-18T03:27:05.524Z",
+  "coverageEnd": "2026-10-19T03:27:05.524Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "3ba7cc5caa42771618ed",
+      "category": "finance",
+      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "publishedAt": "2026-10-19T03:17:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo"
+        }
+      ]
+    },
+    {
+      "id": "3ecaac8243e901b34a10",
+      "category": "politics",
+      "title": "Threat forces Israel to Austria flight into emergency landing",
+      "summary": "The Airbus jet landed safely in Bulgaria and all passengers and crew aboard were unharmed, officials said.",
+      "publishedAt": "2026-10-19T02:41:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo"
+        }
+      ]
+    },
+    {
+      "id": "23b9e0857ac102f1243f",
+      "category": "finance",
+      "title": "People playing loud music on buses could face £100 fine",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage,",
+      "publishedAt": "2026-10-19T00:22:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo"
+        }
+      ]
+    },
+    {
+      "id": "e459dfa95b5ce4a2c377",
+      "category": "politics",
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "publishedAt": "2026-10-19T02:41:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko"
+        }
+      ]
+    },
+    {
+      "id": "f04c299b79a33ba40ee1",
+      "category": "finance",
+      "title": "Don't fall for this - how to protect yourself from AI scams",
+      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
+      "publishedAt": "2026-10-18T23:24:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o"
+        }
+      ]
+    },
+    {
+      "id": "13fd83060336c38cfe95",
+      "category": "politics",
+      "title": "Bollywood actor Tiger Shroff survives shooting in Mumbai",
+      "summary": "Video published by several news outlets shows gunmen firing multiple shots at a car while it is moving past a crowd.",
+      "publishedAt": "2026-10-19T01:50:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6jdmy872r7vo"
+        }
+      ]
+    },
+    {
+      "id": "eb05fef0bbdb8c8794c7",
+      "category": "finance",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "publishedAt": "2026-10-18T23:00:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo"
+        }
+      ]
+    },
+    {
+      "id": "4de8d3ef2a34247c3c82",
+      "category": "politics",
+      "title": "Australian Greens senator denies claims of misconduct towards women",
+      "summary": "Jordon Steele-John says the timing of the claims is motivated by \"nasty political games\" within the Greens.",
+      "publishedAt": "2026-10-19T01:32:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmpdgj8z8v2do"
+        }
+      ]
+    },
+    {
+      "id": "f03954dee92fa2582997",
+      "category": "finance",
+      "title": "Microsoft pulls out of UK's largest AI data centre",
+      "summary": "Tech firm Nscale says it is still committed to building the site in Essex.",
+      "publishedAt": "2026-10-18T16:46:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9m26kl5y7epo"
+        }
+      ]
+    },
+    {
+      "id": "a9381cff44ed9f9b3ce7",
+      "category": "politics",
+      "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+      "summary": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+      "publishedAt": "2026-10-19T00:06:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo"
+        }
+      ]
+    },
+    {
+      "id": "e0577227d03c8db4b721",
+      "category": "finance",
+      "title": "Gleaning group gives £1m of produce to food banks",
+      "summary": "Gleaning Cornwall warns that more funding is needed as costs rise sharply.",
+      "publishedAt": "2026-10-18T11:03:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n49w1r2zxjo"
+        }
+      ]
+    },
+    {
+      "id": "037cd39c958a047443a4",
+      "category": "politics",
+      "title": "EU tariffs aimed at China hitting Ukraine, steel boss says",
+      "summary": "The boss of one of Ukraine's biggest steel companies says the country has been \"bundled together\" in measures aimed at curbing cheap imports.",
+      "publishedAt": "2026-10-18T23:28:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwdd8z6gyy96o"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-18T10:22:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "2ff332e63c4ce2b603ea",
+      "category": "politics",
+      "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+      "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect.",
+      "publishedAt": "2026-10-18T23:20:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo"
+        }
+      ]
+    },
+    {
+      "id": "055146f82f855b6a65d4",
+      "category": "finance",
+      "title": "Turning the tides: Could hidden sea power energise our coastal towns?",
+      "summary": "Engineer David Mummery has developed a tidal energy generator that he says can change lives for people living in coastal communities.",
+      "publishedAt": "2026-10-18T08:12:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c8y56y6xg9n9o"
+        }
+      ]
+    },
+    {
+      "id": "36a35426470348913433",
+      "category": "politics",
+      "title": "Major fire at Canada military base leaves four dead, dozens injured",
+      "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+      "publishedAt": "2026-10-18T23:06:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o"
+        }
+      ]
+    }
+  ]
+}
