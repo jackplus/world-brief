@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T03:36:44.825Z",
+  "coverageStart": "2026-10-19T03:36:44.825Z",
+  "coverageEnd": "2026-10-20T03:36:44.825Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "d87f7d76224fcaab800a",
+      "category": "finance",
+      "title": "'I'm fed up of swiping': Why singles now want to meet IRL",
+      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "publishedAt": "2026-10-19T23:00:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo"
+        }
+      ]
+    },
+    {
+      "id": "7abb0b2e1f16ef0166b5",
+      "category": "politics",
+      "title": "'Our worst nightmare': Threats to Australian politicians were rising before MP hit by car",
+      "summary": "In the wake of the apparent attack on MP Helen Haines, MPs have described locking their office doors, and scanning every crowd for potential threats.",
+      "publishedAt": "2026-10-20T02:54:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq398rk4p3exo"
+        }
+      ]
+    },
+    {
+      "id": "309fbb202a21292b6626",
+      "category": "finance",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land.",
+      "publishedAt": "2026-10-19T21:30:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno"
+        }
+      ]
+    },
+    {
+      "id": "d59392938f21cb3a0aed",
+      "category": "politics",
+      "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
+      "summary": "The blaze that killed four men and injured dozens of others spread with alarming speed, accounts suggest.",
+      "publishedAt": "2026-10-20T01:52:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckj0ly6qnp1lo"
+        }
+      ]
+    },
+    {
+      "id": "50fed9eaa30357c41e08",
+      "category": "finance",
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "publishedAt": "2026-10-19T18:21:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
+        }
+      ]
+    },
+    {
+      "id": "008676cdd25ab7dc7c1d",
+      "category": "politics",
+      "title": "US church on frontline of battle against drug known as 'tranq'",
+      "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape.",
+      "publishedAt": "2026-10-20T00:02:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno"
+        }
+      ]
+    },
+    {
+      "id": "9f627aa62b616a2654da",
+      "category": "finance",
+      "title": "Vinted blocks French looters listing stolen goods for sale",
+      "summary": "The platform said since the weekend it had \"taken immediate action to idenitify and remove listings linked to looting\".",
+      "publishedAt": "2026-10-19T16:46:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xzrljv72ro"
+        }
+      ]
+    },
+    {
+      "id": "6e3b6396bc2fd99a0405",
+      "category": "politics",
+      "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
+      "summary": "Will Fatima El Mansouri advance women’s rights amid religious and political barriers?",
+      "publishedAt": "2026-10-19T23:30:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o"
+        }
+      ]
+    },
+    {
+      "id": "a8b8acad71bf90ce9ae3",
+      "category": "finance",
+      "title": "Bikes 'not for jousting,' says Lime after duel video",
+      "summary": "Footage emerged on social media of hundreds of people gathered in east London to watch a bike joust.",
+      "publishedAt": "2026-10-19T15:44:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9zrdpg7256yo"
+        }
+      ]
+    },
+    {
+      "id": "c6bdc024e78c84cf696a",
+      "category": "politics",
+      "title": "Five ways El Niño is affecting the weather around the world",
+      "summary": "As the strongest El Niño on record continues to intensify, what impacts on weather patterns are already being felt across the globe? Sarah Keith-Lucas looks at the evidence.",
+      "publishedAt": "2026-10-19T23:08:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo"
+        }
+      ]
+    },
+    {
+      "id": "eb05fef0bbdb8c8794c7",
+      "category": "finance",
+      "title": "Home sellers cut asking prices on 3,000 properties a day",
+      "summary": "More property asking prices are being cut than at any time in 15 years, data shared with the BBC shows.",
+      "publishedAt": "2026-10-19T12:54:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c84g13z6xx4eo"
+        }
+      ]
+    },
+    {
+      "id": "17df576deca0156f59dc",
+      "category": "politics",
+      "title": "In pictures: Dussehra celebrated across India as triumph of good over evil",
+      "summary": "The festival, which commemorates the triumph of good over evil, is celebrated with different rituals across India.",
+      "publishedAt": "2026-10-19T23:04:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c98rzynj6e1yo"
+        }
+      ]
+    },
+    {
+      "id": "60734c95c7b112b56336",
+      "category": "finance",
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "publishedAt": "2026-10-19T12:16:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go"
+        }
+      ]
+    },
+    {
+      "id": "ccba34abeaa4428c7464",
+      "category": "politics",
+      "title": "Clean up begins after French riots but police remain",
+      "summary": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+      "publishedAt": "2026-10-19T21:30:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o"
+        }
+      ]
+    },
+    {
+      "id": "23b9e0857ac102f1243f",
+      "category": "finance",
+      "title": "People playing loud music on buses could face £100 fine",
+      "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage,",
+      "publishedAt": "2026-10-19T09:49:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo"
+        }
+      ]
+    },
+    {
+      "id": "19ae6e3efff263af579b",
+      "category": "politics",
+      "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+      "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+      "publishedAt": "2026-10-19T21:14:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo"
+        }
+      ]
+    }
+  ]
+}
