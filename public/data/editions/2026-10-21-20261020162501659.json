@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-20T16:25:01.659Z",
+  "coverageStart": "2026-10-19T16:25:01.659Z",
+  "coverageEnd": "2026-10-20T16:25:01.659Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "bf86908b2f3991ff3f17",
+      "category": "finance",
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
+      "publishedAt": "2026-10-20T15:53:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o"
+        }
+      ]
+    },
+    {
+      "id": "368406747bba8cb468d5",
+      "category": "politics",
+      "title": "Zelensky and US envoys holding Oslo talks as Rubio denies withholding intelligence",
+      "summary": "The US secretary of state earlier rejected accusations Ukrainians were dying because the US was withholding critical intelligence.",
+      "publishedAt": "2026-10-20T16:11:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9qzn193lrlo"
+        }
+      ]
+    },
+    {
+      "id": "ef73bf2ace8ac6719291",
+      "category": "ai",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "publishedAt": "2026-10-20T16:09:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/fairstress"
+        }
+      ]
+    },
+    {
+      "id": "5fa6064153466f815b63",
+      "category": "finance",
+      "title": "Union attacks NatWest plans to get workers back to the office",
+      "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
+      "publishedAt": "2026-10-20T14:50:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo"
+        }
+      ]
+    },
+    {
+      "id": "6d4ed8ca9229c348172c",
+      "category": "politics",
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "publishedAt": "2026-10-20T16:09:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo"
+        }
+      ]
+    },
+    {
+      "id": "536f23cd94f139849c62",
+      "category": "ai",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "publishedAt": "2026-10-20T15:19:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+        }
+      ]
+    },
+    {
+      "id": "60734c95c7b112b56336",
+      "category": "finance",
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "publishedAt": "2026-10-20T12:36:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go"
+        }
+      ]
+    },
+    {
+      "id": "5bc16de35720c3aa033f",
+      "category": "politics",
+      "title": "Suspect arrested after historic town hall set alight - French media",
+      "summary": "The spire of the clock tower at Limoges city hall dramatically collapsed as it was engulfed in flames on Saturday.",
+      "publishedAt": "2026-10-20T16:06:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo"
+        }
+      ]
+    },
+    {
+      "id": "39e60f901a735303e0c0",
+      "category": "ai",
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/hf-torchtpu"
+        }
+      ]
+    },
+    {
+      "id": "5b73e7e9b11f2a000329",
+      "category": "finance",
+      "title": "Jobless rate falls but small firms cut back hiring",
+      "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says.",
+      "publishedAt": "2026-10-20T11:26:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o"
+        }
+      ]
+    },
+    {
+      "id": "67e02307f1ba161537ea",
+      "category": "politics",
+      "title": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+      "publishedAt": "2026-10-20T15:58:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx297pxg1djo"
+        }
+      ]
+    },
+    {
+      "id": "41fb25a47d12d204a957",
+      "category": "ai",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
+        }
+      ]
+    },
+    {
+      "id": "9217cab9d37da73aeb3a",
+      "category": "finance",
+      "title": "£30 rise in payments for crisis-hit households",
+      "summary": "More money is made available through a resilience fund for hard-pressed households in Sheffield.",
+      "publishedAt": "2026-10-20T11:19:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c59vz71kxxgzo"
+        }
+      ]
+    },
+    {
+      "id": "8005b7397e79ca66ff2d",
+      "category": "politics",
+      "title": "Alberta votes overwhelmingly to remain part of Canada",
+      "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity.",
+      "publishedAt": "2026-10-20T15:45:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo"
+        }
+      ]
+    },
+    {
+      "id": "c2b4b68d7e0027f0e436",
+      "category": "ai",
+      "title": "MPS in PyTorch 2.15",
+      "summary": "",
+      "publishedAt": "2026-10-20T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/mps-pytorch-2-15"
+        }
+      ]
+    },
+    {
+      "id": "d87f7d76224fcaab800a",
+      "category": "finance",
+      "title": "'I'm fed up of swiping': The singles choosing dating events over apps",
+      "summary": "The BBC hears from people who think dating events are better value for money than dating apps.",
+      "publishedAt": "2026-10-20T10:28:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj62y9dnd6pwo"
+        }
+      ]
+    },
+    {
+      "id": "eaa910b025edcecf7530",
+      "category": "politics",
+      "title": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
+      "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
+      "publishedAt": "2026-10-20T14:09:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo"
+        }
+      ]
+    },
+    {
+      "id": "96549a4aa71766d42eea",
+      "category": "finance",
+      "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+      "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+      "publishedAt": "2026-10-20T10:06:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo"
+        }
+      ]
+    },
+    {
+      "id": "51f2ae701f04ac905230",
+      "category": "politics",
+      "title": "Huge setback for Alberta's separatist movement after decisive defeat",
+      "summary": "Leaders of the movement for independence vow to push on but the margin of defeat could make that difficult.",
+      "publishedAt": "2026-10-20T13:39:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjly016320q1o"
+        }
+      ]
+    },
+    {
+      "id": "309fbb202a21292b6626",
+      "category": "finance",
+      "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+      "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished.",
+      "publishedAt": "2026-10-20T08:55:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno"
+        }
+      ]
+    },
+    {
+      "id": "f4ccc1d28eb241ea4906",
+      "category": "politics",
+      "title": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "publishedAt": "2026-10-20T13:23:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo"
+        }
+      ]
+    }
+  ]
+}
