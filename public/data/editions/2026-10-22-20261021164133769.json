@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-21T16:41:33.769Z",
+  "coverageStart": "2026-10-20T16:41:33.769Z",
+  "coverageEnd": "2026-10-21T16:41:33.769Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "5cfe5d36de712deed9f1",
+      "category": "finance",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+      "publishedAt": "2026-10-21T15:58:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o"
+        }
+      ]
+    },
+    {
+      "id": "d144de760f4e7c0d4883",
+      "category": "politics",
+      "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+      "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+      "publishedAt": "2026-10-21T16:38:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o"
+        }
+      ]
+    },
+    {
+      "id": "5b4e08461387ba3b4483",
+      "category": "ai",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "publishedAt": "2026-10-21T16:04:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+        }
+      ]
+    },
+    {
+      "id": "9ea660120c306353afe0",
+      "category": "finance",
+      "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+      "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget.",
+      "publishedAt": "2026-10-21T10:20:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o"
+        }
+      ]
+    },
+    {
+      "id": "ab75446e91434d287ccc",
+      "category": "politics",
+      "title": "Family of prison officer killed by IRA receives state apology",
+      "summary": "Brian Stack was crossing a street in Dublin in 1983 when he was shot in the back of the neck and died 18 months later.",
+      "publishedAt": "2026-10-21T15:50:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck20rver1j31o"
+        }
+      ]
+    },
+    {
+      "id": "c2ed162a157709f5cb47",
+      "category": "ai",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "publishedAt": "2026-10-21T14:58:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+        }
+      ]
+    },
+    {
+      "id": "a5835755238efc4584cb",
+      "category": "finance",
+      "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+      "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+      "publishedAt": "2026-10-21T10:16:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o"
+        }
+      ]
+    },
+    {
+      "id": "ad964b76655eeca197c6",
+      "category": "politics",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "summary": "The comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
+      "publishedAt": "2026-10-21T14:04:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo"
+        }
+      ]
+    },
+    {
+      "id": "5c32755a71da49edb4fe",
+      "category": "ai",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "summary": "",
+      "publishedAt": "2026-10-21T12:51:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
+        }
+      ]
+    },
+    {
+      "id": "f78556f6b462cda7d342",
+      "category": "finance",
+      "title": "What is happening to UK prices?",
+      "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices.",
+      "publishedAt": "2026-10-21T08:35:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo"
+        }
+      ]
+    },
+    {
+      "id": "c23b6e0c24d5269208e3",
+      "category": "politics",
+      "title": "Nigeria confirms Ebola case linked to East Africa",
+      "summary": "The female patient, who sources have told the BBC is not Nigerian, is in isolation and in an Abuja hospital.",
+      "publishedAt": "2026-10-21T12:39:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm2l4xw7xpjgo"
+        }
+      ]
+    },
+    {
+      "id": "d4541ec34bc70aebe55c",
+      "category": "finance",
+      "title": "Watch: 'We don't pay' - lawyer advises how to avoid £45,000 illegal-worker fine",
+      "summary": "Mohammad Alias Yousaf made his claim to an undercover reporter posing as a mini-mart owner.",
+      "publishedAt": "2026-10-21T05:00:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cm93z1j33dkpo"
+        }
+      ]
+    },
+    {
+      "id": "ca8fcb54c9d7c1f0a883",
+      "category": "politics",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "publishedAt": "2026-10-21T09:55:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo"
+        }
+      ]
+    },
+    {
+      "id": "564a179f35018900f02b",
+      "category": "finance",
+      "title": "The tech helping crack decades-old cold cases",
+      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "publishedAt": "2026-10-20T23:13:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo"
+        }
+      ]
+    },
+    {
+      "id": "8e163373269495b7c2a9",
+      "category": "politics",
+      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "publishedAt": "2026-10-21T08:42:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o"
+        }
+      ]
+    },
+    {
+      "id": "84adda5b315e2945bbff",
+      "category": "finance",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "publishedAt": "2026-10-20T20:56:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo"
+        }
+      ]
+    },
+    {
+      "id": "80a45c96d84b683fc625",
+      "category": "politics",
+      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
+      "publishedAt": "2026-10-21T08:31:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o"
+        }
+      ]
+    },
+    {
+      "id": "19ac7d7901fc9bf007ef",
+      "category": "finance",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "publishedAt": "2026-10-20T19:42:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o"
+        }
+      ]
+    },
+    {
+      "id": "58fe62f8f894476efd07",
+      "category": "politics",
+      "title": "Huge crowds watch attempt to rescue shark stranded in South Korean canal",
+      "summary": "A third attempt has been made to guide the 9ft 10in (3m) shark back to the open sea.",
+      "publishedAt": "2026-10-21T08:19:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckq6n56e5qrqo"
+        }
+      ]
+    }
+  ]
+}
