@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-21T03:29:40.714Z",
+  "coverageStart": "2026-10-20T03:29:40.714Z",
+  "coverageEnd": "2026-10-21T03:29:40.714Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 20
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "564a179f35018900f02b",
+      "category": "finance",
+      "title": "The tech helping crack decades-old cold cases",
+      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
+      "publishedAt": "2026-10-20T23:13:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo"
+        }
+      ]
+    },
+    {
+      "id": "21814812d0141af4d344",
+      "category": "politics",
+      "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
+      "publishedAt": "2026-10-21T02:37:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo"
+        }
+      ]
+    },
+    {
+      "id": "e8a8161ff83426ef4f6b",
+      "category": "ai",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "summary": "",
+      "publishedAt": "2026-10-20T18:17:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+        }
+      ]
+    },
+    {
+      "id": "84adda5b315e2945bbff",
+      "category": "finance",
+      "title": "Audit regulator looking into Manchester City accounting",
+      "summary": "No formal investigation has started, but the regulator is making inquiries into the case.",
+      "publishedAt": "2026-10-20T20:56:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo"
+        }
+      ]
+    },
+    {
+      "id": "1e7f1192cfebe8b991b1",
+      "category": "politics",
+      "title": "France is divided over who to blame for and what to learn from weekend riots",
+      "summary": "In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.",
+      "publishedAt": "2026-10-21T01:22:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o"
+        }
+      ]
+    },
+    {
+      "id": "ef73bf2ace8ac6719291",
+      "category": "ai",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "summary": "",
+      "publishedAt": "2026-10-20T16:09:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/fairstress"
+        }
+      ]
+    },
+    {
+      "id": "19ac7d7901fc9bf007ef",
+      "category": "finance",
+      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
+      "publishedAt": "2026-10-20T19:42:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o"
+        }
+      ]
+    },
+    {
+      "id": "22982bf6642b55806da5",
+      "category": "politics",
+      "title": "Borneo burning: Life on the frontline of South East Asia's toxic haze",
+      "summary": "A \"Super El Niño\" has fuelled months-long fires in Indonesia, making hundreds of thousands of people sick.",
+      "publishedAt": "2026-10-20T23:51:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2dzwdmmywo"
+        }
+      ]
+    },
+    {
+      "id": "536f23cd94f139849c62",
+      "category": "ai",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "summary": "",
+      "publishedAt": "2026-10-20T15:19:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+        }
+      ]
+    },
+    {
+      "id": "360fe975d2a59dee33f1",
+      "category": "finance",
+      "title": "Google resolves cloud outage affecting UK banks and websites",
+      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+      "publishedAt": "2026-10-20T18:03:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo"
+        }
+      ]
+    },
+    {
+      "id": "ca8fcb54c9d7c1f0a883",
+      "category": "politics",
+      "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+      "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people.",
+      "publishedAt": "2026-10-20T23:41:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo"
+        }
+      ]
+    },
+    {
+      "id": "f09d53ca372000dd7a9a",
+      "category": "finance",
+      "title": "UK government to make Jackdaw gas field announcement",
+      "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "publishedAt": "2026-10-20T17:33:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o"
+        }
+      ]
+    },
+    {
+      "id": "8e163373269495b7c2a9",
+      "category": "politics",
+      "title": "Elon Musk says Tesla-SpaceX merger being considered",
+      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
+      "publishedAt": "2026-10-20T23:24:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o"
+        }
+      ]
+    },
+    {
+      "id": "bf86908b2f3991ff3f17",
+      "category": "finance",
+      "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+      "summary": "The government increased taxes on online casino and sports betting in last year's Budget.",
+      "publishedAt": "2026-10-20T15:53:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o"
+        }
+      ]
+    },
+    {
+      "id": "c1b987e3b0213bdaf65c",
+      "category": "politics",
+      "title": "Is Donald Trump ready to do business with Myanmar?",
+      "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah.",
+      "publishedAt": "2026-10-20T23:21:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno"
+        }
+      ]
+    },
+    {
+      "id": "5fa6064153466f815b63",
+      "category": "finance",
+      "title": "Union attacks NatWest plans to get workers back to the office",
+      "summary": "The bank says workers will be required to attend the office at least two days a week from February.",
+      "publishedAt": "2026-10-20T14:50:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0qwnlgdvo"
+        }
+      ]
+    },
+    {
+      "id": "9d8a3242d75ae03c9cd7",
+      "category": "politics",
+      "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+      "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.",
+      "publishedAt": "2026-10-20T22:22:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo"
+        }
+      ]
+    },
+    {
+      "id": "60734c95c7b112b56336",
+      "category": "finance",
+      "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
+      "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own.",
+      "publishedAt": "2026-10-20T12:36:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go"
+        }
+      ]
+    },
+    {
+      "id": "00217a761512a04fc3f8",
+      "category": "politics",
+      "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+      "summary": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+      "publishedAt": "2026-10-20T21:27:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o"
+        }
+      ]
+    }
+  ]
+}
