@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-22T16:44:53.187Z",
+  "coverageStart": "2026-10-21T16:44:53.187Z",
+  "coverageEnd": "2026-10-22T16:44:53.187Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 36
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 21
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "error",
+      "note": "HTTP 404"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "0009045d5c0144c668d4",
+      "category": "finance",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+      "publishedAt": "2026-10-22T15:05:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro"
+        }
+      ]
+    },
+    {
+      "id": "e7476453d468e2c4aadb",
+      "category": "politics",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "publishedAt": "2026-10-22T16:40:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo"
+        }
+      ]
+    },
+    {
+      "id": "67297d2df9a3d7f196c3",
+      "category": "ai",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "publishedAt": "2026-10-22T16:11:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+        }
+      ]
+    },
+    {
+      "id": "39c52a362a40b39216f6",
+      "category": "finance",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "publishedAt": "2026-10-22T14:28:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo"
+        }
+      ]
+    },
+    {
+      "id": "862c09d3cad1f9778e5b",
+      "category": "politics",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "publishedAt": "2026-10-22T16:30:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o"
+        }
+      ]
+    },
+    {
+      "id": "0e5fad3ca5f8a881acf7",
+      "category": "ai",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:51:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+        }
+      ]
+    },
+    {
+      "id": "9bc4d4c42c8a04eda3de",
+      "category": "finance",
+      "title": "Tank barrel production returns to UK after 20 years",
+      "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+      "publishedAt": "2026-10-22T13:45:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o"
+        }
+      ]
+    },
+    {
+      "id": "59d66c7913d047b887f7",
+      "category": "politics",
+      "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "publishedAt": "2026-10-22T16:16:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno"
+        }
+      ]
+    },
+    {
+      "id": "94a5f6526eada9bc0f52",
+      "category": "ai",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "",
+      "publishedAt": "2026-10-21T18:26:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+        }
+      ]
+    },
+    {
+      "id": "2fed74c0d599b9e8cacb",
+      "category": "finance",
+      "title": "The Briefing Room",
+      "summary": "After mass protests and violence, what will persuade the French to accept economic reform?",
+      "publishedAt": "2026-10-22T13:19:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/m00333cg"
+        }
+      ]
+    },
+    {
+      "id": "bce20852791bd00cf1aa",
+      "category": "politics",
+      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+      "publishedAt": "2026-10-22T16:15:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego"
+        }
+      ]
+    },
+    {
+      "id": "40a01666d562060bfdf9",
+      "category": "ai",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "",
+      "publishedAt": "2026-10-21T17:35:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        }
+      ]
+    },
+    {
+      "id": "b6ca0d3209f48fb1f2b7",
+      "category": "finance",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "summary": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
+      "publishedAt": "2026-10-22T09:55:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o"
+        }
+      ]
+    },
+    {
+      "id": "c64f5b5dc18a7c765464",
+      "category": "politics",
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "publishedAt": "2026-10-22T15:56:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo"
+        }
+      ]
+    },
+    {
+      "id": "33f26ef3b3b753f62075",
+      "category": "finance",
+      "title": "Children in care to get £10 a week savings",
+      "summary": "Eligible people in the care system will be able to access the savings once they turn 18.",
+      "publishedAt": "2026-10-22T06:57:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0klve484o"
+        }
+      ]
+    },
+    {
+      "id": "3d6ad1edd4538a567551",
+      "category": "politics",
+      "title": "French weekend protests to be limited to union demos only, says Macron",
+      "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed.",
+      "publishedAt": "2026-10-22T15:22:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o"
+        }
+      ]
+    },
+    {
+      "id": "774fc5ef4373e1aa6267",
+      "category": "finance",
+      "title": "'I can't afford to heat my home on my pension'",
+      "summary": "Teresa Goubert says heating is \"very expensive\" and she was struggling on her pension.",
+      "publishedAt": "2026-10-22T05:24:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g19jnjgpno"
+        }
+      ]
+    },
+    {
+      "id": "c7702c6b33f786e73bd8",
+      "category": "politics",
+      "title": "Damaging hail pelts Phoenix in rare storm",
+      "summary": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
+      "publishedAt": "2026-10-22T15:11:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do"
+        }
+      ]
+    },
+    {
+      "id": "bfda0e01e33d7bf0a13b",
+      "category": "finance",
+      "title": "'An £8k service charge left me unable to pay bills'",
+      "summary": "Housing association Curo defends large increases to leaseholder bills.",
+      "publishedAt": "2026-10-22T05:19:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5ye6mvr33o"
+        }
+      ]
+    },
+    {
+      "id": "9695ecb215a97f480a5c",
+      "category": "politics",
+      "title": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
+      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
+      "publishedAt": "2026-10-22T14:33:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o"
+        }
+      ]
+    }
+  ]
+}
