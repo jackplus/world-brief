@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-22T03:29:03.263Z",
+  "coverageStart": "2026-10-21T03:29:03.263Z",
+  "coverageEnd": "2026-10-22T03:29:03.263Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "dee1b4590fdd76888fb9",
+      "category": "finance",
+      "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+      "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds.",
+      "publishedAt": "2026-10-21T23:27:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo"
+        }
+      ]
+    },
+    {
+      "id": "f24d714d5f4d7120018a",
+      "category": "politics",
+      "title": "The real reasons US politicians are getting older",
+      "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?",
+      "publishedAt": "2026-10-21T23:52:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno"
+        }
+      ]
+    },
+    {
+      "id": "94a5f6526eada9bc0f52",
+      "category": "ai",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "summary": "",
+      "publishedAt": "2026-10-21T18:26:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational"
+        }
+      ]
+    },
+    {
+      "id": "caef90e446db99fd3656",
+      "category": "finance",
+      "title": "The grads ditching the UK for a fresh start abroad",
+      "summary": "With graduate jobs hard to come by, more young adults are reported to be considering emigrating.",
+      "publishedAt": "2026-10-21T23:12:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo"
+        }
+      ]
+    },
+    {
+      "id": "ee633b2f4148e31d699b",
+      "category": "politics",
+      "title": "Trump's green card curbs test Indian tech workers' American dream",
+      "summary": "With immigration curbs and tech firms cutting foreign hiring, US residency is becoming a distant dream for many Indians.",
+      "publishedAt": "2026-10-21T23:06:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34j7dk771o"
+        }
+      ]
+    },
+    {
+      "id": "40a01666d562060bfdf9",
+      "category": "ai",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "summary": "",
+      "publishedAt": "2026-10-21T17:35:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
+        }
+      ]
+    },
+    {
+      "id": "182f4b506876c0dc721b",
+      "category": "finance",
+      "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+      "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November.",
+      "publishedAt": "2026-10-21T22:54:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o"
+        }
+      ]
+    },
+    {
+      "id": "2460336cbaf6f513dcad",
+      "category": "politics",
+      "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+      "summary": "Musk says there's \"a lot to be gained\" by combining the firms in what would be the biggest merger in history.",
+      "publishedAt": "2026-10-21T23:04:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do"
+        }
+      ]
+    },
+    {
+      "id": "5b4e08461387ba3b4483",
+      "category": "ai",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "summary": "",
+      "publishedAt": "2026-10-21T16:04:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
+        }
+      ]
+    },
+    {
+      "id": "73ecb0fc2dfa34a1bac0",
+      "category": "finance",
+      "title": "Websites taken down worldwide as critical cyber-security update issued",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "publishedAt": "2026-10-21T19:54:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o"
+        }
+      ]
+    },
+    {
+      "id": "019849d77f41fb42a101",
+      "category": "politics",
+      "title": "Vance tells Republicans to 'stop whining' about controversial Ohio attack ad",
+      "summary": "The ad by Ohio Republican Vivek Ramaswamy features his Democratic rival's estranged mother, who she has not seen since her stepfather was charged with sexual abuse in her childhood",
+      "publishedAt": "2026-10-21T22:59:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm98zn3l2rn7o"
+        }
+      ]
+    },
+    {
+      "id": "c2ed162a157709f5cb47",
+      "category": "ai",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "summary": "",
+      "publishedAt": "2026-10-21T14:58:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+        }
+      ]
+    },
+    {
+      "id": "7ada5d7e366fb0cc36db",
+      "category": "finance",
+      "title": "A warning to anyone with credit card debt...",
+      "summary": "Martin’s leading this week’s podcast with an urgent warning for anyone carrying credit card: now is the time to act.",
+      "publishedAt": "2026-10-21T17:06:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c620reny4e1no"
+        }
+      ]
+    },
+    {
+      "id": "76f6fa9eb0bdc2b469a3",
+      "category": "politics",
+      "title": "Why is a peat fire so bad? BBC is in Indonesia to find out",
+      "summary": "The BBC's Liza Tambunan is in central Kalimantan, to explain what peat is and why Indonesia is facing its worst wildfire season in a decade.",
+      "publishedAt": "2026-10-21T22:02:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2302xe931o"
+        }
+      ]
+    },
+    {
+      "id": "1d12b1d463cbd264a364",
+      "category": "finance",
+      "title": "Burnham proposes plan to cut standing charges from gas bills",
+      "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs.",
+      "publishedAt": "2026-10-21T17:06:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo"
+        }
+      ]
+    },
+    {
+      "id": "a8a66350ecf97d965dfa",
+      "category": "politics",
+      "title": "Japan is known for world-class events - but the Asian Games were chaotic",
+      "summary": "Hotel chaos, transport mishaps and diplomatic blunders cast a spotlight on organisers and the firm hired to deliver the games.",
+      "publishedAt": "2026-10-21T22:00:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvze414811jlo"
+        }
+      ]
+    },
+    {
+      "id": "c558687f1b019c9cc36e",
+      "category": "finance",
+      "title": "Just Eat apologises for AI food mistakes after social media ridicule",
+      "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
+      "publishedAt": "2026-10-21T17:04:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crz981p0klvgo"
+        }
+      ]
+    },
+    {
+      "id": "5309b3c7eec137b86573",
+      "category": "politics",
+      "title": "Meta fined $25bn for 'lies' over user data privacy",
+      "summary": "The fine is the largest to date against Facebook's owner, larger than an $18bn deal with California.",
+      "publishedAt": "2026-10-21T21:49:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo"
+        }
+      ]
+    },
+    {
+      "id": "5cfe5d36de712deed9f1",
+      "category": "finance",
+      "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+      "summary": "Kashim Chowdhury was contracted for 183 hours a week, more than the number of hours in seven days.",
+      "publishedAt": "2026-10-21T15:58:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o"
+        }
+      ]
+    },
+    {
+      "id": "d144de760f4e7c0d4883",
+      "category": "politics",
+      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+      "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "publishedAt": "2026-10-21T21:27:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o"
+        }
+      ]
+    }
+  ]
+}
