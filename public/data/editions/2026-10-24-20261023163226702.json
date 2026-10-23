@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T16:32:26.702Z",
+  "coverageStart": "2026-10-22T16:32:26.702Z",
+  "coverageEnd": "2026-10-23T16:32:26.702Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "6381c622eceb750aeb57",
+      "category": "finance",
+      "title": "The little-known investment Martin Lewis wants you to understand...",
+      "summary": "The little-known investment Martin Lewis wants you to understand",
+      "publishedAt": "2026-10-23T15:41:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o"
+        }
+      ]
+    },
+    {
+      "id": "d9c352ebea9b2ed0cda5",
+      "category": "politics",
+      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+      "summary": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
+      "publishedAt": "2026-10-23T16:19:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o"
+        }
+      ]
+    },
+    {
+      "id": "5d794c3788a3a4be0d42",
+      "category": "ai",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "",
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/litpivot"
+        }
+      ]
+    },
+    {
+      "id": "bd91719ca3221370aa3f",
+      "category": "finance",
+      "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
+      "summary": "Kashim Chowdhury denied being dishonest when not telling employers he had other jobs.",
+      "publishedAt": "2026-10-23T15:15:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo"
+        }
+      ]
+    },
+    {
+      "id": "6c27b5b96c5b1ee6beb9",
+      "category": "politics",
+      "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+      "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+      "publishedAt": "2026-10-23T16:17:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo"
+        }
+      ]
+    },
+    {
+      "id": "2b3f616d26d343fed778",
+      "category": "ai",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "summary": "",
+      "publishedAt": "2026-10-23T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+        }
+      ]
+    },
+    {
+      "id": "9e04d1bc9e1f6a05577c",
+      "category": "finance",
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "publishedAt": "2026-10-23T12:24:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o"
+        }
+      ]
+    },
+    {
+      "id": "03768b6c6acbe79f5f5a",
+      "category": "politics",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "summary": "Another 34 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "publishedAt": "2026-10-23T16:11:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o"
+        }
+      ]
+    },
+    {
+      "id": "51888f116f5b083740bc",
+      "category": "ai",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "",
+      "publishedAt": "2026-10-22T22:24:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+        }
+      ]
+    },
+    {
+      "id": "ad6ab140e1fd9109cbbc",
+      "category": "finance",
+      "title": "Island inflation rate rises to 3%, figures show",
+      "summary": "The rising cost of food and alcohol drives an increase in the inflation rate, figures show.",
+      "publishedAt": "2026-10-23T11:58:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmz6581p1ee8o"
+        }
+      ]
+    },
+    {
+      "id": "a88d989228e7af23522b",
+      "category": "politics",
+      "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "publishedAt": "2026-10-23T15:48:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo"
+        }
+      ]
+    },
+    {
+      "id": "d74ee4e8aad1791cb398",
+      "category": "finance",
+      "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+      "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England.",
+      "publishedAt": "2026-10-23T11:48:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o"
+        }
+      ]
+    },
+    {
+      "id": "a78c496904ced4670a0d",
+      "category": "politics",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "publishedAt": "2026-10-23T15:37:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-23T08:14:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "d6daa60d6bfaa2fc0b34",
+      "category": "politics",
+      "title": "Oil spill washes up on UAE beaches after tanker strike",
+      "summary": "Satellite images show oil spreading for miles along the coastline, threatening local marine wildlife",
+      "publishedAt": "2026-10-23T15:30:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey3n974g5o"
+        }
+      ]
+    },
+    {
+      "id": "8a6c148ab8a7425fa074",
+      "category": "finance",
+      "title": "The Indian workers filming their work to train AI",
+      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "publishedAt": "2026-10-23T08:04:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o"
+        }
+      ]
+    },
+    {
+      "id": "6e98d65038e4c58ec027",
+      "category": "politics",
+      "title": "US justice department investigating Corey Lewandowski over DHS role",
+      "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain.",
+      "publishedAt": "2026-10-23T14:58:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o"
+        }
+      ]
+    },
+    {
+      "id": "2e8d553b7ccf0f845e79",
+      "category": "finance",
+      "title": "Lights will stay on this winter, grid operator says after concerns",
+      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "publishedAt": "2026-10-23T06:47:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo"
+        }
+      ]
+    },
+    {
+      "id": "5f88133da5e65991b163",
+      "category": "politics",
+      "title": "PSG v Lyon moved as Paris prepares for more protests",
+      "summary": "Paris St-Germain's Ligue 1 match against Lyon at the Parc des Princes is pushed back 24 hours as the French capital prepares for another weekend of protests.",
+      "publishedAt": "2026-10-23T14:18:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cw8rz3eyn26po"
+        }
+      ]
+    }
+  ]
+}
