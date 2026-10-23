@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T03:33:57.646Z",
+  "coverageStart": "2026-10-22T03:33:57.646Z",
+  "coverageEnd": "2026-10-23T03:33:57.646Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 33
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "c915c054c57dbc83c328",
+      "category": "finance",
+      "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+      "summary": "Grandma Droniak, Nonna Gracie, Viv Truran and Barbara Costello have all found fame on social media in their later years.",
+      "publishedAt": "2026-10-22T23:20:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o"
+        }
+      ]
+    },
+    {
+      "id": "862c09d3cad1f9778e5b",
+      "category": "politics",
+      "title": "Trump ordered to answer questions under oath in BBC lawsuit",
+      "summary": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
+      "publishedAt": "2026-10-23T01:38:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o"
+        }
+      ]
+    },
+    {
+      "id": "51888f116f5b083740bc",
+      "category": "ai",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "summary": "",
+      "publishedAt": "2026-10-22T22:24:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+        }
+      ]
+    },
+    {
+      "id": "2e8d553b7ccf0f845e79",
+      "category": "finance",
+      "title": "Grid operator says lights will stay on this winter after concerns",
+      "summary": "The assurance from the National Energy System Operator comes amid concern from its engineers about their ability to ensure adequate supply.",
+      "publishedAt": "2026-10-22T23:04:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo"
+        }
+      ]
+    },
+    {
+      "id": "8ba9b65fdda0182764a5",
+      "category": "politics",
+      "title": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
+      "summary": "Officials compare working in Russia since its full-scale invasion of Ukraine to the Cold War era.",
+      "publishedAt": "2026-10-22T23:16:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj75p1xr7p7vo"
+        }
+      ]
+    },
+    {
+      "id": "67297d2df9a3d7f196c3",
+      "category": "ai",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "summary": "",
+      "publishedAt": "2026-10-22T16:11:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3"
+        }
+      ]
+    },
+    {
+      "id": "0009045d5c0144c668d4",
+      "category": "finance",
+      "title": "'I wasn't thinking straight' says five jobs civil servant",
+      "summary": "Kashim Chowdhury is accused of fraudulently juggling multiple public sector jobs.",
+      "publishedAt": "2026-10-22T15:05:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro"
+        }
+      ]
+    },
+    {
+      "id": "8ac360a3d53ce0768e4e",
+      "category": "politics",
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC investigation finds",
+      "summary": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "publishedAt": "2026-10-22T23:16:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo"
+        }
+      ]
+    },
+    {
+      "id": "0e5fad3ca5f8a881acf7",
+      "category": "ai",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "summary": "",
+      "publishedAt": "2026-10-22T07:51:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+        }
+      ]
+    },
+    {
+      "id": "39c52a362a40b39216f6",
+      "category": "finance",
+      "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+      "summary": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+      "publishedAt": "2026-10-22T14:28:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo"
+        }
+      ]
+    },
+    {
+      "id": "d0a9c589ec9c20e48c63",
+      "category": "politics",
+      "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+      "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
+      "publishedAt": "2026-10-22T22:27:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo"
+        }
+      ]
+    },
+    {
+      "id": "9bc4d4c42c8a04eda3de",
+      "category": "finance",
+      "title": "Tank barrel production returns to UK after 20 years",
+      "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces.",
+      "publishedAt": "2026-10-22T13:45:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o"
+        }
+      ]
+    },
+    {
+      "id": "d9c352ebea9b2ed0cda5",
+      "category": "politics",
+      "title": "Trump says Musk has restored access to Ukraine's Starlink network",
+      "summary": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+      "publishedAt": "2026-10-22T21:42:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o"
+        }
+      ]
+    },
+    {
+      "id": "2fed74c0d599b9e8cacb",
+      "category": "finance",
+      "title": "The Briefing Room",
+      "summary": "After mass protests and violence, what will persuade the French to accept economic reform?",
+      "publishedAt": "2026-10-22T13:19:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/m00333cg"
+        }
+      ]
+    },
+    {
+      "id": "f716e7a0c60958a75dd5",
+      "category": "politics",
+      "title": "New York bans horse-drawn carriages after 160 years over safety and abuse concerns",
+      "summary": "As the council voted to banish the carriages, views in Central Park were divided over the 160-year-old tradition.",
+      "publishedAt": "2026-10-22T20:49:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6qjnwd1pgjxo"
+        }
+      ]
+    },
+    {
+      "id": "b6ca0d3209f48fb1f2b7",
+      "category": "finance",
+      "title": "Woman 'scared to turn heating on' due to oil cost",
+      "summary": "Roslynn Garner-Gatley uses a hot water bottle bed socks and earlier bedtimes to stay warm.",
+      "publishedAt": "2026-10-22T09:55:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cmd7qr0ezrq7o"
+        }
+      ]
+    },
+    {
+      "id": "e7476453d468e2c4aadb",
+      "category": "politics",
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "summary": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "publishedAt": "2026-10-22T19:27:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo"
+        }
+      ]
+    },
+    {
+      "id": "33f26ef3b3b753f62075",
+      "category": "finance",
+      "title": "Children in care to get £10 a week savings",
+      "summary": "Eligible people in the care system will be able to access the savings once they turn 18.",
+      "publishedAt": "2026-10-22T06:57:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0klve484o"
+        }
+      ]
+    },
+    {
+      "id": "3d6ad1edd4538a567551",
+      "category": "politics",
+      "title": "Paris extends curfew as Marseille and Lyon ban protests after riots",
+      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
+      "publishedAt": "2026-10-22T19:25:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o"
+        }
+      ]
+    }
+  ]
+}
