@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-24T15:27:15.927Z",
+  "coverageStart": "2026-10-23T15:27:15.927Z",
+  "coverageEnd": "2026-10-24T15:27:15.927Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 8
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "2ba90cf3e987134e8e59",
+      "category": "finance",
+      "title": "Rising demand from families needing Christmas help",
+      "summary": "Charlotte Riley says more families are reaching out for help for a variety of reasons.",
+      "publishedAt": "2026-10-24T11:55:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8gjz4k7g6o"
+        }
+      ]
+    },
+    {
+      "id": "19ea7c9dd3ac8acc4d62",
+      "category": "politics",
+      "title": "Man arrested after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "summary": "Some 200 emergency personnel were deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany.",
+      "publishedAt": "2026-10-24T15:21:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo"
+        }
+      ]
+    },
+    {
+      "id": "5d794c3788a3a4be0d42",
+      "category": "ai",
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "summary": "",
+      "publishedAt": "2026-10-23T16:15:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/litpivot"
+        }
+      ]
+    },
+    {
+      "id": "bdc39db8a798aa915054",
+      "category": "finance",
+      "title": "Charity expects demand for Christmas present campaign",
+      "summary": "The campaign, run by Little Stars, is running from today until 4 December.",
+      "publishedAt": "2026-10-24T09:53:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj62yvqvxd4qo"
+        }
+      ]
+    },
+    {
+      "id": "b736c88e035d5ce4e6f8",
+      "category": "politics",
+      "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
+      "summary": "The ex-wife of Donald Trump Jr, with whom she shares five children, announced in May that she had been diagnosed with breast cancer.",
+      "publishedAt": "2026-10-24T14:45:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o"
+        }
+      ]
+    },
+    {
+      "id": "9d7bd278ec202a932409",
+      "category": "finance",
+      "title": "How does the UK state pension compare with other countries?",
+      "summary": "Do British pensioners have it better or worse than those in other countries?",
+      "publishedAt": "2026-10-24T00:09:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo"
+        }
+      ]
+    },
+    {
+      "id": "64ef784634d14fbc5006",
+      "category": "politics",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "publishedAt": "2026-10-24T12:12:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go"
+        }
+      ]
+    },
+    {
+      "id": "04dc76a187a72f9344f9",
+      "category": "finance",
+      "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+      "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+      "publishedAt": "2026-10-24T00:05:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo"
+        }
+      ]
+    },
+    {
+      "id": "b7c34eb5e4203826889d",
+      "category": "politics",
+      "title": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "publishedAt": "2026-10-24T09:46:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo"
+        }
+      ]
+    },
+    {
+      "id": "a51f3bb05a7b4384fa23",
+      "category": "finance",
+      "title": "Before you crank up the thermostat, try these tips to keep you and your home warmer for longer",
+      "summary": "Make draught excluders from socks, leave your oven door open after cooking and opt for lots of thin layers of clothing to stay warm.",
+      "publishedAt": "2026-10-23T23:50:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7yeed1ed7o"
+        }
+      ]
+    },
+    {
+      "id": "21bb3bb8c82bfaf1fbf5",
+      "category": "politics",
+      "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
+      "summary": "The children were subsequently rescued from the water, police say.",
+      "publishedAt": "2026-10-24T09:45:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o"
+        }
+      ]
+    },
+    {
+      "id": "6381c622eceb750aeb57",
+      "category": "finance",
+      "title": "The little-known investment Martin Lewis wants you to understand...",
+      "summary": "The little-known investment Martin Lewis wants you to understand",
+      "publishedAt": "2026-10-23T15:41:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c8ly0357prl7o"
+        }
+      ]
+    },
+    {
+      "id": "b774a94bed838672d303",
+      "category": "politics",
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "publishedAt": "2026-10-24T09:44:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o"
+        }
+      ]
+    },
+    {
+      "id": "eecd86c1a24e1e19116f",
+      "category": "politics",
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "summary": "Three people - two women and one man - have been released, and one person remains in custody, gardaí say.",
+      "publishedAt": "2026-10-24T09:38:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o"
+        }
+      ]
+    },
+    {
+      "id": "a88d989228e7af23522b",
+      "category": "politics",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "publishedAt": "2026-10-24T07:17:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo"
+        }
+      ]
+    }
+  ]
+}
