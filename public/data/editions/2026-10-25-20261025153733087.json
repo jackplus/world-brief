@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-25T15:37:33.087Z",
+  "coverageStart": "2026-10-24T15:37:33.087Z",
+  "coverageEnd": "2026-10-25T15:37:33.087Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 8
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "1211aff9d0e17d2f644e",
+      "category": "finance",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+      "publishedAt": "2026-10-25T10:03:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o"
+        }
+      ]
+    },
+    {
+      "id": "929a60962dc87402d992",
+      "category": "politics",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "publishedAt": "2026-10-25T15:32:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo"
+        }
+      ]
+    },
+    {
+      "id": "391d880c63c0160258b2",
+      "category": "finance",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "publishedAt": "2026-10-25T07:15:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro"
+        }
+      ]
+    },
+    {
+      "id": "834899fa5580d18ab0bd",
+      "category": "politics",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "publishedAt": "2026-10-25T14:39:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo"
+        }
+      ]
+    },
+    {
+      "id": "953a793ef3d2fba40210",
+      "category": "finance",
+      "title": "Heating oil costs 'more than double' ahead of winter",
+      "summary": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+      "publishedAt": "2026-10-25T07:12:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo"
+        }
+      ]
+    },
+    {
+      "id": "4022a1e3fdca0db895d6",
+      "category": "politics",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "publishedAt": "2026-10-25T10:55:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo"
+        }
+      ]
+    },
+    {
+      "id": "055b780f2392d1d2a7f0",
+      "category": "finance",
+      "title": "How families are cutting the cost of Halloween as spending grows",
+      "summary": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+      "publishedAt": "2026-10-25T07:09:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o"
+        }
+      ]
+    },
+    {
+      "id": "47e8a3a918892c640760",
+      "category": "politics",
+      "title": "More than 1,300 arrested as clashes follow another day of mass protests across France",
+      "summary": "Hundreds of thousands took part in demonstrations in France, with protests also taking place in other European countries.",
+      "publishedAt": "2026-10-25T10:38:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo"
+        }
+      ]
+    },
+    {
+      "id": "bb6ba79cf5ef2d7ab437",
+      "category": "finance",
+      "title": "Firms 'holding back' on new jobs ahead of Budget",
+      "summary": "Some businesses say they want to see employment costs come down in the October Budget.",
+      "publishedAt": "2026-10-25T07:06:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o"
+        }
+      ]
+    },
+    {
+      "id": "1274cfcb90c20a7da494",
+      "category": "politics",
+      "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+      "summary": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+      "publishedAt": "2026-10-25T09:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo"
+        }
+      ]
+    },
+    {
+      "id": "4bdbfe4940ccb9471c6b",
+      "category": "finance",
+      "title": "Will a new code end 'rip-off parking charges'?",
+      "summary": "The prime minister says a new code will end \"rip-off parking charges\" - but will it work?",
+      "publishedAt": "2026-10-25T07:05:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwe90z56ewo"
+        }
+      ]
+    },
+    {
+      "id": "5e347e15a3b00c5fdf64",
+      "category": "politics",
+      "title": "'I cannot teach you integrity': How employee theft is hurting small businesses in Africa",
+      "summary": "That Girl Boina's post about why she had closed her beauty parlour struck a nerve with other small business owners.",
+      "publishedAt": "2026-10-25T08:36:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmz98plpjzplo"
+        }
+      ]
+    },
+    {
+      "id": "6a5ee25bd1b5c8071d2f",
+      "category": "finance",
+      "title": "Budget 2026: No more fat to trim for 'squeezed middle'",
+      "summary": "As the chancellor finalises his first Budget, how are the \"squeezed middle\" feeling about costs?",
+      "publishedAt": "2026-10-25T06:21:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6gel54940qno"
+        }
+      ]
+    },
+    {
+      "id": "dbae4e96ceadf1c9a20f",
+      "category": "politics",
+      "title": "Why is Ukraine so reliant on Starlink and can Europe plug the gap?",
+      "summary": "Ukraine needs another satellite internet service, but a decent alternative to Elon Musk's network doesn't exist - yet.",
+      "publishedAt": "2026-10-25T05:45:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn97xe7ypo"
+        }
+      ]
+    },
+    {
+      "id": "a2365797604fd8f8cd6e",
+      "category": "finance",
+      "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+      "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table.",
+      "publishedAt": "2026-10-25T06:00:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o"
+        }
+      ]
+    },
+    {
+      "id": "fb58b8073e648ab3ed3a",
+      "category": "politics",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+      "publishedAt": "2026-10-25T05:15:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o"
+        }
+      ]
+    }
+  ]
+}
