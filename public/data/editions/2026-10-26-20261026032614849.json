@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T03:26:14.849Z",
+  "coverageStart": "2026-10-25T03:26:14.849Z",
+  "coverageEnd": "2026-10-26T03:26:14.849Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 13
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-26T02:16:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "4d9c7fe6a4645430714e",
+      "category": "politics",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+      "publishedAt": "2026-10-26T03:05:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo"
+        }
+      ]
+    },
+    {
+      "id": "bdc84abf4608177f889b",
+      "category": "finance",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "publishedAt": "2026-10-26T00:26:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o"
+        }
+      ]
+    },
+    {
+      "id": "c15e9b1a31d6cda99bb5",
+      "category": "politics",
+      "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+      "publishedAt": "2026-10-26T01:07:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo"
+        }
+      ]
+    },
+    {
+      "id": "15574f18d18dc55c4db3",
+      "category": "finance",
+      "title": "Data centre debate heats up ahead of US midterms - here's what you need to know",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "publishedAt": "2026-10-25T23:44:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo"
+        }
+      ]
+    },
+    {
+      "id": "e7c7c39a5f4493d804d0",
+      "category": "politics",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson.",
+      "publishedAt": "2026-10-25T22:11:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo"
+        }
+      ]
+    },
+    {
+      "id": "1211aff9d0e17d2f644e",
+      "category": "finance",
+      "title": "Budget to include £1bn for social and affordable housing",
+      "summary": "The move will take funding for the 10-year programme to more than £40bn.",
+      "publishedAt": "2026-10-25T10:03:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o"
+        }
+      ]
+    },
+    {
+      "id": "e9b6b2aaac1093937e7b",
+      "category": "politics",
+      "title": "Why Israel's election is one of the most important in its history",
+      "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports.",
+      "publishedAt": "2026-10-25T22:05:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo"
+        }
+      ]
+    },
+    {
+      "id": "391d880c63c0160258b2",
+      "category": "finance",
+      "title": "Rosebank: Life on the oil field at the centre of a political storm",
+      "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate.",
+      "publishedAt": "2026-10-25T07:15:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro"
+        }
+      ]
+    },
+    {
+      "id": "93aa7dc79eb76edf5cc8",
+      "category": "politics",
+      "title": "Death toll in Nigeria village raided by gunmen rises to 48, police say",
+      "summary": "Unidentified gunmen on motorcycles swooped on a remote village on Friday, looting shops and setting houses ablaze.",
+      "publishedAt": "2026-10-25T19:14:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do"
+        }
+      ]
+    },
+    {
+      "id": "953a793ef3d2fba40210",
+      "category": "finance",
+      "title": "Heating oil costs 'more than double' ahead of winter",
+      "summary": "Middleton in Teesdale has no mains gas supply so many residents use expensive heating oil.",
+      "publishedAt": "2026-10-25T07:12:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8de1jgrdvo"
+        }
+      ]
+    },
+    {
+      "id": "929a60962dc87402d992",
+      "category": "politics",
+      "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
+      "summary": "He will be observed to evaluate whether his \"psychiatric health is compatible with pursuing his interrogation\", authorities said.",
+      "publishedAt": "2026-10-25T15:32:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo"
+        }
+      ]
+    },
+    {
+      "id": "055b780f2392d1d2a7f0",
+      "category": "finance",
+      "title": "How families are cutting the cost of Halloween as spending grows",
+      "summary": "Families are turning to homemade costumes, swaps and second-hand outfits to keep it affordable.",
+      "publishedAt": "2026-10-25T07:09:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1kjgrl47o"
+        }
+      ]
+    },
+    {
+      "id": "834899fa5580d18ab0bd",
+      "category": "politics",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "summary": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
+      "publishedAt": "2026-10-25T14:39:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo"
+        }
+      ]
+    },
+    {
+      "id": "bb6ba79cf5ef2d7ab437",
+      "category": "finance",
+      "title": "Firms 'holding back' on new jobs ahead of Budget",
+      "summary": "Some businesses say they want to see employment costs come down in the October Budget.",
+      "publishedAt": "2026-10-25T07:06:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c62kep355q02o"
+        }
+      ]
+    },
+    {
+      "id": "4022a1e3fdca0db895d6",
+      "category": "politics",
+      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
+      "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
+      "publishedAt": "2026-10-25T10:55:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo"
+        }
+      ]
+    }
+  ]
+}
