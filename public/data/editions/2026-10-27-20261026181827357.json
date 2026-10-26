@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-26T18:18:27.357Z",
+  "coverageStart": "2026-10-25T18:18:27.357Z",
+  "coverageEnd": "2026-10-26T18:18:27.357Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 8
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "error",
+      "note": "HTTP 404"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "512576157a5827fd9d98",
+      "category": "finance",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "publishedAt": "2026-10-26T17:20:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o"
+        }
+      ]
+    },
+    {
+      "id": "a5fc1f67c238147dd479",
+      "category": "politics",
+      "title": "Algeria to send troops to Niger in first foreign deployment since 1973",
+      "summary": "The troops are expected to protect energy facilities in northern Niger, near the Libyan border.",
+      "publishedAt": "2026-10-26T17:00:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g14n1e5wko"
+        }
+      ]
+    },
+    {
+      "id": "31cab119eb33e1c9fb9e",
+      "category": "finance",
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+      "publishedAt": "2026-10-26T10:48:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo"
+        }
+      ]
+    },
+    {
+      "id": "da2d4172fbe746a7351f",
+      "category": "politics",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "publishedAt": "2026-10-26T16:49:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo"
+        }
+      ]
+    },
+    {
+      "id": "51f7cd601a137f683766",
+      "category": "finance",
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+      "publishedAt": "2026-10-26T10:28:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o"
+        }
+      ]
+    },
+    {
+      "id": "c243bf8a099fd13f7e93",
+      "category": "politics",
+      "title": "More than 60 Christians killed in Ethiopia 'massacre', church official says",
+      "summary": "One resident, whose 75-year-old father was killed, described it as an ambush, saying they were surrounded.",
+      "publishedAt": "2026-10-26T16:31:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g175dgdx2o"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-26T02:16:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "632a5a5e22e22a74ae63",
+      "category": "politics",
+      "title": "Israel and the US are both going to the polls - the consequences will be global",
+      "summary": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+      "publishedAt": "2026-10-26T16:30:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo"
+        }
+      ]
+    },
+    {
+      "id": "bdc84abf4608177f889b",
+      "category": "finance",
+      "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
+      "summary": "The economic is positive now but come January things could become trickier for the Labour government",
+      "publishedAt": "2026-10-26T00:26:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o"
+        }
+      ]
+    },
+    {
+      "id": "756497bb459272c1143f",
+      "category": "politics",
+      "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+      "summary": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "publishedAt": "2026-10-26T16:27:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo"
+        }
+      ]
+    },
+    {
+      "id": "15574f18d18dc55c4db3",
+      "category": "finance",
+      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
+      "summary": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
+      "publishedAt": "2026-10-25T23:44:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo"
+        }
+      ]
+    },
+    {
+      "id": "ed022d21805e457489ae",
+      "category": "politics",
+      "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+      "summary": "Two bishops in images that show them praying with Trump have said they believed the meeting was private.",
+      "publishedAt": "2026-10-26T15:46:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o"
+        }
+      ]
+    },
+    {
+      "id": "ed5802aae1298328849f",
+      "category": "finance",
+      "title": "Business Daily",
+      "summary": "A Chinese export surge has implications far beyond its borders",
+      "publishedAt": "2026-10-25T19:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8ggp"
+        }
+      ]
+    },
+    {
+      "id": "c196bc83827a30800288",
+      "category": "politics",
+      "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+      "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played.",
+      "publishedAt": "2026-10-26T15:45:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o"
+        }
+      ]
+    },
+    {
+      "id": "9a8875ba6205141acd08",
+      "category": "politics",
+      "title": "How 'Lula's Army' WhatsApp channel helped turn Brazil election around",
+      "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation.",
+      "publishedAt": "2026-10-26T15:37:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo"
+        }
+      ]
+    }
+  ]
+}
