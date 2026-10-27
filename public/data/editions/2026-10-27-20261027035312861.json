@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-27T03:53:12.861Z",
+  "coverageStart": "2026-10-26T03:53:12.861Z",
+  "coverageEnd": "2026-10-27T03:53:12.861Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 8
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "486c0ba2d79e57fd0f63",
+      "category": "finance",
+      "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+      "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+      "publishedAt": "2026-10-27T01:57:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno"
+        }
+      ]
+    },
+    {
+      "id": "54582949484aca817251",
+      "category": "politics",
+      "title": "Jay-Z to perform at Super Bowl half-time show",
+      "summary": "Jay-Z has been involved with the show for years but has never before performed at the NFL championship game.",
+      "publishedAt": "2026-10-27T03:10:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo"
+        }
+      ]
+    },
+    {
+      "id": "a0122bbb50c5d7c662d9",
+      "category": "finance",
+      "title": "Apple says it will replace iPhone Duo handsets with screen problems",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "publishedAt": "2026-10-27T01:48:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo"
+        }
+      ]
+    },
+    {
+      "id": "9440956dc4f8d539b0e7",
+      "category": "politics",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "summary": "The attack on a village in Syria killed five people, including women and children, Syrian health officials said.",
+      "publishedAt": "2026-10-27T02:40:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo"
+        }
+      ]
+    },
+    {
+      "id": "cd07b92b37248d2bea2d",
+      "category": "finance",
+      "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
+      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "publishedAt": "2026-10-27T00:01:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo"
+        }
+      ]
+    },
+    {
+      "id": "8bdd49ce3f74207cec40",
+      "category": "politics",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "summary": "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "publishedAt": "2026-10-27T02:01:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo"
+        }
+      ]
+    },
+    {
+      "id": "512576157a5827fd9d98",
+      "category": "finance",
+      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
+      "publishedAt": "2026-10-26T19:57:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o"
+        }
+      ]
+    },
+    {
+      "id": "c0b330a910ef128c1e0e",
+      "category": "politics",
+      "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
+      "summary": "Machado returns with Trump's blessing, even if Washington is happy with Venezuela's existing leader - at least for the time being.",
+      "publishedAt": "2026-10-27T00:31:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o"
+        }
+      ]
+    },
+    {
+      "id": "31cab119eb33e1c9fb9e",
+      "category": "finance",
+      "title": "Salon owners urge Budget VAT cut as staffing pressures grow",
+      "summary": "Marcus Perkins, who owns a hair and beauty salon in Brierley Hill, says he is scared for the future.",
+      "publishedAt": "2026-10-26T10:48:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo"
+        }
+      ]
+    },
+    {
+      "id": "0e42f0ce2f6b445216a7",
+      "category": "politics",
+      "title": "'Maxxing' selected as Dictionary.com word of the year",
+      "summary": "\"Whatever we're doing, we want to push it further,\" said an expert on why Americans are embracing the term, which is short for maximising.",
+      "publishedAt": "2026-10-26T21:31:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4xwp22xyqo"
+        }
+      ]
+    },
+    {
+      "id": "51f7cd601a137f683766",
+      "category": "finance",
+      "title": "Healey to shield low-income pensioners from income tax in the Budget",
+      "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+      "publishedAt": "2026-10-26T10:28:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o"
+        }
+      ]
+    },
+    {
+      "id": "da2d4172fbe746a7351f",
+      "category": "politics",
+      "title": "Lula wins fourth term in dramatic Brazil election comeback",
+      "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Flávio Bolsonaro.",
+      "publishedAt": "2026-10-26T21:02:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo"
+        }
+      ]
+    },
+    {
+      "id": "85fdce1232a6e4e7df06",
+      "category": "politics",
+      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+      "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
+      "publishedAt": "2026-10-26T19:27:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo"
+        }
+      ]
+    },
+    {
+      "id": "ec1f73e3212d1a4dc777",
+      "category": "politics",
+      "title": "Pope's South American trip to go ahead as planned after lung cancer surgery",
+      "summary": "The Pope underwent surgery in to remove a tumour on the lower part of his right lung and is gradually resuming his duties.",
+      "publishedAt": "2026-10-26T18:46:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjr4y5rq46p2o"
+        }
+      ]
+    }
+  ]
+}
