@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-27T17:32:15.618Z",
+  "coverageStart": "2026-10-26T17:32:15.618Z",
+  "coverageEnd": "2026-10-27T17:32:15.618Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 20
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "486c0ba2d79e57fd0f63",
+      "category": "finance",
+      "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+      "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+      "publishedAt": "2026-10-27T15:01:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno"
+        }
+      ]
+    },
+    {
+      "id": "c45f940146a027a42e45",
+      "category": "politics",
+      "title": "Nanotyrannus skeleton auctioned for $47.3m in New York",
+      "summary": "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.",
+      "publishedAt": "2026-10-27T17:10:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx28de233r2o"
+        }
+      ]
+    },
+    {
+      "id": "1c5b51464767c2ad2949",
+      "category": "ai",
+      "title": "Build specialized multimodal models with LFM3",
+      "summary": "",
+      "publishedAt": "2026-10-27T17:16:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3"
+        }
+      ]
+    },
+    {
+      "id": "ba9c6709e6c604e2c99e",
+      "category": "finance",
+      "title": "How the beauty industry is boosting High Streets",
+      "summary": "Marie Camara believes beauty and personal care businesses play a key role in supporting high streets.",
+      "publishedAt": "2026-10-27T14:35:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cmr4y51lp5zko"
+        }
+      ]
+    },
+    {
+      "id": "5534a575653feda622ab",
+      "category": "politics",
+      "title": "Flávio Bolsonaro's passports cancelled after he fails to surrender them",
+      "summary": "The defeated presidential candidate is under investigation for alleged money laundering and barred from leaving Brazil.",
+      "publishedAt": "2026-10-27T17:08:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o"
+        }
+      ]
+    },
+    {
+      "id": "1d6c5c59e46e52b936cb",
+      "category": "ai",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "summary": "",
+      "publishedAt": "2026-10-27T16:12:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench"
+        }
+      ]
+    },
+    {
+      "id": "cd07b92b37248d2bea2d",
+      "category": "finance",
+      "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+      "summary": "People earning from £380 a month to £150,000 a year tell the BBC what they want to see in this year's Budget.",
+      "publishedAt": "2026-10-27T13:08:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo"
+        }
+      ]
+    },
+    {
+      "id": "d639e620c02ea549725a",
+      "category": "politics",
+      "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+      "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "publishedAt": "2026-10-27T17:00:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o"
+        }
+      ]
+    },
+    {
+      "id": "456a5cfdcb138eec8b48",
+      "category": "finance",
+      "title": "First-time buyer wary of Budget housing loan scheme",
+      "summary": "Luke Anstee has been saving for three years but says rising living costs make home ownership harder.",
+      "publishedAt": "2026-10-27T12:05:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxwznv4kyyo"
+        }
+      ]
+    },
+    {
+      "id": "467e8c2001046fec5781",
+      "category": "politics",
+      "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+      "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\".",
+      "publishedAt": "2026-10-27T16:11:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "What is the Budget and what could be in it?",
+      "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+      "publishedAt": "2026-10-27T11:06:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "abddb2911e3844045e26",
+      "category": "politics",
+      "title": "West warns of famine risk in Sudan as civil war grinds on",
+      "summary": "Millions face acute hunger in Sudan as conflict, drought and funding cuts aggravate the humanitarian crisis.",
+      "publishedAt": "2026-10-27T15:41:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynkk6v3pzo"
+        }
+      ]
+    },
+    {
+      "id": "a0122bbb50c5d7c662d9",
+      "category": "finance",
+      "title": "Apple to replace iPhone Duos affected by screen problem",
+      "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
+      "publishedAt": "2026-10-27T09:37:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo"
+        }
+      ]
+    },
+    {
+      "id": "4e43fe007903ba78d56c",
+      "category": "politics",
+      "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+      "summary": "The Oleshky ceasefire, which the White House said was secured by US First Lady Melania Trump, is meant to allow aid to get in and civilians to get out.",
+      "publishedAt": "2026-10-27T15:13:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo"
+        }
+      ]
+    },
+    {
+      "id": "b8f450b80c909e3d4bf5",
+      "category": "finance",
+      "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+      "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks.",
+      "publishedAt": "2026-10-27T06:33:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o"
+        }
+      ]
+    },
+    {
+      "id": "921b240563f7e028c029",
+      "category": "politics",
+      "title": "Ballon d'Or ceremony raises case of French sports journalist jailed in Algeria",
+      "summary": "He is in jail accused of supporting terrorism after travelling to the politically sensitive region Kabylie.",
+      "publishedAt": "2026-10-27T14:29:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2qgyqr79wo"
+        }
+      ]
+    },
+    {
+      "id": "b0646be8190fa6efb391",
+      "category": "finance",
+      "title": "Will the Budget pass Burnham's Makerfield test?",
+      "summary": "People in the prime minister's constituency say rising costs are squeezing household finances.",
+      "publishedAt": "2026-10-27T06:17:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx1e9ylv1o"
+        }
+      ]
+    },
+    {
+      "id": "7a5a445a59c350b82ca0",
+      "category": "politics",
+      "title": "Norway and Finland leaders hold rare call with Putin",
+      "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year.",
+      "publishedAt": "2026-10-27T14:23:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo"
+        }
+      ]
+    }
+  ]
+}
