@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-28T17:56:36.090Z",
+  "coverageStart": "2026-10-27T17:56:36.090Z",
+  "coverageEnd": "2026-10-28T17:56:36.090Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "85ecfa9c858635129f25",
+      "category": "finance",
+      "title": "Healey tells departments to make 1% cuts to fund defence",
+      "summary": "The reduction in public spending will go towards paying for the Defence Investment Plan.",
+      "publishedAt": "2026-10-28T17:52:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o"
+        }
+      ]
+    },
+    {
+      "id": "efde69e8a22c8d9436f1",
+      "category": "politics",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "publishedAt": "2026-10-28T16:59:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
+        }
+      ]
+    },
+    {
+      "id": "ec733f799e1aaee3d1ac",
+      "category": "ai",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "",
+      "publishedAt": "2026-10-28T14:58:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        }
+      ]
+    },
+    {
+      "id": "d7c39d6dae4b3b3af9f5",
+      "category": "finance",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "summary": "Here is what you need to know about the payment that millions will receive from January.",
+      "publishedAt": "2026-10-28T17:47:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o"
+        }
+      ]
+    },
+    {
+      "id": "8dd9a30cf4cd083a6d67",
+      "category": "politics",
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "summary": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "publishedAt": "2026-10-28T16:45:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo"
+        }
+      ]
+    },
+    {
+      "id": "397a4e743157fc4baced",
+      "category": "finance",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "publishedAt": "2026-10-28T17:32:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo"
+        }
+      ]
+    },
+    {
+      "id": "02712847491e739a4c5c",
+      "category": "politics",
+      "title": "What we know so far about deadly Spain train crash",
+      "summary": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+      "publishedAt": "2026-10-28T15:36:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo"
+        }
+      ]
+    },
+    {
+      "id": "dfd90cb43460fb7c41a3",
+      "category": "finance",
+      "title": "Budget 2026: Key points at a glance",
+      "summary": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+      "publishedAt": "2026-10-28T16:55:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno"
+        }
+      ]
+    },
+    {
+      "id": "aa2a283991e5159f010c",
+      "category": "politics",
+      "title": "How could Israel break election deadlock? Here are four scenarios",
+      "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections.",
+      "publishedAt": "2026-10-28T14:30:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo"
+        }
+      ]
+    },
+    {
+      "id": "85e10aa2e2613e3aa92e",
+      "category": "finance",
+      "title": "The one thing that didn't change that will affect your pay the most",
+      "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years.",
+      "publishedAt": "2026-10-28T16:55:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o"
+        }
+      ]
+    },
+    {
+      "id": "9c0665a99499c36ae40c",
+      "category": "politics",
+      "title": "Israel's election result is messy - here's why",
+      "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "publishedAt": "2026-10-28T14:26:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno"
+        }
+      ]
+    },
+    {
+      "id": "cf86273cd7155d7b9c1a",
+      "category": "finance",
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "publishedAt": "2026-10-28T16:43:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo"
+        }
+      ]
+    },
+    {
+      "id": "deb2309a0f80410017e2",
+      "category": "politics",
+      "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+      "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties.",
+      "publishedAt": "2026-10-28T10:35:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o"
+        }
+      ]
+    },
+    {
+      "id": "bb8245a91ad81640bf70",
+      "category": "finance",
+      "title": "How much is the minimum wage going up by?",
+      "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?",
+      "publishedAt": "2026-10-28T14:53:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro"
+        }
+      ]
+    },
+    {
+      "id": "41e5198fc33f0e254b93",
+      "category": "politics",
+      "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
+      "summary": "The Villa Vie Odyssey suspended its voyage and is working with passengers on \"temporary living arrangements\".",
+      "publishedAt": "2026-10-28T10:31:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwj342k62exyo"
+        }
+      ]
+    },
+    {
+      "id": "e674b29031a13e2eb468",
+      "category": "finance",
+      "title": "Chancellor begins to deliver his first Budget",
+      "summary": "The chancellor begins his speech by calling it a Budget for the \"working people of Britain, for British businesses big and small.\"",
+      "publishedAt": "2026-10-28T13:13:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cqn49vy2jlx0o"
+        }
+      ]
+    },
+    {
+      "id": "01126418748fca8d4608",
+      "category": "politics",
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "summary": "The energy minister described it as a \"major milestone\" for the East African nation.",
+      "publishedAt": "2026-10-28T10:18:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo"
+        }
+      ]
+    }
+  ]
+}
