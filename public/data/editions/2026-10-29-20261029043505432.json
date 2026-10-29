@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T04:35:05.432Z",
+  "coverageStart": "2026-10-28T04:35:05.432Z",
+  "coverageEnd": "2026-10-29T04:35:05.432Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "24dd61db10af48de433f",
+      "category": "finance",
+      "title": "Hello Kitty maker cuts ties with Japanese spy drama after China backlash",
+      "summary": "Sanrio has apologised after its merchandise line with Japanese TV series Vivant drew criticism.",
+      "publishedAt": "2026-10-29T03:16:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cry4x177jlnyo"
+        }
+      ]
+    },
+    {
+      "id": "02712847491e739a4c5c",
+      "category": "politics",
+      "title": "What we know so far about deadly Spain train crash",
+      "summary": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+      "publishedAt": "2026-10-29T04:08:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo"
+        }
+      ]
+    },
+    {
+      "id": "ec733f799e1aaee3d1ac",
+      "category": "ai",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "summary": "",
+      "publishedAt": "2026-10-28T14:58:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        }
+      ]
+    },
+    {
+      "id": "023e0e87e70a39e352e3",
+      "category": "finance",
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "publishedAt": "2026-10-29T01:27:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no"
+        }
+      ]
+    },
+    {
+      "id": "41b71a42d290e8eb4c39",
+      "category": "politics",
+      "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+      "summary": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+      "publishedAt": "2026-10-29T01:14:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo"
+        }
+      ]
+    },
+    {
+      "id": "cd07b92b37248d2bea2d",
+      "category": "finance",
+      "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+      "summary": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+      "publishedAt": "2026-10-29T00:00:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo"
+        }
+      ]
+    },
+    {
+      "id": "8038b29e00764e1075c1",
+      "category": "politics",
+      "title": "Girl seriously injured in wolf attack at German wildlife park",
+      "summary": "The eight-year-old was in an enclosure with other children and a staff member when she was attacked.",
+      "publishedAt": "2026-10-28T22:08:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c678prm55gzzo"
+        }
+      ]
+    },
+    {
+      "id": "c1593be0274c09c70999",
+      "category": "finance",
+      "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+      "summary": "Properties where someone has died in tragic circumstances can have big reductions in price.",
+      "publishedAt": "2026-10-29T00:00:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo"
+        }
+      ]
+    },
+    {
+      "id": "6a0b38de71f9638e6787",
+      "category": "politics",
+      "title": "High-speed train crash kills at least 68 people in Spain",
+      "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+      "publishedAt": "2026-10-28T21:38:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo"
+        }
+      ]
+    },
+    {
+      "id": "82058dbae646fd3169de",
+      "category": "finance",
+      "title": "Restaurants sceptical over 'garlic and gherkins' plan",
+      "summary": "Import tariffs on more than 100 items - including garlic, gherkins and plant-based milk - are being removed.",
+      "publishedAt": "2026-10-28T20:31:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm74pvzzke91o"
+        }
+      ]
+    },
+    {
+      "id": "aec161f401573d55c44b",
+      "category": "politics",
+      "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+      "summary": "Survivors of the train crash in Spain have spoken of their shock, panic and anger at the accident in Toledo province on Wednesday.",
+      "publishedAt": "2026-10-28T21:24:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o"
+        }
+      ]
+    },
+    {
+      "id": "6cdbd824f94c1602c565",
+      "category": "finance",
+      "title": "What we now know about the UK economy in four charts",
+      "summary": "The Office for Budget Responsibility says higher energy prices will impact everything from prices and living standards to economic growth.",
+      "publishedAt": "2026-10-28T20:08:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9x28350ly07o"
+        }
+      ]
+    },
+    {
+      "id": "2f19bd30f611fe568673",
+      "category": "politics",
+      "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+      "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs.",
+      "publishedAt": "2026-10-28T21:16:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo"
+        }
+      ]
+    },
+    {
+      "id": "5c7da103a6e1b4fbf294",
+      "category": "finance",
+      "title": "What the Budget offers for under 25s - and what it leaves out",
+      "summary": "The chancellor announced a series of measures which will impact under-25 year-olds from housing to minimum wage.",
+      "publishedAt": "2026-10-28T20:02:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo"
+        }
+      ]
+    },
+    {
+      "id": "911c5c87c882e840099a",
+      "category": "politics",
+      "title": "Israel's election deadlock is a sign of the country's deep divisions",
+      "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale.",
+      "publishedAt": "2026-10-28T20:53:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo"
+        }
+      ]
+    },
+    {
+      "id": "397a4e743157fc4baced",
+      "category": "finance",
+      "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+      "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options.",
+      "publishedAt": "2026-10-28T19:51:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo"
+        }
+      ]
+    },
+    {
+      "id": "05a9eb63bb3b808adc6d",
+      "category": "politics",
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "summary": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "publishedAt": "2026-10-28T20:44:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o"
+        }
+      ]
+    }
+  ]
+}
