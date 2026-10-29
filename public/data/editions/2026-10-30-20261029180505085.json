@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-29T18:05:05.085Z",
+  "coverageStart": "2026-10-28T18:05:05.085Z",
+  "coverageEnd": "2026-10-29T18:05:05.085Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "3f7d101fa6b9da6260c9",
+      "category": "finance",
+      "title": "Watch: Hundreds queue for city's new Lego store",
+      "summary": "Fans queued for hours ahead of the opening of a new Lego Store in Norwich.",
+      "publishedAt": "2026-10-29T17:10:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cw1m4k1nx5r0o"
+        }
+      ]
+    },
+    {
+      "id": "cf0f81ee50913d9d245d",
+      "category": "politics",
+      "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+      "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany.",
+      "publishedAt": "2026-10-29T17:02:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo"
+        }
+      ]
+    },
+    {
+      "id": "e508e29ae812fe586e8d",
+      "category": "ai",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "summary": "",
+      "publishedAt": "2026-10-29T13:37:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+        }
+      ]
+    },
+    {
+      "id": "fe307a28fe76a4db30f6",
+      "category": "finance",
+      "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+      "summary": "Poundland's bosses is filing a notice of intention to appoint administrators to the business.",
+      "publishedAt": "2026-10-29T17:01:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o"
+        }
+      ]
+    },
+    {
+      "id": "dee2478c30e865924003",
+      "category": "politics",
+      "title": "Alaska governor orders probe into Democratic campaign's alleged links to same-name candidate",
+      "summary": "The Republican governor was responding to allegations in the New York Times that Democrats recruited a spoiler candidate, Dan Sullivan.",
+      "publishedAt": "2026-10-29T16:26:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgx0zrpk6no"
+        }
+      ]
+    },
+    {
+      "id": "718617961cab3abcc8e8",
+      "category": "ai",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/announcing-project-protostar"
+        }
+      ]
+    },
+    {
+      "id": "c014204fcb9e9b56a1a7",
+      "category": "finance",
+      "title": "Faisal Islam: This Budget was micro and that was deliberate",
+      "summary": "Chancellor John Healey's plans fall short of radical action to create a promised new economic model.",
+      "publishedAt": "2026-10-29T15:48:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o"
+        }
+      ]
+    },
+    {
+      "id": "efde69e8a22c8d9436f1",
+      "category": "politics",
+      "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+      "summary": "With 99% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset.",
+      "publishedAt": "2026-10-29T15:47:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo"
+        }
+      ]
+    },
+    {
+      "id": "b6b30743068c26272d89",
+      "category": "ai",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/mistral-large4"
+        }
+      ]
+    },
+    {
+      "id": "22f2e13f93e77ae8989a",
+      "category": "finance",
+      "title": "Bereaved families will not face tax bill over pension delays under new rules",
+      "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault.",
+      "publishedAt": "2026-10-29T15:18:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo"
+        }
+      ]
+    },
+    {
+      "id": "a57f29265aabbfb8bbfd",
+      "category": "politics",
+      "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
+      "summary": "The defeated presidential candidate says he will lead the opposition from the US.",
+      "publishedAt": "2026-10-29T14:58:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o"
+        }
+      ]
+    },
+    {
+      "id": "6394645bd5105adc5435",
+      "category": "ai",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "summary": "",
+      "publishedAt": "2026-10-29T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/anydecisionmodel"
+        }
+      ]
+    },
+    {
+      "id": "cf86273cd7155d7b9c1a",
+      "category": "finance",
+      "title": "Your pay, energy bills and savings: How the Budget affects you",
+      "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+      "publishedAt": "2026-10-29T15:11:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo"
+        }
+      ]
+    },
+    {
+      "id": "1ddef1e3fa4fe934ab4f",
+      "category": "politics",
+      "title": "Watch: VHS tapes and computers handed to police as Thomas Markle is investigated",
+      "summary": "The BBC's Jonathan Head is in Cebu, reporting from outside the home where Markle resided.",
+      "publishedAt": "2026-10-29T14:49:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm0rlxxpng5eo"
+        }
+      ]
+    },
+    {
+      "id": "f243388ea4b407f32234",
+      "category": "finance",
+      "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+      "summary": "Instacart shoppers will be able to buy from 150,000 stores, compared to the 100,000 currently available on the platform, the firms said.",
+      "publishedAt": "2026-10-29T15:05:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo"
+        }
+      ]
+    },
+    {
+      "id": "0330742375c9f2067bf0",
+      "category": "politics",
+      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
+      "summary": "At least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
+      "publishedAt": "2026-10-29T14:17:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko"
+        }
+      ]
+    },
+    {
+      "id": "2c513f92053302e4567e",
+      "category": "finance",
+      "title": "The South West reacts to Budget announcements",
+      "summary": "Tourism and business leaders have been reacting to John Healey's first Budget as chancellor.",
+      "publishedAt": "2026-10-29T14:52:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm62yle1g2wyo"
+        }
+      ]
+    },
+    {
+      "id": "b5f2c8f40f17bbd46707",
+      "category": "politics",
+      "title": "Rock collapse kills two in Turkey's Cappadocia, local media reports",
+      "summary": "One of the region's famous rock formations, known as \"fairy chimneys\", reportedly collapsed outside an open-air museum.",
+      "publishedAt": "2026-10-29T13:44:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cknv08nvzld4o"
+        }
+      ]
+    },
+    {
+      "id": "c19f2a54b60c049d2ddf",
+      "category": "finance",
+      "title": "Island Energy: No plans to remove gas standing charge",
+      "summary": "The provider said any change would need support from the community, the regulator and government.",
+      "publishedAt": "2026-10-29T13:39:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7l1375d74o"
+        }
+      ]
+    },
+    {
+      "id": "67cc4f456a73776b50f9",
+      "category": "politics",
+      "title": "Philippine police obtain warrant to search Thomas Markle's devices",
+      "summary": "Images of child sexual abuse allegedly belonging to Meghan's father had reportedly been found in his former home in the Philippines.",
+      "publishedAt": "2026-10-29T13:25:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o"
+        }
+      ]
+    }
+  ]
+}
