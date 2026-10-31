@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T16:52:58.628Z",
+  "coverageStart": "2026-10-30T16:52:58.628Z",
+  "coverageEnd": "2026-10-31T16:52:58.628Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "40fc68e8104aac4cce4f",
+      "category": "finance",
+      "title": "Soaring cost of Halloween treats spooks shoppers",
+      "summary": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+      "publishedAt": "2026-10-30T21:34:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno"
+        }
+      ]
+    },
+    {
+      "id": "3fcb4a6e7e857697d997",
+      "category": "politics",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "Two analytics firms say they have robust intelligence pointing to a North Korean state-backed group as the likely culprit.",
+      "publishedAt": "2026-10-31T16:32:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+        }
+      ]
+    },
+    {
+      "id": "037154e824aaff256e14",
+      "category": "ai",
+      "title": "nemotron-halloween",
+      "summary": "",
+      "publishedAt": "2026-10-30T17:57:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+        }
+      ]
+    },
+    {
+      "id": "52d6520ebc2d3819b182",
+      "category": "finance",
+      "title": "City of London chief tops UK Black Powerlist",
+      "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+      "publishedAt": "2026-10-30T18:00:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo"
+        }
+      ]
+    },
+    {
+      "id": "9ada8b2c582f154e56f4",
+      "category": "politics",
+      "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+      "summary": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+      "publishedAt": "2026-10-31T15:50:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo"
+        }
+      ]
+    },
+    {
+      "id": "7b09170c717e80886926",
+      "category": "finance",
+      "title": "Binance's $6.3bn crypto hack biggest in history",
+      "summary": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+      "publishedAt": "2026-10-30T17:41:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o"
+        }
+      ]
+    },
+    {
+      "id": "5043acd4de6b175f8418",
+      "category": "politics",
+      "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+      "summary": "Government data shows that more than 10,000 people have contracted the rare virus.",
+      "publishedAt": "2026-10-31T15:16:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo"
+        }
+      ]
+    },
+    {
+      "id": "ce389f45285d618e3896",
+      "category": "politics",
+      "title": "Ethiopian PM puts ministers through military training",
+      "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions.",
+      "publishedAt": "2026-10-31T14:28:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o"
+        }
+      ]
+    },
+    {
+      "id": "67a81d7c26bcae7b4d7f",
+      "category": "politics",
+      "title": "Watch: Blood donors get a Halloween fright in Thailand",
+      "summary": "Thai Red Cross workers dressed up as part of a Halloween-themed blood drive in the country's capital Bangkok.",
+      "publishedAt": "2026-10-31T12:50:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmze42el49d9o"
+        }
+      ]
+    },
+    {
+      "id": "c4be8a86a27201ba5cdd",
+      "category": "politics",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "publishedAt": "2026-10-31T12:21:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo"
+        }
+      ]
+    },
+    {
+      "id": "28cbfdfcecb1dfaecb0d",
+      "category": "politics",
+      "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
+      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
+      "publishedAt": "2026-10-31T09:16:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo"
+        }
+      ]
+    },
+    {
+      "id": "8ff28fac4a2675ee9a1f",
+      "category": "politics",
+      "title": "Spain train disaster clouds Sánchez chances of re-election",
+      "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election.",
+      "publishedAt": "2026-10-31T05:44:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo"
+        }
+      ]
+    }
+  ]
+}
