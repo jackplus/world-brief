@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-31T04:18:20.056Z",
+  "coverageStart": "2026-10-30T04:18:20.056Z",
+  "coverageEnd": "2026-10-31T04:18:20.056Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 28
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "40fc68e8104aac4cce4f",
+      "category": "finance",
+      "title": "Soaring cost of Halloween treats spooks shoppers",
+      "summary": "The price of candy, especially chocolate, is up, and Halloween bargain hunters are searching for deals and ways to cut costs.",
+      "publishedAt": "2026-10-30T21:34:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno"
+        }
+      ]
+    },
+    {
+      "id": "e2ea646d3931cb75f306",
+      "category": "politics",
+      "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+      "summary": "A century-old paper mill in Témiscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work.",
+      "publishedAt": "2026-10-31T02:39:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o"
+        }
+      ]
+    },
+    {
+      "id": "037154e824aaff256e14",
+      "category": "ai",
+      "title": "nemotron-halloween",
+      "summary": "",
+      "publishedAt": "2026-10-30T17:57:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+        }
+      ]
+    },
+    {
+      "id": "52d6520ebc2d3819b182",
+      "category": "finance",
+      "title": "City of London chief tops UK Black Powerlist",
+      "summary": "Ian Thomas, who heads the City of London Corporation, tops the Black Powerlist in its 21st year.",
+      "publishedAt": "2026-10-30T18:00:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo"
+        }
+      ]
+    },
+    {
+      "id": "93ca2270d97f9d9cb1d4",
+      "category": "politics",
+      "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+      "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+      "publishedAt": "2026-10-31T02:12:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o"
+        }
+      ]
+    },
+    {
+      "id": "7b09170c717e80886926",
+      "category": "finance",
+      "title": "Binance's $6.3bn crypto hack biggest in history",
+      "summary": "Cryptocurrency giant Binance said on Thursday that $6.3bn (£4.7bn) of digital assets have been impacted by what is thought to be the biggest crypto hack on record.",
+      "publishedAt": "2026-10-30T17:41:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6m2dpz0yxn8o"
+        }
+      ]
+    },
+    {
+      "id": "9d8e8f06a00072e7fc13",
+      "category": "politics",
+      "title": "The Indian chef who brought curry to America - then vanished",
+      "summary": "Indian chef Ranji Smile opened America’s first Indian restaurant in 1901 - then became a fake prince.",
+      "publishedAt": "2026-10-31T02:02:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crm941n0413o"
+        }
+      ]
+    },
+    {
+      "id": "689ef199f3cbe6e23310",
+      "category": "finance",
+      "title": "Yorkshire Water boss resigns after firm downgraded",
+      "summary": "Nicola Shaw, who has led the company since 2022, will step down in January, it is announced.",
+      "publishedAt": "2026-10-30T16:04:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo"
+        }
+      ]
+    },
+    {
+      "id": "0a83b34961bf93588263",
+      "category": "politics",
+      "title": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "publishedAt": "2026-10-31T01:32:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o"
+        }
+      ]
+    },
+    {
+      "id": "f14704fe6ef602fdc0ed",
+      "category": "finance",
+      "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+      "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
+      "publishedAt": "2026-10-30T12:04:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o"
+        }
+      ]
+    },
+    {
+      "id": "d41c61efcc542c79efdd",
+      "category": "politics",
+      "title": "Global nature talks reach deal but money remains an issue",
+      "summary": "Countries have been trying to get a global agreement to halt nature decline back on track.",
+      "publishedAt": "2026-10-31T01:27:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo"
+        }
+      ]
+    },
+    {
+      "id": "852c3f0196b481f77c94",
+      "category": "finance",
+      "title": "Streeting denies 'kicking can down the road' in defence spending row",
+      "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms.",
+      "publishedAt": "2026-10-30T11:23:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o"
+        }
+      ]
+    },
+    {
+      "id": "4a7ae152e2638cb0a9fb",
+      "category": "politics",
+      "title": "Police deployed during stand-off over control of top Poland court",
+      "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them.",
+      "publishedAt": "2026-10-31T01:11:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o"
+        }
+      ]
+    },
+    {
+      "id": "8ee0110dd1087acc10e9",
+      "category": "finance",
+      "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+      "summary": "Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.",
+      "publishedAt": "2026-10-30T09:33:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o"
+        }
+      ]
+    },
+    {
+      "id": "c4be8a86a27201ba5cdd",
+      "category": "politics",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "publishedAt": "2026-10-31T00:40:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo"
+        }
+      ]
+    },
+    {
+      "id": "663f794f31d33de0cdae",
+      "category": "finance",
+      "title": "How video game remakes tap the power of nostalgia",
+      "summary": "Video games are good at triggering nostalgia, a key reason why classic games keep getting remade.",
+      "publishedAt": "2026-10-30T07:45:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo"
+        }
+      ]
+    },
+    {
+      "id": "54b48fe33b333a558ba0",
+      "category": "politics",
+      "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
+      "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race.",
+      "publishedAt": "2026-10-31T00:29:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo"
+        }
+      ]
+    }
+  ]
+}
