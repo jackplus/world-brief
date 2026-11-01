@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T04:38:13.642Z",
+  "coverageStart": "2026-10-31T04:38:13.642Z",
+  "coverageEnd": "2026-11-01T04:38:13.642Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "92379c7666a5cf29cbff",
+      "category": "politics",
+      "title": "Shops looted as German cost of living protests turn violent",
+      "summary": "Police in Frankfurt say \"violent riots\" took place in the city centre, with unrest also reported in Berlin, Hamburg and Cologne.",
+      "publishedAt": "2026-11-01T01:59:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o"
+        }
+      ]
+    },
+    {
+      "id": "ad5792ff4ff3ece8c0fc",
+      "category": "politics",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "publishedAt": "2026-11-01T01:37:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o"
+        }
+      ]
+    },
+    {
+      "id": "780a9111c6f863772973",
+      "category": "politics",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "publishedAt": "2026-11-01T00:55:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
+        }
+      ]
+    },
+    {
+      "id": "59922ce12db9668ca250",
+      "category": "politics",
+      "title": "India's opposition set to hold mega rally seeking election chief's resignation",
+      "summary": "It comes amid growing protests over a voter roll revision exercise feared to leave 130 million voters off rolls.",
+      "publishedAt": "2026-11-01T00:12:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo"
+        }
+      ]
+    },
+    {
+      "id": "43544352a770678b67c2",
+      "category": "politics",
+      "title": "I've been stuck on a tiny Pacific island for years and can't get a transit visa to fly home",
+      "summary": "Ruchira Ranasingha, 50, has been stranded in the Cook Islands since 2023 and wants to return to Sri Lanka.",
+      "publishedAt": "2026-10-31T23:06:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5npz5l5geo"
+        }
+      ]
+    },
+    {
+      "id": "3fcb4a6e7e857697d997",
+      "category": "politics",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "publishedAt": "2026-10-31T22:11:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+        }
+      ]
+    },
+    {
+      "id": "fdb74daff19e5ea848d2",
+      "category": "politics",
+      "title": "Thousands demonstrate in Paris as protests spread across Europe",
+      "summary": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
+      "publishedAt": "2026-10-31T21:29:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o"
+        }
+      ]
+    },
+    {
+      "id": "6553361a6571f332d48d",
+      "category": "politics",
+      "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+      "summary": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+      "publishedAt": "2026-10-31T19:22:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o"
+        }
+      ]
+    }
+  ]
+}
