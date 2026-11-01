@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-01T17:40:40.963Z",
+  "coverageStart": "2026-10-31T17:40:40.963Z",
+  "coverageEnd": "2026-11-01T17:40:40.963Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 6
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "fac43bdfc6e2e1754d04",
+      "category": "finance",
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+      "publishedAt": "2026-11-01T16:57:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko"
+        }
+      ]
+    },
+    {
+      "id": "59b82274b7b89ca83a91",
+      "category": "politics",
+      "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
+      "summary": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+      "publishedAt": "2026-11-01T17:06:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo"
+        }
+      ]
+    },
+    {
+      "id": "2bcf067ac23f31adbb22",
+      "category": "finance",
+      "title": "Energy bills help 'doesn't go far enough'",
+      "summary": "Families in the West Midlands say they are worried about paying winter energy bills.",
+      "publishedAt": "2026-11-01T07:15:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo"
+        }
+      ]
+    },
+    {
+      "id": "3fcb4a6e7e857697d997",
+      "category": "politics",
+      "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+      "summary": "The Federal Bureau of Investigation (FBI) says North Korea was responsible for the hack.",
+      "publishedAt": "2026-11-01T13:11:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o"
+        }
+      ]
+    },
+    {
+      "id": "e2f3499672ed92e12331",
+      "category": "finance",
+      "title": "Diwali hampers to bring hope to families in need",
+      "summary": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
+      "publishedAt": "2026-11-01T07:11:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o"
+        }
+      ]
+    },
+    {
+      "id": "92379c7666a5cf29cbff",
+      "category": "politics",
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "summary": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "publishedAt": "2026-11-01T11:57:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o"
+        }
+      ]
+    },
+    {
+      "id": "53110ea983c9e822fe22",
+      "category": "finance",
+      "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
+      "summary": "Airbnb hosts must stop asking guests to wash-up or take out bins under rules coming into force in November.",
+      "publishedAt": "2026-11-01T00:17:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo"
+        }
+      ]
+    },
+    {
+      "id": "59922ce12db9668ca250",
+      "category": "politics",
+      "title": "India's opposition holds mega rally seeking election chief's resignation",
+      "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down.",
+      "publishedAt": "2026-11-01T07:00:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo"
+        }
+      ]
+    },
+    {
+      "id": "ef386139bbea906a3aef",
+      "category": "politics",
+      "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+      "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+      "publishedAt": "2026-11-01T06:03:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo"
+        }
+      ]
+    },
+    {
+      "id": "7abb2fa4c4949d2d2d8c",
+      "category": "politics",
+      "title": "Watch: Heidi Klum as giant severed hand for Halloween bash",
+      "summary": "The supermodel and TV host provided a gory new shock at her New York event.",
+      "publishedAt": "2026-11-01T05:26:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cj040yd1xdrlo"
+        }
+      ]
+    },
+    {
+      "id": "ad5792ff4ff3ece8c0fc",
+      "category": "politics",
+      "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
+      "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
+      "publishedAt": "2026-11-01T01:37:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cje36degrgv5o"
+        }
+      ]
+    },
+    {
+      "id": "780a9111c6f863772973",
+      "category": "politics",
+      "title": "How the downfall of Serbia's Vučiċ mirrored that of Hungary's Orbán",
+      "summary": "Defeat for Serbia's Aleksandar Vučiċ in last weekend's vote was a carbon copy of Viktor Orbán's fall in Hungary.",
+      "publishedAt": "2026-11-01T00:55:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c893z699q401o"
+        }
+      ]
+    }
+  ]
+}
