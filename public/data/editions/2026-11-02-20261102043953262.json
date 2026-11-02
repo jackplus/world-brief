@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T04:39:53.262Z",
+  "coverageStart": "2026-11-01T04:39:53.262Z",
+  "coverageEnd": "2026-11-02T04:39:53.262Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 9
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "21e0fdc0ffe2e76e529f",
+      "category": "finance",
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "publishedAt": "2026-11-02T03:32:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+        }
+      ]
+    },
+    {
+      "id": "d3f7d1e5f61ff83c2dc5",
+      "category": "politics",
+      "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+      "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat.",
+      "publishedAt": "2026-11-02T01:45:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o"
+        }
+      ]
+    },
+    {
+      "id": "d32406ed6212bca7fd9a",
+      "category": "finance",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "publishedAt": "2026-11-01T23:34:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go"
+        }
+      ]
+    },
+    {
+      "id": "4db04d3582c885532244",
+      "category": "politics",
+      "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+      "summary": "Hours later Russian authorities said its app was also hacked, with fake warnings sent inside the country.",
+      "publishedAt": "2026-11-02T01:18:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo"
+        }
+      ]
+    },
+    {
+      "id": "db46cc045c487a2fcbe7",
+      "category": "finance",
+      "title": "'I've had people eating cat food': Rising cost of living top of mind for US voters",
+      "summary": "The BBC's Clive Myrie travelled to North Caroline where voters voiced their frustrations ahead of midterm elections.",
+      "publishedAt": "2026-11-01T22:25:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o"
+        }
+      ]
+    },
+    {
+      "id": "7f103b13f262cd445336",
+      "category": "politics",
+      "title": "Democrats have high hopes for midterms, but polls have let them down before",
+      "summary": "Polls have been predicting a Democratic surge, but last-minute deciders and sampling issues mean there's no guarantee.",
+      "publishedAt": "2026-11-02T00:25:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmg47p3edv4do"
+        }
+      ]
+    },
+    {
+      "id": "fac43bdfc6e2e1754d04",
+      "category": "finance",
+      "title": "Thousands of jobs at Virgin Media O2 to be cut",
+      "summary": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+      "publishedAt": "2026-11-01T16:57:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko"
+        }
+      ]
+    },
+    {
+      "id": "573fb7938591bbec9e32",
+      "category": "politics",
+      "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+      "summary": "There were hundreds of arrests as protesters took to the streets in cities across France for the third weekend in a row.",
+      "publishedAt": "2026-11-02T00:15:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o"
+        }
+      ]
+    },
+    {
+      "id": "2bcf067ac23f31adbb22",
+      "category": "finance",
+      "title": "Energy bills help 'doesn't go far enough'",
+      "summary": "Families in the West Midlands say they are worried about paying winter energy bills.",
+      "publishedAt": "2026-11-01T07:15:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvpnj7l7yo"
+        }
+      ]
+    },
+    {
+      "id": "6f410f12736757208d1b",
+      "category": "politics",
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+      "summary": "A rare humanitarian ceasefire allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "publishedAt": "2026-11-01T21:55:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo"
+        }
+      ]
+    },
+    {
+      "id": "e2f3499672ed92e12331",
+      "category": "finance",
+      "title": "Diwali hampers to bring hope to families in need",
+      "summary": "The Diwali Basket Brigade volunteers want to help vulnerable households with rising food prices.",
+      "publishedAt": "2026-11-01T07:11:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm20wyg8j121o"
+        }
+      ]
+    },
+    {
+      "id": "70ab701b630e5b2b382a",
+      "category": "politics",
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "summary": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "publishedAt": "2026-11-01T18:51:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cqgm0der7zkmo"
+        }
+      ]
+    },
+    {
+      "id": "30514b2299297c6ac21a",
+      "category": "politics",
+      "title": "Armed police start patrols in Sydney after Bondi Beach attack",
+      "summary": "The new police unit is a security measure in response to last year's deadly shooting attack at a Hanukkah festival.",
+      "publishedAt": "2026-11-01T17:56:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro"
+        }
+      ]
+    },
+    {
+      "id": "31be50e7fc4ff88caef6",
+      "category": "politics",
+      "title": "Lindsay Clancy is back in court - where will her case go next?",
+      "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried.",
+      "publishedAt": "2026-11-01T17:29:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o"
+        }
+      ]
+    }
+  ]
+}
