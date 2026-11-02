@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-02T21:26:44.494Z",
+  "coverageStart": "2026-11-01T21:26:44.494Z",
+  "coverageEnd": "2026-11-02T21:26:44.494Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 10
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "1c98d0cc4ef056474096",
+      "category": "finance",
+      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+      "summary": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
+      "publishedAt": "2026-11-02T13:40:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo"
+        }
+      ]
+    },
+    {
+      "id": "826e83708152188b04d6",
+      "category": "politics",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "publishedAt": "2026-11-02T21:10:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+        }
+      ]
+    },
+    {
+      "id": "e61f7df697482df512c6",
+      "category": "finance",
+      "title": "Christmas donations gift demand up, charities say",
+      "summary": "Charities collecting Christmas presents for struggling families say demand has gone up.",
+      "publishedAt": "2026-11-02T06:22:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo"
+        }
+      ]
+    },
+    {
+      "id": "ada867c1f7172fb883c7",
+      "category": "politics",
+      "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
+      "summary": "The 2026 campaign is projected to cost nearly $12bn - BBC Verify looks into where all that money has come from.",
+      "publishedAt": "2026-11-02T20:54:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o"
+        }
+      ]
+    },
+    {
+      "id": "66b69aea3e5e7891999b",
+      "category": "finance",
+      "title": "Christmas shoebox appeal launches to help children",
+      "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
+      "publishedAt": "2026-11-02T06:21:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o"
+        }
+      ]
+    },
+    {
+      "id": "c09d139be2ad8119a863",
+      "category": "politics",
+      "title": "Man guilty of stealing cash from farm owned by South African president",
+      "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga.",
+      "publishedAt": "2026-11-02T20:08:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo"
+        }
+      ]
+    },
+    {
+      "id": "d32406ed6212bca7fd9a",
+      "category": "finance",
+      "title": "Don't get caught out by new Buy Now Pay Later rules",
+      "summary": "New affordability checks mean you could be blocked from using Buy Now Pay Later but here are ways to avoid it.",
+      "publishedAt": "2026-11-01T23:34:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgp4y017go"
+        }
+      ]
+    },
+    {
+      "id": "2287c79dfbe2a119fa2a",
+      "category": "politics",
+      "title": "Copilot in deadly Florida jet crash identified in reports as 20-year-old",
+      "summary": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground!\"",
+      "publishedAt": "2026-11-02T19:58:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o"
+        }
+      ]
+    },
+    {
+      "id": "db46cc045c487a2fcbe7",
+      "category": "finance",
+      "title": "North Carolina voters weigh up Trump's track record on cost of living",
+      "summary": "The BBC's Clive Myrie found voters in the state were asking themselves whether they were better off than two years ago.",
+      "publishedAt": "2026-11-01T22:25:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cwly0eev3m44o"
+        }
+      ]
+    },
+    {
+      "id": "85869f170e7dc9a46eaf",
+      "category": "politics",
+      "title": "What Florida jet audio and flight data tells us about its final moments",
+      "summary": "A private jet crashed in Florida on Sunday, killing all nine people on board, according to US authorities.",
+      "publishedAt": "2026-11-02T19:49:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c52e9lgxjz82o"
+        }
+      ]
+    },
+    {
+      "id": "f762eb70e6b46fa847de",
+      "category": "politics",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "publishedAt": "2026-11-02T19:33:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+        }
+      ]
+    },
+    {
+      "id": "823cd3875b33727859a9",
+      "category": "politics",
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "summary": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "publishedAt": "2026-11-02T19:12:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo"
+        }
+      ]
+    },
+    {
+      "id": "3cbdd321712934f48268",
+      "category": "politics",
+      "title": "Fake nuclear warning from hacked app sparks unease but not panic in Ukraine",
+      "summary": "Many Ukrainians, who have faced years of Russian attacks, did not take the messages seriously and doubted their veracity.",
+      "publishedAt": "2026-11-02T18:34:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwx28mngxz8do"
+        }
+      ]
+    }
+  ]
+}
