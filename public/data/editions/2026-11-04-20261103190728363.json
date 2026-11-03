@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-03T19:07:28.363Z",
+  "coverageStart": "2026-11-02T19:07:28.363Z",
+  "coverageEnd": "2026-11-03T19:07:28.363Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "46e5d4776a28dd353ca9",
+      "category": "finance",
+      "title": "Keeping mortgage interest relief approved",
+      "summary": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
+      "publishedAt": "2026-11-03T16:44:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo"
+        }
+      ]
+    },
+    {
+      "id": "f39873dd6096280f885c",
+      "category": "politics",
+      "title": "Seven flights across Europe targeted by suspected bomb threats",
+      "summary": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+      "publishedAt": "2026-11-03T17:56:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo"
+        }
+      ]
+    },
+    {
+      "id": "8d86676710497099b109",
+      "category": "ai",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "",
+      "publishedAt": "2026-11-03T17:15:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/statebench"
+        }
+      ]
+    },
+    {
+      "id": "f69d84fdce0a2c4f699a",
+      "category": "finance",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "publishedAt": "2026-11-03T15:51:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o"
+        }
+      ]
+    },
+    {
+      "id": "04666d460108df129609",
+      "category": "politics",
+      "title": "Irish Olympian Ciara Mageean was a 'talented and inspirational human being'",
+      "summary": "The former European champion and two-time Olympic runner had been diagnosed with stage four bowel cancer.",
+      "publishedAt": "2026-11-03T17:07:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw62ye1030njo"
+        }
+      ]
+    },
+    {
+      "id": "4d3938441f216409a8f1",
+      "category": "ai",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "",
+      "publishedAt": "2026-11-03T16:35:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+        }
+      ]
+    },
+    {
+      "id": "88fa85d3743a13259202",
+      "category": "finance",
+      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+      "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+      "publishedAt": "2026-11-03T15:12:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o"
+        }
+      ]
+    },
+    {
+      "id": "adc4efaa5bcbe94a7cb3",
+      "category": "politics",
+      "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
+      "summary": "At least 38 people are killed in 24 hours and Ukraine's Volodymyr Zelensky warns dozens more could be trapped under rubble.",
+      "publishedAt": "2026-11-03T16:57:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o"
+        }
+      ]
+    },
+    {
+      "id": "63945bc794809749828f",
+      "category": "ai",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "summary": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/cwe-bench"
+        }
+      ]
+    },
+    {
+      "id": "83ba23720168fab15648",
+      "category": "finance",
+      "title": "What in the World",
+      "summary": "Some employers create job ads with no intent to hire",
+      "publishedAt": "2026-11-03T14:30:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct990m"
+        }
+      ]
+    },
+    {
+      "id": "28125238fb2758e7a4b7",
+      "category": "politics",
+      "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
+      "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
+      "publishedAt": "2026-11-03T16:19:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o"
+        }
+      ]
+    },
+    {
+      "id": "a6f54d325d31634f8916",
+      "category": "ai",
+      "title": "Transformers Model Integration Contracts",
+      "summary": "",
+      "publishedAt": "2026-11-03T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/transformers-mic"
+        }
+      ]
+    },
+    {
+      "id": "df98f028c092ecb6e8af",
+      "category": "finance",
+      "title": "Car finance compensation payments explained",
+      "summary": "Millions could be entitled to compensation as a result of commission arrangements between lenders and dealers.",
+      "publishedAt": "2026-11-03T12:30:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c2l9vvj097lo"
+        }
+      ]
+    },
+    {
+      "id": "632ff7df63b107766b0a",
+      "category": "politics",
+      "title": "Mining giant joins fight to stop killer toad march across Australia",
+      "summary": "Rio Tinto is jointly funding a A$28m \"toad containment zoe\" to protect the Pilbara region.",
+      "publishedAt": "2026-11-03T15:05:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo"
+        }
+      ]
+    },
+    {
+      "id": "5bb6ba782f19325a5cd0",
+      "category": "finance",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "publishedAt": "2026-11-03T12:07:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+        }
+      ]
+    },
+    {
+      "id": "1fa56ee0cdbab8a09462",
+      "category": "politics",
+      "title": "Libya's top religious authority rules against wearing Nike clothes",
+      "summary": "The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.",
+      "publishedAt": "2026-11-03T14:56:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no"
+        }
+      ]
+    },
+    {
+      "id": "df0a549dcdc3c3904669",
+      "category": "finance",
+      "title": "Drivers may get compensation offers before car finance saga ends",
+      "summary": "The regulator says it supports lenders offering early compensation offers, as long as they are fair.",
+      "publishedAt": "2026-11-03T11:56:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po"
+        }
+      ]
+    },
+    {
+      "id": "deac0951ad2619634a17",
+      "category": "politics",
+      "title": "Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries",
+      "summary": "Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.",
+      "publishedAt": "2026-11-03T13:55:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo"
+        }
+      ]
+    },
+    {
+      "id": "f824fd232489bcc07d2c",
+      "category": "finance",
+      "title": "Proposal for free bus service scrapped",
+      "summary": "The one-year free bus service pilot was initially put forward as an amendment to next year's budget.",
+      "publishedAt": "2026-11-03T11:21:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmrly74wr9n2o"
+        }
+      ]
+    },
+    {
+      "id": "503fc1713d020360f034",
+      "category": "politics",
+      "title": "Jet may have broken apart before Florida crash, officials say, as family named among victims",
+      "summary": "Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.",
+      "publishedAt": "2026-11-03T13:44:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm9wz01dx8xro"
+        }
+      ]
+    }
+  ]
+}
