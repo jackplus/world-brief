@@ -1,0 +1,258 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-03T05:30:40.872Z",
+  "coverageStart": "2026-11-02T05:30:40.872Z",
+  "coverageEnd": "2026-11-03T05:30:40.872Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 28
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 12
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "5bb6ba782f19325a5cd0",
+      "category": "finance",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "publishedAt": "2026-11-03T02:11:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+        }
+      ]
+    },
+    {
+      "id": "bbb9adae9a48a69ade94",
+      "category": "politics",
+      "title": "US strikes Iran ahead of midterm elections",
+      "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+      "publishedAt": "2026-11-03T03:39:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo"
+        }
+      ]
+    },
+    {
+      "id": "539efef896c137ca0cbe",
+      "category": "finance",
+      "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
+      "summary": "The men and women who rummage through commercial bins to take clothes and other items.",
+      "publishedAt": "2026-11-03T00:41:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno"
+        }
+      ]
+    },
+    {
+      "id": "c58d85bb8a405fa99a4b",
+      "category": "politics",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state.",
+      "publishedAt": "2026-11-03T03:32:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko"
+        }
+      ]
+    },
+    {
+      "id": "2a65534d1ae22699cabe",
+      "category": "finance",
+      "title": "Apple unsure when more foldable iPhones will be available after selling out",
+      "summary": "Apple’s foldable iPhone Duo was a hit with people willing to spend $2,000 on a new mobile.",
+      "publishedAt": "2026-11-03T00:29:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko"
+        }
+      ]
+    },
+    {
+      "id": "8b0f049e269e9435a7ca",
+      "category": "politics",
+      "title": "Man and boy arrested after allegedly attacking One Nation volunteer with bat",
+      "summary": "The incident comes amid growing calls for the temperature of political debate in Australia to be turned down.",
+      "publishedAt": "2026-11-03T03:30:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwly3jd27m9xo"
+        }
+      ]
+    },
+    {
+      "id": "1c98d0cc4ef056474096",
+      "category": "finance",
+      "title": "Poundland's former owner offers to invest as minister prepares to meet board",
+      "summary": "Wolverhampton's Steve Smith said he wants to put some money back into the firm he started.",
+      "publishedAt": "2026-11-02T13:40:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wv1j0xgywo"
+        }
+      ]
+    },
+    {
+      "id": "f762eb70e6b46fa847de",
+      "category": "politics",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "summary": "The move comes barely a week after Rwanda's defence ministry was hit with sanctions by the US Treasury.",
+      "publishedAt": "2026-11-03T03:00:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo"
+        }
+      ]
+    },
+    {
+      "id": "21e0fdc0ffe2e76e529f",
+      "category": "finance",
+      "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
+      "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
+      "publishedAt": "2026-11-02T07:42:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o"
+        }
+      ]
+    },
+    {
+      "id": "826e83708152188b04d6",
+      "category": "politics",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack.",
+      "publishedAt": "2026-11-03T01:56:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o"
+        }
+      ]
+    },
+    {
+      "id": "e61f7df697482df512c6",
+      "category": "finance",
+      "title": "Christmas donations gift demand up, charities say",
+      "summary": "Charities collecting Christmas presents for struggling families say demand has gone up.",
+      "publishedAt": "2026-11-02T06:22:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5ynrp0lg2yo"
+        }
+      ]
+    },
+    {
+      "id": "874e0409cbf407cdd8bb",
+      "category": "politics",
+      "title": "North Korea denies being behind record $6.3bn Binance hack",
+      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
+      "publishedAt": "2026-11-03T01:23:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo"
+        }
+      ]
+    },
+    {
+      "id": "66b69aea3e5e7891999b",
+      "category": "finance",
+      "title": "Christmas shoebox appeal launches to help children",
+      "summary": "A gift-filled shoebox campaign launched for children who would otherwise go without this Christmas.",
+      "publishedAt": "2026-11-02T06:21:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cv98zr5wxp21o"
+        }
+      ]
+    },
+    {
+      "id": "9e398fbdacb499cbed04",
+      "category": "politics",
+      "title": "Bollywood film star Ranbir Kapoor on AI, movies and fatherhood",
+      "summary": "The film star plays the leading role in a major new adaptation of the Indian epic Ramayana.",
+      "publishedAt": "2026-11-03T00:09:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmvg9w5w2p1no"
+        }
+      ]
+    },
+    {
+      "id": "2287c79dfbe2a119fa2a",
+      "category": "politics",
+      "title": "Plane may have broken apart ahead of deadly Florida jet crash, say investigators",
+      "summary": "The National Transportation Safety Board also believes weather could have been a factor in the crash, but warns it is too early to determine the cause.",
+      "publishedAt": "2026-11-03T00:08:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o"
+        }
+      ]
+    }
+  ]
+}
