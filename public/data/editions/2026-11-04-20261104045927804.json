@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T04:59:27.804Z",
+  "coverageStart": "2026-11-03T04:59:27.804Z",
+  "coverageEnd": "2026-11-04T04:59:27.804Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "41816c05805f718bd729",
+      "category": "finance",
+      "title": "No more rice grains in Kellogg's Rice Krispies due to changing weather",
+      "summary": "The new recipes mean cereal packaging will now include a 'contains wheat gluten' warning.",
+      "publishedAt": "2026-11-04T01:36:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo"
+        }
+      ]
+    },
+    {
+      "id": "206e3a8608a1af6db44e",
+      "category": "politics",
+      "title": "Weapon or wine bottle? China disputes reports of artillery shell in Papua New Guinea",
+      "summary": "Papua New Guinea police had earlier dismissed speculation that the 32kg object was \"merely a dummy\".",
+      "publishedAt": "2026-11-04T03:46:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm0qkxzv3j99o"
+        }
+      ]
+    },
+    {
+      "id": "8d86676710497099b109",
+      "category": "ai",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "summary": "",
+      "publishedAt": "2026-11-03T17:15:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/statebench"
+        }
+      ]
+    },
+    {
+      "id": "674036464ba455a99719",
+      "category": "finance",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "publishedAt": "2026-11-04T00:09:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo"
+        }
+      ]
+    },
+    {
+      "id": "e91237d527b6310c2d50",
+      "category": "politics",
+      "title": "Anthony Zurcher: Democrats push deep into Republican territory with historic wins",
+      "summary": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+      "publishedAt": "2026-11-04T03:34:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo"
+        }
+      ]
+    },
+    {
+      "id": "4d3938441f216409a8f1",
+      "category": "ai",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "summary": "",
+      "publishedAt": "2026-11-03T16:35:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
+        }
+      ]
+    },
+    {
+      "id": "da121aad814565d05859",
+      "category": "finance",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "publishedAt": "2026-11-04T00:04:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o"
+        }
+      ]
+    },
+    {
+      "id": "3ef2f349ef5787b9947b",
+      "category": "politics",
+      "title": "South Carolina elects Democratic senator for first time in almost three decades",
+      "summary": "Annie Andrews is projected to defeat Darline Graham, who was handpicked by President Trump to take her brother's seat after his death.",
+      "publishedAt": "2026-11-04T03:24:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cjy56z440nl9o"
+        }
+      ]
+    },
+    {
+      "id": "99ce4cf8c5d26c35438b",
+      "category": "finance",
+      "title": "Poundland supplier 'will lose millions' if retailer collapses",
+      "summary": "One of Poundland's suppliers will lose millions if it collapses, while other suppliers have said they would go under.",
+      "publishedAt": "2026-11-04T00:03:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do"
+        }
+      ]
+    },
+    {
+      "id": "53e6413f9987101253fd",
+      "category": "politics",
+      "title": "Democratic rising star Ossoff projected to hold Georgia seat",
+      "summary": "Ossoff is seen as a potential leading contender for the Democratic nomination for president in 2028 if he throws his hat in the ring.",
+      "publishedAt": "2026-11-04T02:38:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqwyrmm2k4mpo"
+        }
+      ]
+    },
+    {
+      "id": "5bb6ba782f19325a5cd0",
+      "category": "finance",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "publishedAt": "2026-11-03T20:53:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+        }
+      ]
+    },
+    {
+      "id": "3ec7659fde9ab39e3438",
+      "category": "politics",
+      "title": "ANC under pressure to reverse South Africa decline",
+      "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get.",
+      "publishedAt": "2026-11-04T00:03:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo"
+        }
+      ]
+    },
+    {
+      "id": "46e5d4776a28dd353ca9",
+      "category": "finance",
+      "title": "Keeping mortgage interest relief approved",
+      "summary": "Homeowners can get tax relief of £3,500 on the money spent on the interstate of a mortgage.",
+      "publishedAt": "2026-11-03T16:44:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgj0ljx01jo"
+        }
+      ]
+    },
+    {
+      "id": "3b6ab8d64292daa17b12",
+      "category": "politics",
+      "title": "'I'm not a quitter': Kim Kardashian on retaking the bar exam",
+      "summary": "The All's Fair star tells the BBC she has not given up, but will be \"more quiet\" about her journey to become a lawyer.",
+      "publishedAt": "2026-11-03T23:58:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmy4x59kdknwo"
+        }
+      ]
+    },
+    {
+      "id": "f69d84fdce0a2c4f699a",
+      "category": "finance",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "publishedAt": "2026-11-03T15:51:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o"
+        }
+      ]
+    },
+    {
+      "id": "968580948772fb681129",
+      "category": "politics",
+      "title": "Spanish transport minister resigns days after deadly train crash",
+      "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+      "publishedAt": "2026-11-03T22:45:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo"
+        }
+      ]
+    },
+    {
+      "id": "88fa85d3743a13259202",
+      "category": "finance",
+      "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+      "summary": "David Potts takes charge of Asda, which is based in Leeds, with immediate effect.",
+      "publishedAt": "2026-11-03T15:12:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o"
+        }
+      ]
+    },
+    {
+      "id": "68cb6893efb871d5df76",
+      "category": "politics",
+      "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+      "summary": "The NTSB said because the parts were found far from the accident site, they fell off before the crash.",
+      "publishedAt": "2026-11-03T21:53:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no"
+        }
+      ]
+    }
+  ]
+}
