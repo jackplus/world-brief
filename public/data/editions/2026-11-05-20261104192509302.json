@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-04T19:25:09.302Z",
+  "coverageStart": "2026-11-03T19:25:09.302Z",
+  "coverageEnd": "2026-11-04T19:25:09.302Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 8
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "99ce4cf8c5d26c35438b",
+      "category": "finance",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "publishedAt": "2026-11-04T19:07:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do"
+        }
+      ]
+    },
+    {
+      "id": "9dcb8c3c3c2a2c5e32fc",
+      "category": "politics",
+      "title": "US midterm results a 'victory' for Canadians hopeful of tariff relief",
+      "summary": "With Canada-US trade talks back on, Tuesday’s midterm Democratic wave puts pressure on the White House to come to a deal.",
+      "publishedAt": "2026-11-04T18:01:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3mw3e0kdo"
+        }
+      ]
+    },
+    {
+      "id": "32d4e91d243ef07f0795",
+      "category": "ai",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "publishedAt": "2026-11-04T17:50:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+        }
+      ]
+    },
+    {
+      "id": "ba0ab15212582c7fff3b",
+      "category": "finance",
+      "title": "Elon Musk's millions fail to deliver Texas for the Republicans in fierce midterms",
+      "summary": "The billionaire's political action committee (Pac) contributed $47m (£35m) to Ken Paxton's campaign.",
+      "publishedAt": "2026-11-04T15:51:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko"
+        }
+      ]
+    },
+    {
+      "id": "420dcbd51301ca2f0ea6",
+      "category": "politics",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "publishedAt": "2026-11-04T17:45:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o"
+        }
+      ]
+    },
+    {
+      "id": "41816c05805f718bd729",
+      "category": "finance",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "publishedAt": "2026-11-04T15:13:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo"
+        }
+      ]
+    },
+    {
+      "id": "bd1aee5121d935c5bd11",
+      "category": "politics",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "publishedAt": "2026-11-04T16:59:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o"
+        }
+      ]
+    },
+    {
+      "id": "f69d84fdce0a2c4f699a",
+      "category": "finance",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "publishedAt": "2026-11-04T10:47:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o"
+        }
+      ]
+    },
+    {
+      "id": "d5e5792c8441f42729cd",
+      "category": "politics",
+      "title": "'Most difficult days of my life' for keeper Owono",
+      "summary": "FC Andorra goalkeeper Jesus Owono puts out a statement through his club, expressing his sorrow and pain after Tenerife forward Jesus de Miguel's death.",
+      "publishedAt": "2026-11-04T16:40:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c6zxjz40l280o"
+        }
+      ]
+    },
+    {
+      "id": "360364430d8e973ac2c6",
+      "category": "finance",
+      "title": "Swim and gym prices set to rise above inflation",
+      "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+      "publishedAt": "2026-11-04T06:13:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o"
+        }
+      ]
+    },
+    {
+      "id": "d22974efd97b67942fb4",
+      "category": "politics",
+      "title": "The young politicians with African roots making history in the US midterms",
+      "summary": "For some young Africans, these victories offer a glimpse of what a new generation of voters could do at home.",
+      "publishedAt": "2026-11-04T16:34:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmrly6j6lpydo"
+        }
+      ]
+    },
+    {
+      "id": "674036464ba455a99719",
+      "category": "finance",
+      "title": "Canva announces major job cuts after 'our hardest year yet'",
+      "summary": "CEO Melanie Perkins says more than 1,000 staff will either lose their jobs or be asked to change roles.",
+      "publishedAt": "2026-11-04T00:09:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo"
+        }
+      ]
+    },
+    {
+      "id": "38eadf69e106854cfe63",
+      "category": "politics",
+      "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
+      "summary": "The French Blood Establishment (EFS) said cold rooms storing blood were impacted by hackers.",
+      "publishedAt": "2026-11-04T16:26:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8vgxyvz6y9ro"
+        }
+      ]
+    },
+    {
+      "id": "da121aad814565d05859",
+      "category": "finance",
+      "title": "Graduates are managing AI - but are they learning much else?",
+      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
+      "publishedAt": "2026-11-04T00:04:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o"
+        }
+      ]
+    },
+    {
+      "id": "8af0b45d4c95886db1bd",
+      "category": "politics",
+      "title": "Israel's president begins consultations with parties after election deadlock",
+      "summary": "Herzog warns politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election.",
+      "publishedAt": "2026-11-04T16:18:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo"
+        }
+      ]
+    },
+    {
+      "id": "5bb6ba782f19325a5cd0",
+      "category": "finance",
+      "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+      "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+      "publishedAt": "2026-11-03T20:53:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo"
+        }
+      ]
+    },
+    {
+      "id": "48878c1d1eb8517121bd",
+      "category": "politics",
+      "title": "Secret police files released in Hungary, 37 years after fall of communism",
+      "summary": "Critics say the move comes too late, that the files themselves are incomplete, and the move risks sowing division and causing unnecessary anguish.",
+      "publishedAt": "2026-11-04T15:28:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c977p01kgmmko"
+        }
+      ]
+    }
+  ]
+}
