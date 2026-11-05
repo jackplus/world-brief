@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T19:33:16.956Z",
+  "coverageStart": "2026-11-04T19:33:16.956Z",
+  "coverageEnd": "2026-11-05T19:33:16.956Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "adb3875b04d439409ea1",
+      "category": "finance",
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "publishedAt": "2026-11-05T17:57:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo"
+        }
+      ]
+    },
+    {
+      "id": "9c3874388999a4f270a6",
+      "category": "politics",
+      "title": "Eight killed in series of shootings in western Turkey",
+      "summary": "Victims are found in several locations in three separate vehicles, according to local reports.",
+      "publishedAt": "2026-11-05T19:32:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko"
+        }
+      ]
+    },
+    {
+      "id": "c65c7708e93995ca4541",
+      "category": "ai",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "summary": "",
+      "publishedAt": "2026-11-05T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/phonon-tts"
+        }
+      ]
+    },
+    {
+      "id": "ed6dd3fd9548fcb0704b",
+      "category": "finance",
+      "title": "Interest rates hiked to 4% in first increase in over three years",
+      "summary": "Most analysts expected the increase from 3.75% to 4%.",
+      "publishedAt": "2026-11-05T17:09:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
+        }
+      ]
+    },
+    {
+      "id": "88ced3427b567c5cd461",
+      "category": "politics",
+      "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
+      "summary": "The US first lady was credited by all for playing a key though unspecified role in the ceasefire.",
+      "publishedAt": "2026-11-05T19:08:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o"
+        }
+      ]
+    },
+    {
+      "id": "2993c3bddd49024d0564",
+      "category": "finance",
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "summary": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "publishedAt": "2026-11-05T16:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm"
+        }
+      ]
+    },
+    {
+      "id": "7a233fca9b7c70a5b96c",
+      "category": "politics",
+      "title": "French protests see numbers surge as unions join strikes over high cost of living",
+      "summary": "The interior ministry estimates 600,000 people joined protests across France, while the unions say the number was far higher.",
+      "publishedAt": "2026-11-05T17:59:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo"
+        }
+      ]
+    },
+    {
+      "id": "45b493d0b9cac832c05e",
+      "category": "finance",
+      "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+      "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders.",
+      "publishedAt": "2026-11-05T15:27:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o"
+        }
+      ]
+    },
+    {
+      "id": "92bc1f725e2201122c61",
+      "category": "politics",
+      "title": "Paraguay President Santiago Peña resigns after bank collapse",
+      "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him.",
+      "publishedAt": "2026-11-05T17:40:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo"
+        }
+      ]
+    },
+    {
+      "id": "41ae4afb61ff06778b4d",
+      "category": "finance",
+      "title": "Why do veterinary fees and sausage rolls vary in price across London?",
+      "summary": "Location is not just the only factor on why prices differ across London, as Anna O'Neill finds out.",
+      "publishedAt": "2026-11-05T15:19:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo"
+        }
+      ]
+    },
+    {
+      "id": "28665a3ef6a06c74a6a8",
+      "category": "politics",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "summary": "At least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "publishedAt": "2026-11-05T17:39:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo"
+        }
+      ]
+    },
+    {
+      "id": "a6504e059dca9b38decb",
+      "category": "finance",
+      "title": "What does the raise in interest rates mean?",
+      "summary": "The BBC's cost of living correspondent Kevin Peachey explains what the change could mean for those saving for a holiday or to buying a house.",
+      "publishedAt": "2026-11-05T14:02:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c9kgjvmn4vlno"
+        }
+      ]
+    },
+    {
+      "id": "114e7484211defc02161",
+      "category": "politics",
+      "title": "Russell Brand is being investigated over two new rape complaints, police say",
+      "summary": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+      "publishedAt": "2026-11-05T15:44:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o"
+        }
+      ]
+    },
+    {
+      "id": "f243324fd3170d2731a3",
+      "category": "finance",
+      "title": "Faisal Islam: How high will interest rates go?",
+      "summary": "The BBC's economics editor views one more interest rate as likely, but thinks that will be all.",
+      "publishedAt": "2026-11-05T13:17:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o"
+        }
+      ]
+    },
+    {
+      "id": "619f9174845da1620884",
+      "category": "politics",
+      "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
+      "summary": "As Cristiano Ronaldo retires from international football, Guillem Balague looks at why and what is next for the Portugal legend.",
+      "publishedAt": "2026-11-05T14:29:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/sport/football/articles/ckn9rwr2zzpvo"
+        }
+      ]
+    },
+    {
+      "id": "97a364511298af1365d7",
+      "category": "finance",
+      "title": "Three ways the interest rate rise could affect you",
+      "summary": "Job, loans and savings are all affected by the rise in interest rates announced by the Bank of England.",
+      "publishedAt": "2026-11-05T13:08:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o"
+        }
+      ]
+    },
+    {
+      "id": "26601c8523d4dc6048fa",
+      "category": "politics",
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "summary": "BBC correspondent Sima Kotecha explains how the trial unfolded.",
+      "publishedAt": "2026-11-05T14:28:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo"
+        }
+      ]
+    }
+  ]
+}
