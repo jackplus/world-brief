@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-05T05:21:14.339Z",
+  "coverageStart": "2026-11-04T05:21:14.339Z",
+  "coverageEnd": "2026-11-05T05:21:14.339Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 9
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "fcee2a9e058a29412755",
+      "category": "finance",
+      "title": "Pound rises to its highest level since the Brexit referendum",
+      "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+      "publishedAt": "2026-11-05T04:21:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo"
+        }
+      ]
+    },
+    {
+      "id": "c39675d166075949710e",
+      "category": "politics",
+      "title": "Joshua Wong, face of Hong Kong's pro-democracy protests, jailed for 10 years",
+      "summary": "Wong, 30, is among hundreds of Hongkongers detained under the controversial national security law.",
+      "publishedAt": "2026-11-05T03:56:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo"
+        }
+      ]
+    },
+    {
+      "id": "32d4e91d243ef07f0795",
+      "category": "ai",
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "summary": "",
+      "publishedAt": "2026-11-04T17:50:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor"
+        }
+      ]
+    },
+    {
+      "id": "4a1e62086151d82e10ee",
+      "category": "finance",
+      "title": "Australia's oldest department store David Jones folds after 188 years",
+      "summary": "The brand's 38 physical stores and online site will continue to operate while receivers review its operations.",
+      "publishedAt": "2026-11-05T00:59:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cky93z5y0171o"
+        }
+      ]
+    },
+    {
+      "id": "16a411279563c7477e95",
+      "category": "politics",
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "summary": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+      "publishedAt": "2026-11-05T03:47:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o"
+        }
+      ]
+    },
+    {
+      "id": "ed6dd3fd9548fcb0704b",
+      "category": "finance",
+      "title": "Interest rates expected to rise for first time in over three years",
+      "summary": "Most analysts are predicting an increase from 3.75% to 4%, the first increase in more than three years.",
+      "publishedAt": "2026-11-05T00:00:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo"
+        }
+      ]
+    },
+    {
+      "id": "75338b81e578b82f222d",
+      "category": "politics",
+      "title": "Pope Leo hosts Bob Dylan at official residence in Rome",
+      "summary": "Pope Leo had previously quoted Dylan's work in the preface of a book warning against nuclear rearmament.",
+      "publishedAt": "2026-11-05T02:09:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e035n13ylo"
+        }
+      ]
+    },
+    {
+      "id": "ba0ab15212582c7fff3b",
+      "category": "finance",
+      "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
+      "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
+      "publishedAt": "2026-11-04T21:41:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko"
+        }
+      ]
+    },
+    {
+      "id": "d0c393ddb15b664c0d80",
+      "category": "politics",
+      "title": "Mother and daughter die after suspected grizzly bear attack in Canada",
+      "summary": "Authorities in British Columbia say evidence suggests an animal may have been involved in the women's deaths.",
+      "publishedAt": "2026-11-04T23:50:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o"
+        }
+      ]
+    },
+    {
+      "id": "99ce4cf8c5d26c35438b",
+      "category": "finance",
+      "title": "Poundland owner in crunch talks as retailer's collapse looms",
+      "summary": "Gordon Brothers will meet Jonathan Reynolds on Wednesday as the investment firm faces scrutiny over Poundland.",
+      "publishedAt": "2026-11-04T19:44:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck240mm3e42do"
+        }
+      ]
+    },
+    {
+      "id": "50a3a5fe175ef4d16a45",
+      "category": "politics",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "summary": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
+      "publishedAt": "2026-11-04T23:12:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo"
+        }
+      ]
+    },
+    {
+      "id": "41816c05805f718bd729",
+      "category": "finance",
+      "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
+      "summary": "The cereal giant has changed the recipes for Rice Krispies and Coco Pops, sparking a backlash online.",
+      "publishedAt": "2026-11-04T19:38:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo"
+        }
+      ]
+    },
+    {
+      "id": "420dcbd51301ca2f0ea6",
+      "category": "politics",
+      "title": "Ukraine says bodycam video shows deadly Russian double-tap bombing",
+      "summary": "At least 40 people were killed and another 30 may still be under the rubble after Monday's attack on a Ukrainian village, Kyiv says.",
+      "publishedAt": "2026-11-04T22:48:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o"
+        }
+      ]
+    },
+    {
+      "id": "f69d84fdce0a2c4f699a",
+      "category": "finance",
+      "title": "What's happening to UK interest rates and what does it mean for mortgages?",
+      "summary": "The interest rate set by the Bank of England affects mortgage, loan and savings rates for millions.",
+      "publishedAt": "2026-11-04T10:47:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3dky111m40o"
+        }
+      ]
+    },
+    {
+      "id": "dd4127a56a946ffaedc2",
+      "category": "politics",
+      "title": "What Democrats can and can't do with their new power after taking Congress",
+      "summary": "Democrats can vote legislation through. But Trump still has veto power.",
+      "publishedAt": "2026-11-04T18:01:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo"
+        }
+      ]
+    },
+    {
+      "id": "360364430d8e973ac2c6",
+      "category": "finance",
+      "title": "Swim and gym prices set to rise above inflation",
+      "summary": "The rises would impact Perdiswell, St John's Sports Centre and Nunnery Wood Sports Complex.",
+      "publishedAt": "2026-11-04T06:13:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6pvgw8gz1k4o"
+        }
+      ]
+    },
+    {
+      "id": "bd1aee5121d935c5bd11",
+      "category": "politics",
+      "title": "Iran's chief negotiator says Americans voted 'no to war'",
+      "summary": "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.",
+      "publishedAt": "2026-11-04T16:59:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o"
+        }
+      ]
+    }
+  ]
+}
