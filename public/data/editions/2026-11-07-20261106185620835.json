@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-06T18:56:20.835Z",
+  "coverageStart": "2026-11-05T18:56:20.835Z",
+  "coverageEnd": "2026-11-06T18:56:20.835Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 12
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "01c9d29f2df6cb579f00",
+      "category": "finance",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "publishedAt": "2026-11-06T18:32:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo"
+        }
+      ]
+    },
+    {
+      "id": "e767c5baa51e08c00152",
+      "category": "politics",
+      "title": "Nigerian court rules opposition candidate cannot stand in elections",
+      "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections.",
+      "publishedAt": "2026-11-06T17:35:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o"
+        }
+      ]
+    },
+    {
+      "id": "5a90caffb2c87d2e6e8e",
+      "category": "ai",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/toyblocks"
+        }
+      ]
+    },
+    {
+      "id": "841d0f0981f2d112fcc8",
+      "category": "finance",
+      "title": "Food bank to close amid rising costs",
+      "summary": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+      "publishedAt": "2026-11-06T16:42:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro"
+        }
+      ]
+    },
+    {
+      "id": "8d72e90829254c25382f",
+      "category": "politics",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "publishedAt": "2026-11-06T17:03:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o"
+        }
+      ]
+    },
+    {
+      "id": "13e4c95dcbaa6d34090e",
+      "category": "ai",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "summary": "",
+      "publishedAt": "2026-11-06T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
+        }
+      ]
+    },
+    {
+      "id": "49e032ae272453065652",
+      "category": "finance",
+      "title": "Winter support for residents facing cost pressures",
+      "summary": "The plans aim to help more people access food, financial advice and help with heating costs.",
+      "publishedAt": "2026-11-06T16:22:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo"
+        }
+      ]
+    },
+    {
+      "id": "8d18e311052d4d21dcce",
+      "category": "politics",
+      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+      "summary": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
+      "publishedAt": "2026-11-06T16:51:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o"
+        }
+      ]
+    },
+    {
+      "id": "f25b9201ad6bdcc6fc96",
+      "category": "ai",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "summary": "",
+      "publishedAt": "2026-11-05T19:35:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
+        }
+      ]
+    },
+    {
+      "id": "ca5a231c35bd07c9bd37",
+      "category": "finance",
+      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "publishedAt": "2026-11-06T15:25:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o"
+        }
+      ]
+    },
+    {
+      "id": "1d2f4ee0d1050f427e68",
+      "category": "politics",
+      "title": "Four midterms takeaways for 2028 White House race",
+      "summary": "The buzz about the presidential election is already under way - here's what we learned this week.",
+      "publishedAt": "2026-11-06T16:12:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
+        }
+      ]
+    },
+    {
+      "id": "fda7c9d67c35d6d51160",
+      "category": "finance",
+      "title": "Workers' rights 'second place' to economic growth",
+      "summary": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
+      "publishedAt": "2026-11-06T14:52:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro"
+        }
+      ]
+    },
+    {
+      "id": "7d6a5cd6a2220374c581",
+      "category": "politics",
+      "title": "Two dead after bus crashes in France, officials say",
+      "summary": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
+      "publishedAt": "2026-11-06T15:33:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo"
+        }
+      ]
+    },
+    {
+      "id": "05830de0f691ed91c652",
+      "category": "finance",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+      "publishedAt": "2026-11-06T11:40:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo"
+        }
+      ]
+    },
+    {
+      "id": "2b82a95dfc9cbcfc9199",
+      "category": "politics",
+      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+      "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
+      "publishedAt": "2026-11-06T15:30:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko"
+        }
+      ]
+    },
+    {
+      "id": "492d73eacc7e3fa435ce",
+      "category": "finance",
+      "title": "How does it affect me if share prices fall?",
+      "summary": "Changes in the FTSE 100 and other indexes are not just for financial experts, they can affect our lives.",
+      "publishedAt": "2026-11-06T09:21:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o"
+        }
+      ]
+    },
+    {
+      "id": "bb2f60476accc99bd990",
+      "category": "politics",
+      "title": "New wave of bomb threats hit European airlines",
+      "summary": "No link has been established between the threats against the airlines and those against the media outlets.",
+      "publishedAt": "2026-11-06T15:25:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo"
+        }
+      ]
+    },
+    {
+      "id": "1c7f2dcbbdabb00ddb2a",
+      "category": "finance",
+      "title": "The engine parts that 'fight the laws of the universe'",
+      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
+      "publishedAt": "2026-11-06T00:06:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo"
+        }
+      ]
+    },
+    {
+      "id": "2e100807efdedc2501a3",
+      "category": "politics",
+      "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+      "summary": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
+      "publishedAt": "2026-11-06T15:02:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo"
+        }
+      ]
+    }
+  ]
+}
