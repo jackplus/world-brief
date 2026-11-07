@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T17:28:30.298Z",
+  "coverageStart": "2026-11-06T17:28:30.298Z",
+  "coverageEnd": "2026-11-07T17:28:30.298Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "81faa6c941abf39f77dd",
+      "category": "finance",
+      "title": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "publishedAt": "2026-11-07T01:41:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o"
+        }
+      ]
+    },
+    {
+      "id": "26814394bd585e3380a0",
+      "category": "politics",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "publishedAt": "2026-11-07T16:50:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o"
+        }
+      ]
+    },
+    {
+      "id": "9b225e31f95fe29d8c99",
+      "category": "finance",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "publishedAt": "2026-11-06T21:49:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o"
+        }
+      ]
+    },
+    {
+      "id": "85ece2f5694e6af6c458",
+      "category": "politics",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "publishedAt": "2026-11-07T15:56:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        }
+      ]
+    },
+    {
+      "id": "01c9d29f2df6cb579f00",
+      "category": "finance",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "publishedAt": "2026-11-06T18:32:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo"
+        }
+      ]
+    },
+    {
+      "id": "3756bd77d3eac4c4b19e",
+      "category": "politics",
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "summary": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "publishedAt": "2026-11-07T15:19:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo"
+        }
+      ]
+    },
+    {
+      "id": "4b2c83578e55be0cd0f2",
+      "category": "politics",
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "summary": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "publishedAt": "2026-11-07T12:49:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po"
+        }
+      ]
+    },
+    {
+      "id": "1d2f4ee0d1050f427e68",
+      "category": "politics",
+      "title": "Four things we learned this week about 2028 White House race",
+      "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "publishedAt": "2026-11-07T12:23:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo"
+        }
+      ]
+    },
+    {
+      "id": "7af1d6929c51e8559ad7",
+      "category": "politics",
+      "title": "Texas mayor instructs police to limit co-operation with ICE",
+      "summary": "There has been months of public outcry in Houston after an Immigration and Customs Enforcement (ICE) officer fatally shot a man who was driving to work.",
+      "publishedAt": "2026-11-07T08:15:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8dx33d22zkro"
+        }
+      ]
+    },
+    {
+      "id": "49308f5658661f124332",
+      "category": "politics",
+      "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+      "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+      "publishedAt": "2026-11-07T07:27:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo"
+        }
+      ]
+    },
+    {
+      "id": "be598de6f5ea5290a54a",
+      "category": "politics",
+      "title": "Paraguay's president impeached and under house arrest after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "publishedAt": "2026-11-07T07:20:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
+        }
+      ]
+    }
+  ]
+}
