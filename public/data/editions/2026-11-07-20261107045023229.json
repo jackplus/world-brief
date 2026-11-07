@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-07T04:50:23.229Z",
+  "coverageStart": "2026-11-06T04:50:23.229Z",
+  "coverageEnd": "2026-11-07T04:50:23.229Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 12
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "81faa6c941abf39f77dd",
+      "category": "finance",
+      "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+      "summary": "With UK interest rates set to rise, mortgages, credit cards and loans could get more expensive for millions.",
+      "publishedAt": "2026-11-07T01:41:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o"
+        }
+      ]
+    },
+    {
+      "id": "be598de6f5ea5290a54a",
+      "category": "politics",
+      "title": "Paraguay's President Santiago Peña impeached and arrested",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "publishedAt": "2026-11-07T03:25:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
+        }
+      ]
+    },
+    {
+      "id": "5a90caffb2c87d2e6e8e",
+      "category": "ai",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "summary": "",
+      "publishedAt": "2026-11-06T14:00:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/toyblocks"
+        }
+      ]
+    },
+    {
+      "id": "01c9d29f2df6cb579f00",
+      "category": "finance",
+      "title": "Why the US midterms sparked an AI stock selloff",
+      "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time.",
+      "publishedAt": "2026-11-06T18:32:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo"
+        }
+      ]
+    },
+    {
+      "id": "836b457f205a13fb4172",
+      "category": "politics",
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "summary": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "publishedAt": "2026-11-07T01:27:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo"
+        }
+      ]
+    },
+    {
+      "id": "aeb658062a6fa97f5689",
+      "category": "finance",
+      "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+      "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack.",
+      "publishedAt": "2026-11-06T17:19:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo"
+        }
+      ]
+    },
+    {
+      "id": "ec715c7ab10b11d97f88",
+      "category": "politics",
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "summary": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "publishedAt": "2026-11-07T01:19:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o"
+        }
+      ]
+    },
+    {
+      "id": "841d0f0981f2d112fcc8",
+      "category": "finance",
+      "title": "Food bank to close amid rising costs",
+      "summary": "A food bank in Goole annouces it will close in January as costs rise and donations drop.",
+      "publishedAt": "2026-11-06T16:42:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro"
+        }
+      ]
+    },
+    {
+      "id": "3fc9238c3874ca766978",
+      "category": "politics",
+      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+      "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
+      "publishedAt": "2026-11-06T23:46:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go"
+        }
+      ]
+    },
+    {
+      "id": "49e032ae272453065652",
+      "category": "finance",
+      "title": "Winter support for residents facing cost pressures",
+      "summary": "The plans aim to help more people access food, financial advice and help with heating costs.",
+      "publishedAt": "2026-11-06T16:22:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo"
+        }
+      ]
+    },
+    {
+      "id": "b2ba464dc311076169f0",
+      "category": "politics",
+      "title": "With Stephen Miller pick, Trump readies for a battle",
+      "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+      "publishedAt": "2026-11-06T23:24:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go"
+        }
+      ]
+    },
+    {
+      "id": "ca5a231c35bd07c9bd37",
+      "category": "finance",
+      "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+      "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination.",
+      "publishedAt": "2026-11-06T15:25:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o"
+        }
+      ]
+    },
+    {
+      "id": "9b225e31f95fe29d8c99",
+      "category": "politics",
+      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+      "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
+      "publishedAt": "2026-11-06T21:49:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o"
+        }
+      ]
+    },
+    {
+      "id": "fda7c9d67c35d6d51160",
+      "category": "finance",
+      "title": "Workers' rights 'second place' to economic growth",
+      "summary": "Jersey's Economic Development Minister has told the BBC that workers' rights may have to take 'second place' to economic growth.",
+      "publishedAt": "2026-11-06T14:52:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cq369l9r634ro"
+        }
+      ]
+    },
+    {
+      "id": "8d72e90829254c25382f",
+      "category": "politics",
+      "title": "AI stocks climb after trillions wiped from market values",
+      "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+      "publishedAt": "2026-11-06T21:06:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o"
+        }
+      ]
+    },
+    {
+      "id": "05830de0f691ed91c652",
+      "category": "finance",
+      "title": "'I've taken an extra job to pay for heating oil'",
+      "summary": "People in Sussex say they are taking on extra work and not heating their homes due to oil prices.",
+      "publishedAt": "2026-11-06T11:40:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo"
+        }
+      ]
+    },
+    {
+      "id": "236c2ad056efcfcf6de4",
+      "category": "politics",
+      "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+      "summary": "Prosecutors begin investigating EU funds meant for upgrading the Spanish railway line where a train crash killed 69 people.",
+      "publishedAt": "2026-11-06T17:44:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o"
+        }
+      ]
+    }
+  ]
+}
