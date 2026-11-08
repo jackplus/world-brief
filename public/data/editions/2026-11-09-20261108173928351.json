@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T17:39:28.351Z",
+  "coverageStart": "2026-11-07T17:39:28.351Z",
+  "coverageEnd": "2026-11-08T17:39:28.351Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 12
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "fdb62f9abf15111b4adb",
+      "category": "finance",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "publishedAt": "2026-11-08T15:37:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro"
+        }
+      ]
+    },
+    {
+      "id": "e20e75c8efc1f08c129d",
+      "category": "politics",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "summary": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligen",
+      "publishedAt": "2026-11-08T16:05:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o"
+        }
+      ]
+    },
+    {
+      "id": "1a0d3efe932fdfac127b",
+      "category": "finance",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "publishedAt": "2026-11-08T07:11:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o"
+        }
+      ]
+    },
+    {
+      "id": "67ce803de4cd90f98270",
+      "category": "politics",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "publishedAt": "2026-11-08T14:42:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro"
+        }
+      ]
+    },
+    {
+      "id": "d224113f959928f0d508",
+      "category": "finance",
+      "title": "He spent $50,000 on Labubus but now the craze is dying",
+      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "publishedAt": "2026-11-07T23:02:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo"
+        }
+      ]
+    },
+    {
+      "id": "3340b42b70005f427d86",
+      "category": "politics",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "One of the men, Professor Michal Pędziwiatr, when they got to the scene, they treated both the alleged gunman and the police officers.",
+      "publishedAt": "2026-11-08T13:40:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o"
+        }
+      ]
+    },
+    {
+      "id": "c248c6afbbb46fea2410",
+      "category": "finance",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+      "publishedAt": "2026-11-07T21:40:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo"
+        }
+      ]
+    },
+    {
+      "id": "953dd5f9387913af6c03",
+      "category": "politics",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "publishedAt": "2026-11-08T13:37:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo"
+        }
+      ]
+    },
+    {
+      "id": "6729df2677d63618f9fe",
+      "category": "politics",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "summary": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "publishedAt": "2026-11-08T09:29:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo"
+        }
+      ]
+    },
+    {
+      "id": "e62725ac95eaaaafad15",
+      "category": "politics",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "publishedAt": "2026-11-08T04:03:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
+        }
+      ]
+    },
+    {
+      "id": "4088e956e34af03b42e9",
+      "category": "politics",
+      "title": "The Trump coalition is shattered - what will Republicans do now?",
+      "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush.",
+      "publishedAt": "2026-11-08T00:52:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo"
+        }
+      ]
+    },
+    {
+      "id": "bc66107eae12b046d77c",
+      "category": "politics",
+      "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+      "summary": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+      "publishedAt": "2026-11-08T00:48:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko"
+        }
+      ]
+    }
+  ]
+}
