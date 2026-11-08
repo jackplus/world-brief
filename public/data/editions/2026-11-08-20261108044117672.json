@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-08T04:41:17.672Z",
+  "coverageStart": "2026-11-07T04:41:17.672Z",
+  "coverageEnd": "2026-11-08T04:41:17.672Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "d224113f959928f0d508",
+      "category": "finance",
+      "title": "Labubu hype seemed unstoppable, now the fluffy monster mania is dying",
+      "summary": "Parent company Pop Mart's revenue has fallen as appetite for the quirky collectible monsters wanes.",
+      "publishedAt": "2026-11-07T23:02:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg652l927lo"
+        }
+      ]
+    },
+    {
+      "id": "e62725ac95eaaaafad15",
+      "category": "politics",
+      "title": "Houthis say at least 33 killed in Saudi air strike",
+      "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "publishedAt": "2026-11-08T04:03:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo"
+        }
+      ]
+    },
+    {
+      "id": "c248c6afbbb46fea2410",
+      "category": "finance",
+      "title": "Ipswich Town's new club shop 'here to stay'",
+      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
+      "publishedAt": "2026-11-07T21:40:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo"
+        }
+      ]
+    },
+    {
+      "id": "bcc676a14cba33a77962",
+      "category": "politics",
+      "title": "What we know so far after Krakow gun attack",
+      "summary": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at the home of the attacker.",
+      "publishedAt": "2026-11-08T01:47:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo"
+        }
+      ]
+    },
+    {
+      "id": "691b7d4bba1d29eeb234",
+      "category": "finance",
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls.",
+      "publishedAt": "2026-11-07T21:36:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo"
+        }
+      ]
+    },
+    {
+      "id": "0fd700b21f788ebecb7e",
+      "category": "politics",
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "publishedAt": "2026-11-07T22:19:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo"
+        }
+      ]
+    },
+    {
+      "id": "be598de6f5ea5290a54a",
+      "category": "politics",
+      "title": "Paraguay's former president charged after bank collapse",
+      "summary": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+      "publishedAt": "2026-11-07T19:17:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o"
+        }
+      ]
+    },
+    {
+      "id": "b7ba65c704ad4512d299",
+      "category": "politics",
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities.",
+      "publishedAt": "2026-11-07T18:14:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo"
+        }
+      ]
+    },
+    {
+      "id": "b8e51085a95d4037a671",
+      "category": "politics",
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "summary": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "publishedAt": "2026-11-07T17:58:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o"
+        }
+      ]
+    },
+    {
+      "id": "26814394bd585e3380a0",
+      "category": "politics",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "publishedAt": "2026-11-07T16:50:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o"
+        }
+      ]
+    },
+    {
+      "id": "85ece2f5694e6af6c458",
+      "category": "politics",
+      "title": "No clear winner after tight New Zealand general election",
+      "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
+      "publishedAt": "2026-11-07T15:56:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o"
+        }
+      ]
+    }
+  ]
+}
