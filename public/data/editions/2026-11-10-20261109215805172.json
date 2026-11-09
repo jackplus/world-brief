@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-09T21:58:05.172Z",
+  "coverageStart": "2026-11-08T21:58:05.172Z",
+  "coverageEnd": "2026-11-09T21:58:05.172Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 23
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "2bae0dc9f043ef959612",
+      "category": "finance",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "publishedAt": "2026-11-09T21:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
+        }
+      ]
+    },
+    {
+      "id": "206c0e97620106bb14dc",
+      "category": "politics",
+      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
+      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
+      "publishedAt": "2026-11-09T21:52:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o"
+        }
+      ]
+    },
+    {
+      "id": "ac8f18750241a65f1eaf",
+      "category": "ai",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+        }
+      ]
+    },
+    {
+      "id": "39df55c83744c8780ca2",
+      "category": "finance",
+      "title": "The facial recognition technology stopping shoplifters",
+      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+      "publishedAt": "2026-11-09T19:00:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo"
+        }
+      ]
+    },
+    {
+      "id": "85831887198483330119",
+      "category": "politics",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "publishedAt": "2026-11-09T21:37:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+        }
+      ]
+    },
+    {
+      "id": "55d059b88c6c576a2f3d",
+      "category": "ai",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "publishedAt": "2026-11-09T12:34:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+        }
+      ]
+    },
+    {
+      "id": "1c3b617c8e5227c4eb7a",
+      "category": "finance",
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "publishedAt": "2026-11-09T18:40:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo"
+        }
+      ]
+    },
+    {
+      "id": "f25fb608076dbebc3c2f",
+      "category": "politics",
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
+      "publishedAt": "2026-11-09T21:31:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo"
+        }
+      ]
+    },
+    {
+      "id": "0780cdd3f8ee8ea9222f",
+      "category": "finance",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "publishedAt": "2026-11-09T17:17:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do"
+        }
+      ]
+    },
+    {
+      "id": "bfba74fdc28fbe1a40c8",
+      "category": "politics",
+      "title": "Turkey steel factory blast kills at least 17 people",
+      "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
+      "publishedAt": "2026-11-09T20:42:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo"
+        }
+      ]
+    },
+    {
+      "id": "ce0cfa4122c224f1d919",
+      "category": "finance",
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+      "publishedAt": "2026-11-09T16:46:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o"
+        }
+      ]
+    },
+    {
+      "id": "378762c45f75e88a891d",
+      "category": "politics",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "Tons of chilled and frozen food was spoiled last month as fridges and freezers in hundreds of supermarkets heated up.",
+      "publishedAt": "2026-11-09T20:20:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo"
+        }
+      ]
+    },
+    {
+      "id": "d04fc36642f9575b4db9",
+      "category": "finance",
+      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+      "summary": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+      "publishedAt": "2026-11-09T16:01:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo"
+        }
+      ]
+    },
+    {
+      "id": "f7175dd5796778153b9a",
+      "category": "politics",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "publishedAt": "2026-11-09T19:58:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo"
+        }
+      ]
+    },
+    {
+      "id": "cdca797e9ddabb10e992",
+      "category": "finance",
+      "title": "Rising cost of living tests UK's net zero ambitions",
+      "summary": "From floods to wildfires to heatwaves, 2026 is the year it became hard to ignore the impact of climate change on UK weather. But will soaring living costs affect the government’s c",
+      "publishedAt": "2026-11-09T13:42:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo"
+        }
+      ]
+    },
+    {
+      "id": "2a11fac6c68efe1893df",
+      "category": "politics",
+      "title": "Millions fill Buenos Aires streets to welcome Pope Leo XIV",
+      "summary": "The Pope celebrated an outdoor Mass in Argentina's capital, the second stop on a 12-day tour of Latin America, just three weeks after having had surgery for lung cancer.",
+      "publishedAt": "2026-11-09T19:09:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cvp8g82pled5o"
+        }
+      ]
+    },
+    {
+      "id": "72696c60be3637c322da",
+      "category": "finance",
+      "title": "Government's EV targets expected to be reduced this week",
+      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
+      "publishedAt": "2026-11-09T12:06:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo"
+        }
+      ]
+    },
+    {
+      "id": "280a48f869e87f5b5d04",
+      "category": "politics",
+      "title": "Russia's leading independent newspaper closes after eviction",
+      "summary": "The outlet has been evicted from its offices of three decades and says it's been blocked from receiving donations.",
+      "publishedAt": "2026-11-09T18:08:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go"
+        }
+      ]
+    }
+  ]
+}
