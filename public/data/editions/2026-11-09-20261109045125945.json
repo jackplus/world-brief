@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-09T04:51:25.945Z",
+  "coverageStart": "2026-11-08T04:51:25.945Z",
+  "coverageEnd": "2026-11-09T04:51:25.945Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 9
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "3f503ca86beb8558f785",
+      "category": "finance",
+      "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+      "summary": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+      "publishedAt": "2026-11-09T00:50:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no"
+        }
+      ]
+    },
+    {
+      "id": "e67e1d9c09611bbbd0b1",
+      "category": "politics",
+      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
+      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
+      "publishedAt": "2026-11-09T02:50:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o"
+        }
+      ]
+    },
+    {
+      "id": "5de19af138df72248e60",
+      "category": "finance",
+      "title": "Doing these things now will help you save money at Christmas",
+      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
+      "publishedAt": "2026-11-09T00:09:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo"
+        }
+      ]
+    },
+    {
+      "id": "3340b42b70005f427d86",
+      "category": "politics",
+      "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+      "summary": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+      "publishedAt": "2026-11-08T23:34:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o"
+        }
+      ]
+    },
+    {
+      "id": "fdb62f9abf15111b4adb",
+      "category": "finance",
+      "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+      "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
+      "publishedAt": "2026-11-08T15:37:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro"
+        }
+      ]
+    },
+    {
+      "id": "3c00a636e87ecad3e04d",
+      "category": "politics",
+      "title": "'I treat all these people like they are victims', says doctor who treated Krakow shooting suspect",
+      "summary": "Two doctors were eating near the Polish city's Main Market Square when a gunman began firing at random.",
+      "publishedAt": "2026-11-08T22:05:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c63elgqqz5y0o"
+        }
+      ]
+    },
+    {
+      "id": "1a0d3efe932fdfac127b",
+      "category": "finance",
+      "title": "Traders 'priced out' of £12,000 Christmas market pitches",
+      "summary": "Stall holders said they'd met the council leader to express their concerns at high costs since a new operator took over.",
+      "publishedAt": "2026-11-08T07:11:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckn8wew92xw1o"
+        }
+      ]
+    },
+    {
+      "id": "758129ee12ce6a6f439e",
+      "category": "politics",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "summary": "Footage authenticated by BBC Verify shows damage to the building in the capital's central financial district.",
+      "publishedAt": "2026-11-08T21:37:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo"
+        }
+      ]
+    },
+    {
+      "id": "1069919706c861a1d293",
+      "category": "politics",
+      "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+      "summary": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+      "publishedAt": "2026-11-08T19:58:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo"
+        }
+      ]
+    },
+    {
+      "id": "e20e75c8efc1f08c129d",
+      "category": "politics",
+      "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+      "summary": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
+      "publishedAt": "2026-11-08T16:05:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o"
+        }
+      ]
+    },
+    {
+      "id": "67ce803de4cd90f98270",
+      "category": "politics",
+      "title": "Homes and temples glow across India to mark Diwali",
+      "summary": "Millions of Indians are marking the festival of lights with glowing lamps, fireworks and traditional sweets.",
+      "publishedAt": "2026-11-08T14:42:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pdwz122ro"
+        }
+      ]
+    },
+    {
+      "id": "953dd5f9387913af6c03",
+      "category": "politics",
+      "title": "Iran executes three men for 'armed unrest' after January protests",
+      "summary": "It is claimed Hassan Dioband, Hamid Kazemi and Reza Zanganeh were part of anti-government protests earlier this year.",
+      "publishedAt": "2026-11-08T13:37:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo"
+        }
+      ]
+    }
+  ]
+}
