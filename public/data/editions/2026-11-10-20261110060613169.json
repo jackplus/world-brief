@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-10T06:06:13.169Z",
+  "coverageStart": "2026-11-09T06:06:13.169Z",
+  "coverageEnd": "2026-11-10T06:06:13.169Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "c95056dc4dbc835c4a9e",
+      "category": "finance",
+      "title": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+      "summary": "Huang, who is now being investigated over an affair with an alleged Chinese spy, is far more important to the future of the world order than other tech bosses.",
+      "publishedAt": "2026-11-10T06:01:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo"
+        }
+      ]
+    },
+    {
+      "id": "42d118cbc67446ab05bd",
+      "category": "politics",
+      "title": "Polish unity on show in silent march to honour Krakow shooting victims",
+      "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
+      "publishedAt": "2026-11-10T05:38:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no"
+        }
+      ]
+    },
+    {
+      "id": "ac8f18750241a65f1eaf",
+      "category": "ai",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "summary": "",
+      "publishedAt": "2026-11-09T15:05:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
+        }
+      ]
+    },
+    {
+      "id": "617a60ac5655a8b73f21",
+      "category": "finance",
+      "title": "Headteachers say families will struggle after another rise in school dinner prices",
+      "summary": "The price of a school dinner in a primary school will have risen from £2.60 to £3.40 since the start of 2026.",
+      "publishedAt": "2026-11-10T00:00:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o"
+        }
+      ]
+    },
+    {
+      "id": "0585a161a6c53b450979",
+      "category": "politics",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation change.",
+      "publishedAt": "2026-11-10T05:33:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
+        }
+      ]
+    },
+    {
+      "id": "55d059b88c6c576a2f3d",
+      "category": "ai",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "summary": "",
+      "publishedAt": "2026-11-09T12:34:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
+        }
+      ]
+    },
+    {
+      "id": "2bae0dc9f043ef959612",
+      "category": "finance",
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "summary": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "publishedAt": "2026-11-09T21:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm"
+        }
+      ]
+    },
+    {
+      "id": "926f288efba4c757b148",
+      "category": "politics",
+      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
+      "publishedAt": "2026-11-10T05:22:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po"
+        }
+      ]
+    },
+    {
+      "id": "39df55c83744c8780ca2",
+      "category": "finance",
+      "title": "The facial recognition technology stopping shoplifters",
+      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
+      "publishedAt": "2026-11-09T19:00:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo"
+        }
+      ]
+    },
+    {
+      "id": "d360149389ef4dd0a4d1",
+      "category": "politics",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "publishedAt": "2026-11-10T03:58:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o"
+        }
+      ]
+    },
+    {
+      "id": "1c3b617c8e5227c4eb7a",
+      "category": "finance",
+      "title": "How a civil servant got away with juggling five jobs for so long",
+      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
+      "publishedAt": "2026-11-09T18:40:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo"
+        }
+      ]
+    },
+    {
+      "id": "7cebdf7992375cd77c81",
+      "category": "politics",
+      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
+      "publishedAt": "2026-11-10T01:55:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo"
+        }
+      ]
+    },
+    {
+      "id": "0780cdd3f8ee8ea9222f",
+      "category": "finance",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "publishedAt": "2026-11-09T17:17:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do"
+        }
+      ]
+    },
+    {
+      "id": "85831887198483330119",
+      "category": "politics",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process next year.",
+      "publishedAt": "2026-11-10T01:38:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro"
+        }
+      ]
+    },
+    {
+      "id": "ce0cfa4122c224f1d919",
+      "category": "finance",
+      "title": "Poundland unable to buy new stock as fears over collapse grow",
+      "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
+      "publishedAt": "2026-11-09T16:46:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o"
+        }
+      ]
+    },
+    {
+      "id": "7100d3ce551969265b99",
+      "category": "politics",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "publishedAt": "2026-11-10T00:14:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo"
+        }
+      ]
+    },
+    {
+      "id": "d04fc36642f9575b4db9",
+      "category": "finance",
+      "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
+      "summary": "The energy secretary says reducing bills is key to maintaining public support for climate action.",
+      "publishedAt": "2026-11-09T16:01:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo"
+        }
+      ]
+    },
+    {
+      "id": "9641a16883f21f0be4dc",
+      "category": "politics",
+      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
+      "publishedAt": "2026-11-10T00:09:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+        }
+      ]
+    }
+  ]
+}
