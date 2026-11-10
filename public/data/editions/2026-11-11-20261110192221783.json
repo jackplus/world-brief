@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-10T19:22:21.783Z",
+  "coverageStart": "2026-11-09T19:22:21.783Z",
+  "coverageEnd": "2026-11-10T19:22:21.783Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 32
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 20
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "09c95ffbdb049ce27d95",
+      "category": "finance",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+      "publishedAt": "2026-11-10T17:56:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+        }
+      ]
+    },
+    {
+      "id": "7dd7fb97eadb35afe471",
+      "category": "politics",
+      "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
+      "summary": "Slovyansk continues to be bombarded by Russian forces, making it almost uninhabitable with less than 10% of it's pre-war population remaining.",
+      "publishedAt": "2026-11-10T18:35:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm2l4l59gjp7o"
+        }
+      ]
+    },
+    {
+      "id": "cb93d68b445c05b0e3dc",
+      "category": "ai",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "summary": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace"
+        }
+      ]
+    },
+    {
+      "id": "729ac217b1eedcd3d916",
+      "category": "finance",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "publishedAt": "2026-11-10T17:04:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko"
+        }
+      ]
+    },
+    {
+      "id": "a2c8ec084f7760908cb3",
+      "category": "politics",
+      "title": "Malaysia's disgraced former PM leaves jail for house arrest after embezzling millions",
+      "summary": "Najib Razak was convicted for his role in the billion-dollar scandal involving the 1MDB sovereign wealth fund.",
+      "publishedAt": "2026-11-10T18:33:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv0v4yln7do"
+        }
+      ]
+    },
+    {
+      "id": "5f3963726dbe36e6ccf9",
+      "category": "ai",
+      "title": "Decision Models in Hugging Face",
+      "summary": "",
+      "publishedAt": "2026-11-10T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/decision"
+        }
+      ]
+    },
+    {
+      "id": "617a60ac5655a8b73f21",
+      "category": "finance",
+      "title": "Some pupils 'struggling just to get a hot meal'",
+      "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
+      "publishedAt": "2026-11-10T16:46:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o"
+        }
+      ]
+    },
+    {
+      "id": "ea9f422cbfcf434a2249",
+      "category": "politics",
+      "title": "Anti-homosexuality laws in Trinidad and Tobago overturned",
+      "summary": "The ruling brings to an end an 11-year legal battle by dual-citizen Jason Jones.",
+      "publishedAt": "2026-11-10T18:04:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm0e0evlpp87o"
+        }
+      ]
+    },
+    {
+      "id": "d8d97a1ead3c329c01aa",
+      "category": "finance",
+      "title": "Thousands of 'off-grid' homes eligible for £250 to help with heating bills",
+      "summary": "Households dependent on either heating oil or LPG and are eligible for reduced council tax will benefit.",
+      "publishedAt": "2026-11-10T16:03:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm70p050824po"
+        }
+      ]
+    },
+    {
+      "id": "d2ce46eecc61983f1545",
+      "category": "politics",
+      "title": "Why are these purple flowers shutting down streets in Sydney?",
+      "summary": "Jacaranda trees typically flower for six weeks every spring, drawing visitors to Australia from across the globe.",
+      "publishedAt": "2026-11-10T18:03:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c862y2dxdq45o"
+        }
+      ]
+    },
+    {
+      "id": "27ad6b26a63d9bb847d9",
+      "category": "finance",
+      "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+      "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+      "publishedAt": "2026-11-10T15:10:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o"
+        }
+      ]
+    },
+    {
+      "id": "2317d3706a814e791ba3",
+      "category": "politics",
+      "title": "US federal authorities could have prevented Epstein crimes, report finds",
+      "summary": "The report by a Republican-led congressional committee follows a 15-month investigation into the handling of the late disgraced financier's case.",
+      "publishedAt": "2026-11-10T17:59:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5ynyn8zyr8o"
+        }
+      ]
+    },
+    {
+      "id": "0da4f2b36793d4cc6616",
+      "category": "finance",
+      "title": "US inflation higher than expected in October - here's what is happening with prices",
+      "summary": "Prices rose by 0.4% over the month, driven by increases in shelter, food and energy costs.",
+      "publishedAt": "2026-11-10T14:45:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o"
+        }
+      ]
+    },
+    {
+      "id": "9641a16883f21f0be4dc",
+      "category": "politics",
+      "title": "First day of Ukraine peace talks constructive, Zelensky says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "publishedAt": "2026-11-10T17:29:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o"
+        }
+      ]
+    },
+    {
+      "id": "defd0b33a25508bc7078",
+      "category": "finance",
+      "title": "New regulation for heating oil market, but no price controls",
+      "summary": "The Competition and Markets Authority has investigated the heating oil market in Northern Ireland and other parts of the UK.",
+      "publishedAt": "2026-11-10T13:42:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cv70p0d3d686o"
+        }
+      ]
+    },
+    {
+      "id": "a5c1e4d2165309674671",
+      "category": "politics",
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "summary": "Benjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "publishedAt": "2026-11-10T17:03:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o"
+        }
+      ]
+    },
+    {
+      "id": "0780cdd3f8ee8ea9222f",
+      "category": "finance",
+      "title": "Civil servant who secretly held five jobs found guilty of fraud",
+      "summary": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+      "publishedAt": "2026-11-10T13:39:28.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do"
+        }
+      ]
+    },
+    {
+      "id": "9c2cd2220b2da605e004",
+      "category": "politics",
+      "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+      "summary": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+      "publishedAt": "2026-11-10T17:00:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro"
+        }
+      ]
+    }
+  ]
+}
