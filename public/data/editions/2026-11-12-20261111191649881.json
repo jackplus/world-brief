@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-11T19:16:49.881Z",
+  "coverageStart": "2026-11-10T19:16:49.881Z",
+  "coverageEnd": "2026-11-11T19:16:49.881Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 20
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 13
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "a2d941d5344f2fb7f857",
+      "category": "finance",
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "publishedAt": "2026-11-11T18:48:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko"
+        }
+      ]
+    },
+    {
+      "id": "ea2f3d55ebc76602edb6",
+      "category": "politics",
+      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
+      "publishedAt": "2026-11-11T18:38:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o"
+        }
+      ]
+    },
+    {
+      "id": "19b4fcb1faac9c9bdbcc",
+      "category": "ai",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "summary": "",
+      "publishedAt": "2026-11-11T05:01:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/qvac/botpsy"
+        }
+      ]
+    },
+    {
+      "id": "78f8fb71d102352f8a77",
+      "category": "finance",
+      "title": "Poundland founder writes to King for help",
+      "summary": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
+      "publishedAt": "2026-11-11T17:59:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno"
+        }
+      ]
+    },
+    {
+      "id": "c96019c6194824077a26",
+      "category": "politics",
+      "title": "Missing 11-month-old baby found buried alive in a crate in South Carolina",
+      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "publishedAt": "2026-11-11T18:10:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o"
+        }
+      ]
+    },
+    {
+      "id": "11568aa8dfcf9a3c0750",
+      "category": "ai",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "summary": "",
+      "publishedAt": "2026-11-11T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/token-pooling"
+        }
+      ]
+    },
+    {
+      "id": "86db62922c398affd732",
+      "category": "finance",
+      "title": "Brad Friedel on Shrewsbury Town takeover",
+      "summary": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+      "publishedAt": "2026-11-11T17:55:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo"
+        }
+      ]
+    },
+    {
+      "id": "f7aac9d9dadc0e20f070",
+      "category": "politics",
+      "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+      "summary": "Talks in Abu Dhabi centred around Europe's security framework, with US envoys due to meet Putin and Zelensky on Thursday.",
+      "publishedAt": "2026-11-11T18:04:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o"
+        }
+      ]
+    },
+    {
+      "id": "83602c32a335a18344b2",
+      "category": "finance",
+      "title": "Workers across Spain stage first general strike in 14 years",
+      "summary": "People across Spain are striking, primarily over housing costs.",
+      "publishedAt": "2026-11-11T17:01:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo"
+        }
+      ]
+    },
+    {
+      "id": "57de3b794b3463ddb086",
+      "category": "politics",
+      "title": "Spain sees widespread disruption in first general strike for 14 years",
+      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
+      "publishedAt": "2026-11-11T17:44:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+        }
+      ]
+    },
+    {
+      "id": "5fdcf86b263dde93c816",
+      "category": "finance",
+      "title": "Protesters gather in Spain for first general strike in 14 years",
+      "summary": "Thousands are protesting across Spain over housing and the high cost of living.",
+      "publishedAt": "2026-11-11T16:12:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cwj0587gde88o"
+        }
+      ]
+    },
+    {
+      "id": "5496ddc49556ef6573d4",
+      "category": "politics",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "publishedAt": "2026-11-11T16:59:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo"
+        }
+      ]
+    },
+    {
+      "id": "674d39ba225e0e4eb589",
+      "category": "finance",
+      "title": "What are cold weather payments and who can get them?",
+      "summary": "Some people in England, Wales and Northern Ireland can get help with heating costs during cold spells.",
+      "publishedAt": "2026-11-11T12:49:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c87470q4w21o"
+        }
+      ]
+    },
+    {
+      "id": "5d75d23c0acd1bc7c32f",
+      "category": "politics",
+      "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+      "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns.",
+      "publishedAt": "2026-11-11T16:45:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o"
+        }
+      ]
+    },
+    {
+      "id": "767ffb2c7c0f0c27c08e",
+      "category": "finance",
+      "title": "The Global Story",
+      "summary": "Tracking down the men who have made serious money from internet porn.",
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8mlr"
+        }
+      ]
+    },
+    {
+      "id": "afce5ac82540cdfdd3ed",
+      "category": "politics",
+      "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+      "summary": "The news comes at a turbulent time for Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
+      "publishedAt": "2026-11-11T16:38:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro"
+        }
+      ]
+    },
+    {
+      "id": "00e70634b07e0c0f2e0b",
+      "category": "finance",
+      "title": "Christmas toy rush being driven by squishies and building sets",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "publishedAt": "2026-11-11T07:52:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o"
+        }
+      ]
+    },
+    {
+      "id": "983ec515789d4bfc77da",
+      "category": "politics",
+      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
+      "summary": "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy.",
+      "publishedAt": "2026-11-11T14:56:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c933gn6710lyo"
+        }
+      ]
+    }
+  ]
+}
