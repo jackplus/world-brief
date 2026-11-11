@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-11T04:53:27.841Z",
+  "coverageStart": "2026-11-10T04:53:27.841Z",
+  "coverageEnd": "2026-11-11T04:53:27.841Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 35
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "83e998ced5bca76bc29c",
+      "category": "finance",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "publishedAt": "2026-11-11T00:19:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o"
+        }
+      ]
+    },
+    {
+      "id": "a686ba9389898fedf054",
+      "category": "politics",
+      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
+      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
+      "publishedAt": "2026-11-11T03:44:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o"
+        }
+      ]
+    },
+    {
+      "id": "00e70634b07e0c0f2e0b",
+      "category": "finance",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "publishedAt": "2026-11-11T00:16:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o"
+        }
+      ]
+    },
+    {
+      "id": "9ce8e7b7ec544b6015d6",
+      "category": "politics",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "publishedAt": "2026-11-11T03:26:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo"
+        }
+      ]
+    },
+    {
+      "id": "a2d941d5344f2fb7f857",
+      "category": "finance",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "publishedAt": "2026-11-11T00:02:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko"
+        }
+      ]
+    },
+    {
+      "id": "6f0714b5bddcc94e4be8",
+      "category": "politics",
+      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
+      "publishedAt": "2026-11-11T02:47:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo"
+        }
+      ]
+    },
+    {
+      "id": "9b41df0294afe510f740",
+      "category": "finance",
+      "title": "Law on 'holiday hunger' passed by Stormont assembly",
+      "summary": "A majority of 49 to 24 assembly members backed the legislation, which was proposed by Sinn Féin's Danny Baker and welcomed by some parents and charities.",
+      "publishedAt": "2026-11-10T21:24:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmewewgvrwpqo"
+        }
+      ]
+    },
+    {
+      "id": "853abe30e4fbf9d954a1",
+      "category": "politics",
+      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "publishedAt": "2026-11-11T02:41:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro"
+        }
+      ]
+    },
+    {
+      "id": "b76a63ca5ce2b807d13b",
+      "category": "finance",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
+      "publishedAt": "2026-11-10T21:22:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+        }
+      ]
+    },
+    {
+      "id": "5496ddc49556ef6573d4",
+      "category": "politics",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "publishedAt": "2026-11-11T01:01:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo"
+        }
+      ]
+    },
+    {
+      "id": "09c95ffbdb049ce27d95",
+      "category": "finance",
+      "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
+      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78, which is lower than what was expected.",
+      "publishedAt": "2026-11-10T17:56:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo"
+        }
+      ]
+    },
+    {
+      "id": "07c05b01f301e8a3704f",
+      "category": "politics",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "publishedAt": "2026-11-11T00:26:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o"
+        }
+      ]
+    },
+    {
+      "id": "729ac217b1eedcd3d916",
+      "category": "finance",
+      "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+      "summary": "The contents of the calendar, including hair clips and keychains, have been widely criticised on social media.",
+      "publishedAt": "2026-11-10T17:04:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko"
+        }
+      ]
+    },
+    {
+      "id": "24d1c68d93758e56319c",
+      "category": "politics",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "publishedAt": "2026-11-11T00:19:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o"
+        }
+      ]
+    },
+    {
+      "id": "617a60ac5655a8b73f21",
+      "category": "finance",
+      "title": "Some pupils 'struggling just to get a hot meal'",
+      "summary": "Students speak out as school dinner prices are set to increase for the second time in a year.",
+      "publishedAt": "2026-11-10T16:46:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9m262yv6yx8o"
+        }
+      ]
+    },
+    {
+      "id": "ed52fd72bf22e2b95de8",
+      "category": "politics",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "publishedAt": "2026-11-11T00:18:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo"
+        }
+      ]
+    }
+  ]
+}
