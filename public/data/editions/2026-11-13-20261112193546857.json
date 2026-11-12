@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-12T19:35:46.857Z",
+  "coverageStart": "2026-11-11T19:35:46.857Z",
+  "coverageEnd": "2026-11-12T19:35:46.857Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 21
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "1ee6867cdbb6f3c3818c",
+      "category": "finance",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and",
+      "publishedAt": "2026-11-12T18:30:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+        }
+      ]
+    },
+    {
+      "id": "04e2817a9fb36825d230",
+      "category": "politics",
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
+      "publishedAt": "2026-11-12T19:23:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o"
+        }
+      ]
+    },
+    {
+      "id": "84ec87286cb35a64f463",
+      "category": "ai",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "publishedAt": "2026-11-12T19:07:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        }
+      ]
+    },
+    {
+      "id": "87a784bdd6110f056713",
+      "category": "finance",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "publishedAt": "2026-11-12T17:45:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+        }
+      ]
+    },
+    {
+      "id": "346cce68a01b7c04c23d",
+      "category": "politics",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "publishedAt": "2026-11-12T18:47:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno"
+        }
+      ]
+    },
+    {
+      "id": "cbda9238a3684b28e47a",
+      "category": "ai",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "summary": "",
+      "publishedAt": "2026-11-12T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/3d-lora-finetuning"
+        }
+      ]
+    },
+    {
+      "id": "fd8dc61a1e0c72c6cace",
+      "category": "finance",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "publishedAt": "2026-11-12T17:32:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o"
+        }
+      ]
+    },
+    {
+      "id": "cfb4faa8387b692a9ae2",
+      "category": "politics",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "publishedAt": "2026-11-12T18:28:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo"
+        }
+      ]
+    },
+    {
+      "id": "e589a1e1c99ea10e62c2",
+      "category": "finance",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
+        }
+      ]
+    },
+    {
+      "id": "faaac939e2af4bb7d597",
+      "category": "politics",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "publishedAt": "2026-11-12T17:11:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo"
+        }
+      ]
+    },
+    {
+      "id": "b76a63ca5ce2b807d13b",
+      "category": "finance",
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
+      "publishedAt": "2026-11-12T15:26:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+        }
+      ]
+    },
+    {
+      "id": "f3c5272ca147182993b4",
+      "category": "politics",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "publishedAt": "2026-11-12T16:54:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+        }
+      ]
+    },
+    {
+      "id": "32d9a25b04c41f04fc02",
+      "category": "finance",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "publishedAt": "2026-11-12T15:10:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
+        }
+      ]
+    },
+    {
+      "id": "21104c449635f33b569c",
+      "category": "politics",
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "publishedAt": "2026-11-12T15:18:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo"
+        }
+      ]
+    },
+    {
+      "id": "311be33ddf00a076cc61",
+      "category": "finance",
+      "title": "What in the World",
+      "summary": "What can you do to protect your personal date?",
+      "publishedAt": "2026-11-12T14:30:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct9955"
+        }
+      ]
+    },
+    {
+      "id": "ab8e563fcf9342227c46",
+      "category": "politics",
+      "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
+      "summary": "The Democratic candidate won in a southern state that had not seated a black senator since 1874.",
+      "publishedAt": "2026-11-12T14:12:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do"
+        }
+      ]
+    },
+    {
+      "id": "a2d941d5344f2fb7f857",
+      "category": "finance",
+      "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+      "summary": "A deadline to secure a buyer was set to expire at midnight, but the retailer now has an extra 10 days to find a buyer.",
+      "publishedAt": "2026-11-12T14:29:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko"
+        }
+      ]
+    },
+    {
+      "id": "e0631ce307dd384dec4a",
+      "category": "politics",
+      "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
+      "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says.",
+      "publishedAt": "2026-11-12T13:58:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno"
+        }
+      ]
+    }
+  ]
+}
