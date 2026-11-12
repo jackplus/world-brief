@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-12T05:56:06.181Z",
+  "coverageStart": "2026-11-11T05:56:06.181Z",
+  "coverageEnd": "2026-11-12T05:56:06.181Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "b76a63ca5ce2b807d13b",
+      "category": "finance",
+      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "publishedAt": "2026-11-12T04:18:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+        }
+      ]
+    },
+    {
+      "id": "630df14cd5dca4591d00",
+      "category": "politics",
+      "title": "New York building collapse kills at least two, officials say",
+      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
+      "publishedAt": "2026-11-12T05:12:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo"
+        }
+      ]
+    },
+    {
+      "id": "a2d941d5344f2fb7f857",
+      "category": "finance",
+      "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "publishedAt": "2026-11-12T00:49:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko"
+        }
+      ]
+    },
+    {
+      "id": "f3c5272ca147182993b4",
+      "category": "politics",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "publishedAt": "2026-11-12T05:06:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo"
+        }
+      ]
+    },
+    {
+      "id": "8d84b3eecc4c4f53e2ad",
+      "category": "finance",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "summary": "Office buildings with low occupancy rates are being transformed into flats.",
+      "publishedAt": "2026-11-12T00:05:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo"
+        }
+      ]
+    },
+    {
+      "id": "ac1834bb5a0bd9190c55",
+      "category": "politics",
+      "title": "Famed ship SS United States sunk off coast of Florida",
+      "summary": "Activists unsuccessfully fought for the historic liner to be preserved and turned into a museum, but it will now become the world's largest artificial ocean reef.",
+      "publishedAt": "2026-11-12T04:03:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o"
+        }
+      ]
+    },
+    {
+      "id": "fd8dc61a1e0c72c6cace",
+      "category": "finance",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "publishedAt": "2026-11-11T23:22:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o"
+        }
+      ]
+    },
+    {
+      "id": "dd2e720e9d97f4cacbce",
+      "category": "politics",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "publishedAt": "2026-11-12T04:00:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo"
+        }
+      ]
+    },
+    {
+      "id": "976e4f09ca5eda19ad93",
+      "category": "finance",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "publishedAt": "2026-11-11T21:42:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo"
+        }
+      ]
+    },
+    {
+      "id": "785215b92879bd6ff376",
+      "category": "politics",
+      "title": "Australian teen missing in bush for six days rescued alive",
+      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
+      "publishedAt": "2026-11-12T02:40:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo"
+        }
+      ]
+    },
+    {
+      "id": "78f8fb71d102352f8a77",
+      "category": "finance",
+      "title": "Poundland founder writes to King for help",
+      "summary": "Poundland has filed a notice of intention to appoint administrators, which protects it from creditors until Thursday.",
+      "publishedAt": "2026-11-11T17:59:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cm4gndjd4nnno"
+        }
+      ]
+    },
+    {
+      "id": "e4bdc450ee227d942a1c",
+      "category": "politics",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "publishedAt": "2026-11-12T00:36:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo"
+        }
+      ]
+    },
+    {
+      "id": "86db62922c398affd732",
+      "category": "finance",
+      "title": "Brad Friedel on Shrewsbury Town takeover",
+      "summary": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+      "publishedAt": "2026-11-11T17:55:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo"
+        }
+      ]
+    },
+    {
+      "id": "57de3b794b3463ddb086",
+      "category": "politics",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "publishedAt": "2026-11-11T22:07:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo"
+        }
+      ]
+    },
+    {
+      "id": "83602c32a335a18344b2",
+      "category": "finance",
+      "title": "Workers across Spain stage first general strike in 14 years",
+      "summary": "People across Spain are striking, primarily over housing costs.",
+      "publishedAt": "2026-11-11T17:01:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c920xlpdl28eo"
+        }
+      ]
+    },
+    {
+      "id": "3e1ac9d8459ed990842c",
+      "category": "politics",
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "publishedAt": "2026-11-11T20:00:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko"
+        }
+      ]
+    }
+  ]
+}
