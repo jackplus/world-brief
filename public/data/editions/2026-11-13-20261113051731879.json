@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-13T05:17:31.879Z",
+  "coverageStart": "2026-11-12T05:17:31.879Z",
+  "coverageEnd": "2026-11-13T05:17:31.879Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 21
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "3d7cd6c563875cff176f",
+      "category": "finance",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "summary": "We ask people in New York City how much they pay for their homes.",
+      "publishedAt": "2026-11-13T01:30:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o"
+        }
+      ]
+    },
+    {
+      "id": "ca3a29db9a37ffb19327",
+      "category": "politics",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "publishedAt": "2026-11-13T03:57:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+        }
+      ]
+    },
+    {
+      "id": "84ec87286cb35a64f463",
+      "category": "ai",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "",
+      "publishedAt": "2026-11-12T19:07:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+        }
+      ]
+    },
+    {
+      "id": "21926f4c8015e9adbbe5",
+      "category": "finance",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "publishedAt": "2026-11-13T00:13:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo"
+        }
+      ]
+    },
+    {
+      "id": "4072f814f2c1c147402d",
+      "category": "politics",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "publishedAt": "2026-11-13T03:02:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo"
+        }
+      ]
+    },
+    {
+      "id": "fd8dc61a1e0c72c6cace",
+      "category": "finance",
+      "title": "Some under-25s should get fewer benefits, Milburn review to say",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "publishedAt": "2026-11-12T22:51:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o"
+        }
+      ]
+    },
+    {
+      "id": "996ab586942de44e6f82",
+      "category": "politics",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "publishedAt": "2026-11-13T02:48:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o"
+        }
+      ]
+    },
+    {
+      "id": "1ee6867cdbb6f3c3818c",
+      "category": "finance",
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "summary": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and",
+      "publishedAt": "2026-11-12T18:30:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm"
+        }
+      ]
+    },
+    {
+      "id": "93d73d25254ef55f8e63",
+      "category": "politics",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "publishedAt": "2026-11-13T02:01:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo"
+        }
+      ]
+    },
+    {
+      "id": "87a784bdd6110f056713",
+      "category": "finance",
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "summary": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "publishedAt": "2026-11-12T17:45:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm"
+        }
+      ]
+    },
+    {
+      "id": "03b1cc153f61f68d968e",
+      "category": "politics",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "publishedAt": "2026-11-13T00:20:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o"
+        }
+      ]
+    },
+    {
+      "id": "e589a1e1c99ea10e62c2",
+      "category": "finance",
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "publishedAt": "2026-11-12T16:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm"
+        }
+      ]
+    },
+    {
+      "id": "432ede6f7e774e925e51",
+      "category": "politics",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "publishedAt": "2026-11-12T23:42:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go"
+        }
+      ]
+    },
+    {
+      "id": "b76a63ca5ce2b807d13b",
+      "category": "finance",
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
+      "publishedAt": "2026-11-12T15:26:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o"
+        }
+      ]
+    },
+    {
+      "id": "3e4897333b94039d462d",
+      "category": "politics",
+      "title": "Search for British woman missing from Tui cruise in Atlantic called off",
+      "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
+      "publishedAt": "2026-11-12T21:27:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo"
+        }
+      ]
+    },
+    {
+      "id": "32d9a25b04c41f04fc02",
+      "category": "finance",
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "publishedAt": "2026-11-12T15:10:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o"
+        }
+      ]
+    },
+    {
+      "id": "8e8be77758f1ce4ecc1f",
+      "category": "politics",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "publishedAt": "2026-11-12T20:09:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo"
+        }
+      ]
+    }
+  ]
+}
