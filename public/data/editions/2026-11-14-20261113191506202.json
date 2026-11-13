@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-13T19:15:06.202Z",
+  "coverageStart": "2026-11-12T19:15:06.202Z",
+  "coverageEnd": "2026-11-13T19:15:06.202Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 21
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "19fff1a24517a8162408",
+      "category": "finance",
+      "title": "Are board games making a comeback this Christmas?",
+      "summary": "Are board games making a comeback this Christmas?",
+      "publishedAt": "2026-11-13T18:00:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo"
+        }
+      ]
+    },
+    {
+      "id": "9ef83166d516202b7e0f",
+      "category": "politics",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "publishedAt": "2026-11-13T19:03:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o"
+        }
+      ]
+    },
+    {
+      "id": "cdc8eef67bc55a0d0fa5",
+      "category": "ai",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+        }
+      ]
+    },
+    {
+      "id": "613a474422d6eff1569c",
+      "category": "finance",
+      "title": "What are people emergency stockpiling?",
+      "summary": "From cider to candy canes: What people are emergency stockpiling",
+      "publishedAt": "2026-11-13T16:31:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo"
+        }
+      ]
+    },
+    {
+      "id": "a7179ac499447b790370",
+      "category": "politics",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "publishedAt": "2026-11-13T18:36:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+        }
+      ]
+    },
+    {
+      "id": "96c7f67bef86f8316048",
+      "category": "ai",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "publishedAt": "2026-11-13T17:02:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/xybench"
+        }
+      ]
+    },
+    {
+      "id": "bc03c21ca07a81219c91",
+      "category": "finance",
+      "title": "Shoplifters 'stealing to order' in Scottish shops",
+      "summary": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+      "publishedAt": "2026-11-13T14:16:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o"
+        }
+      ]
+    },
+    {
+      "id": "841377b7806ac5ec355d",
+      "category": "politics",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "publishedAt": "2026-11-13T18:34:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo"
+        }
+      ]
+    },
+    {
+      "id": "6841e619fcd7e8d93702",
+      "category": "ai",
+      "title": "llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:05:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        }
+      ]
+    },
+    {
+      "id": "55a5901102a751afc232",
+      "category": "finance",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "publishedAt": "2026-11-13T09:29:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o"
+        }
+      ]
+    },
+    {
+      "id": "e3130f190e2ea915e37b",
+      "category": "politics",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "publishedAt": "2026-11-13T16:40:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo"
+        }
+      ]
+    },
+    {
+      "id": "25f64aff74fe09c6a9a7",
+      "category": "finance",
+      "title": "Politicians back focus on cost of living",
+      "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+      "publishedAt": "2026-11-13T06:23:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no"
+        }
+      ]
+    },
+    {
+      "id": "f4aab3e216f34e9232e6",
+      "category": "politics",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "publishedAt": "2026-11-13T15:42:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go"
+        }
+      ]
+    },
+    {
+      "id": "3356842ee68f8bb026b4",
+      "category": "finance",
+      "title": "Cider makers fear future for orchards as costs grow",
+      "summary": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+      "publishedAt": "2026-11-13T06:21:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo"
+        }
+      ]
+    },
+    {
+      "id": "49b7f4e09f25e8733b88",
+      "category": "politics",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "publishedAt": "2026-11-13T15:40:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro"
+        }
+      ]
+    },
+    {
+      "id": "ca3a29db9a37ffb19327",
+      "category": "finance",
+      "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+      "summary": "Huang abruptly quit on Thursday as head of one of the world's most valuable companies after revelations of alleged extramarital affairs.",
+      "publishedAt": "2026-11-13T03:57:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o"
+        }
+      ]
+    },
+    {
+      "id": "5f884eae5b33dce77f8a",
+      "category": "politics",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "publishedAt": "2026-11-13T15:16:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo"
+        }
+      ]
+    },
+    {
+      "id": "3d7cd6c563875cff176f",
+      "category": "finance",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "summary": "We ask people in New York City how much they pay for their homes.",
+      "publishedAt": "2026-11-13T01:30:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o"
+        }
+      ]
+    },
+    {
+      "id": "891f06b10a240ff3f3a6",
+      "category": "politics",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "publishedAt": "2026-11-13T15:09:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo"
+        }
+      ]
+    }
+  ]
+}
