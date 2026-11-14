@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T05:07:37.772Z",
+  "coverageStart": "2026-11-13T05:07:37.772Z",
+  "coverageEnd": "2026-11-14T05:07:37.772Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 10
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "537d1229e28dcb2912c5",
+      "category": "finance",
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+      "publishedAt": "2026-11-13T21:15:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm"
+        }
+      ]
+    },
+    {
+      "id": "784dac54c9361079dc09",
+      "category": "politics",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "publishedAt": "2026-11-14T01:47:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o"
+        }
+      ]
+    },
+    {
+      "id": "cdc8eef67bc55a0d0fa5",
+      "category": "ai",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+        }
+      ]
+    },
+    {
+      "id": "19fff1a24517a8162408",
+      "category": "finance",
+      "title": "Are board games making a comeback this Christmas?",
+      "summary": "Are board games making a comeback this Christmas?",
+      "publishedAt": "2026-11-13T18:00:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo"
+        }
+      ]
+    },
+    {
+      "id": "3a3d7473164ec5335e7d",
+      "category": "politics",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "publishedAt": "2026-11-14T00:03:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo"
+        }
+      ]
+    },
+    {
+      "id": "96c7f67bef86f8316048",
+      "category": "ai",
+      "title": "XYBench: Helping with the problem behind the question",
+      "summary": "",
+      "publishedAt": "2026-11-13T17:02:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/xybench"
+        }
+      ]
+    },
+    {
+      "id": "613a474422d6eff1569c",
+      "category": "finance",
+      "title": "What are people emergency stockpiling?",
+      "summary": "From cider to candy canes: What people are emergency stockpiling",
+      "publishedAt": "2026-11-13T16:31:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo"
+        }
+      ]
+    },
+    {
+      "id": "39cb521abcc8aadd2d1b",
+      "category": "politics",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "publishedAt": "2026-11-14T00:03:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo"
+        }
+      ]
+    },
+    {
+      "id": "6841e619fcd7e8d93702",
+      "category": "ai",
+      "title": "llama.cpp v1.0.0: A stronger foundation for the local AI ecosystem",
+      "summary": "",
+      "publishedAt": "2026-11-13T14:05:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        }
+      ]
+    },
+    {
+      "id": "bc03c21ca07a81219c91",
+      "category": "finance",
+      "title": "Shoplifters 'stealing to order' in Scottish shops",
+      "summary": "Shopworkers in Scotland say they're facing rising levels of violence, including attacks with harpoon guns and machetes, as reports of shoplifting rise dramatically.",
+      "publishedAt": "2026-11-13T14:16:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cw772xkxjm37o"
+        }
+      ]
+    },
+    {
+      "id": "6756af101ccd97a8ceb7",
+      "category": "politics",
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "publishedAt": "2026-11-14T00:01:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+        }
+      ]
+    },
+    {
+      "id": "55a5901102a751afc232",
+      "category": "finance",
+      "title": "Heat pumps: How much heat does your home really need?",
+      "summary": "Knowing how much heat your home loses is important before installing a new heating system.",
+      "publishedAt": "2026-11-13T09:29:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o"
+        }
+      ]
+    },
+    {
+      "id": "fdb68417927b50a65652",
+      "category": "politics",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "publishedAt": "2026-11-13T23:40:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo"
+        }
+      ]
+    },
+    {
+      "id": "25f64aff74fe09c6a9a7",
+      "category": "finance",
+      "title": "Politicians back focus on cost of living",
+      "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+      "publishedAt": "2026-11-13T06:23:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no"
+        }
+      ]
+    },
+    {
+      "id": "27f615305efd246708b4",
+      "category": "politics",
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "publishedAt": "2026-11-13T23:11:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo"
+        }
+      ]
+    },
+    {
+      "id": "3356842ee68f8bb026b4",
+      "category": "finance",
+      "title": "Cider makers fear future for orchards as costs grow",
+      "summary": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+      "publishedAt": "2026-11-13T06:21:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo"
+        }
+      ]
+    },
+    {
+      "id": "ebf9d86ad0b0b7de77df",
+      "category": "politics",
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "publishedAt": "2026-11-13T23:00:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo"
+        }
+      ]
+    },
+    {
+      "id": "db67b4f4eacea57906ae",
+      "category": "politics",
+      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
+      "summary": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
+      "publishedAt": "2026-11-13T21:15:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
+        }
+      ]
+    }
+  ]
+}
