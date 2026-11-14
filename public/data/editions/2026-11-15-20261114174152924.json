@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-14T17:41:52.924Z",
+  "coverageStart": "2026-11-13T17:41:52.924Z",
+  "coverageEnd": "2026-11-14T17:41:52.924Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 21
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 8
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "7fe5a8749097d3c880de",
+      "category": "finance",
+      "title": "Football kit giveaway aims to boost participation",
+      "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+      "publishedAt": "2026-11-14T08:13:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo"
+        }
+      ]
+    },
+    {
+      "id": "5bfebd58b9443dcaccf7",
+      "category": "politics",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "publishedAt": "2026-11-14T17:16:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno"
+        }
+      ]
+    },
+    {
+      "id": "cdc8eef67bc55a0d0fa5",
+      "category": "ai",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "summary": "",
+      "publishedAt": "2026-11-13T18:00:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place"
+        }
+      ]
+    },
+    {
+      "id": "f182d9df4677f197c488",
+      "category": "finance",
+      "title": "The rise of 'housefishing' by estate agents",
+      "summary": "The rise of 'housefishing' by estate agents.",
+      "publishedAt": "2026-11-14T07:45:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo"
+        }
+      ]
+    },
+    {
+      "id": "a2e4f8948c514022303d",
+      "category": "politics",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing 20 million users it had access to their photos.",
+      "publishedAt": "2026-11-14T16:29:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o"
+        }
+      ]
+    },
+    {
+      "id": "fd8ce9f123e3aa3b999f",
+      "category": "finance",
+      "title": "What do Christmas market traders say about rising prices?",
+      "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+      "publishedAt": "2026-11-14T07:11:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo"
+        }
+      ]
+    },
+    {
+      "id": "70275d0e699d06687aef",
+      "category": "politics",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "publishedAt": "2026-11-14T15:53:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do"
+        }
+      ]
+    },
+    {
+      "id": "5702c69d7d1ee70bf166",
+      "category": "finance",
+      "title": "Food bank sees donations drop by 10% each year",
+      "summary": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+      "publishedAt": "2026-11-14T06:33:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno"
+        }
+      ]
+    },
+    {
+      "id": "042f3030f6cb45e3e34b",
+      "category": "politics",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "publishedAt": "2026-11-14T15:42:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo"
+        }
+      ]
+    },
+    {
+      "id": "537d1229e28dcb2912c5",
+      "category": "finance",
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "summary": "Agencies extend comment period for proposed third-party risk management guidance",
+      "publishedAt": "2026-11-13T21:15:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm"
+        }
+      ]
+    },
+    {
+      "id": "45c521b7acedad650db4",
+      "category": "politics",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "publishedAt": "2026-11-14T15:15:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+        }
+      ]
+    },
+    {
+      "id": "a7179ac499447b790370",
+      "category": "finance",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
+      "publishedAt": "2026-11-13T18:36:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o"
+        }
+      ]
+    },
+    {
+      "id": "f4aa784a106a63e05262",
+      "category": "politics",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "publishedAt": "2026-11-14T14:20:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+        }
+      ]
+    },
+    {
+      "id": "19fff1a24517a8162408",
+      "category": "finance",
+      "title": "Are board games making a comeback this Christmas?",
+      "summary": "Are board games making a comeback this Christmas?",
+      "publishedAt": "2026-11-13T18:00:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo"
+        }
+      ]
+    },
+    {
+      "id": "6756af101ccd97a8ceb7",
+      "category": "politics",
+      "title": "Second catch attempt for SpaceX Starship rocket",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "publishedAt": "2026-11-14T14:18:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo"
+        }
+      ]
+    },
+    {
+      "id": "db67b4f4eacea57906ae",
+      "category": "politics",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+      "publishedAt": "2026-11-14T11:30:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
+        }
+      ]
+    }
+  ]
+}
