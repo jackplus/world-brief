@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-15T04:59:40.010Z",
+  "coverageStart": "2026-11-14T04:59:40.010Z",
+  "coverageEnd": "2026-11-15T04:59:40.010Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 6
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "d68b444ca72afec9fc64",
+      "category": "finance",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "publishedAt": "2026-11-15T00:01:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o"
+        }
+      ]
+    },
+    {
+      "id": "5ab638cc62c23afdb1d4",
+      "category": "politics",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
+      "publishedAt": "2026-11-15T03:21:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o"
+        }
+      ]
+    },
+    {
+      "id": "7fe5a8749097d3c880de",
+      "category": "finance",
+      "title": "Football kit giveaway aims to boost participation",
+      "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+      "publishedAt": "2026-11-14T08:13:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo"
+        }
+      ]
+    },
+    {
+      "id": "49ac8109f1904ed3804a",
+      "category": "politics",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "publishedAt": "2026-11-15T02:49:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo"
+        }
+      ]
+    },
+    {
+      "id": "f182d9df4677f197c488",
+      "category": "finance",
+      "title": "The rise of 'housefishing' by estate agents",
+      "summary": "The rise of 'housefishing' by estate agents.",
+      "publishedAt": "2026-11-14T07:45:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo"
+        }
+      ]
+    },
+    {
+      "id": "6ec39c9df1ba27161684",
+      "category": "politics",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "publishedAt": "2026-11-15T00:06:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o"
+        }
+      ]
+    },
+    {
+      "id": "fd8ce9f123e3aa3b999f",
+      "category": "finance",
+      "title": "What do Christmas market traders say about rising prices?",
+      "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+      "publishedAt": "2026-11-14T07:11:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo"
+        }
+      ]
+    },
+    {
+      "id": "73cb95bb1c3d4d67b087",
+      "category": "politics",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "publishedAt": "2026-11-15T00:06:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo"
+        }
+      ]
+    },
+    {
+      "id": "a61501fbc50aff18ab3c",
+      "category": "finance",
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "publishedAt": "2026-11-14T06:42:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o"
+        }
+      ]
+    },
+    {
+      "id": "f4aa784a106a63e05262",
+      "category": "politics",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "publishedAt": "2026-11-14T23:11:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+        }
+      ]
+    },
+    {
+      "id": "5702c69d7d1ee70bf166",
+      "category": "finance",
+      "title": "Food bank sees donations drop by 10% each year",
+      "summary": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+      "publishedAt": "2026-11-14T06:33:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno"
+        }
+      ]
+    },
+    {
+      "id": "45c521b7acedad650db4",
+      "category": "politics",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "publishedAt": "2026-11-14T22:37:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo"
+        }
+      ]
+    },
+    {
+      "id": "ffe115de55f19eb62bd6",
+      "category": "politics",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "publishedAt": "2026-11-14T22:09:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo"
+        }
+      ]
+    },
+    {
+      "id": "db67b4f4eacea57906ae",
+      "category": "politics",
+      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
+      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
+      "publishedAt": "2026-11-14T19:14:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o"
+        }
+      ]
+    }
+  ]
+}
