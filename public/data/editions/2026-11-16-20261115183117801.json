@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-15T18:31:17.801Z",
+  "coverageStart": "2026-11-14T18:31:17.801Z",
+  "coverageEnd": "2026-11-15T18:31:17.801Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "4093048bf9d165e31434",
+      "category": "finance",
+      "title": "Minister backs legal right to job support for young people",
+      "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "publishedAt": "2026-11-15T13:06:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o"
+        }
+      ]
+    },
+    {
+      "id": "a242169afebd032538f5",
+      "category": "politics",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "publishedAt": "2026-11-15T18:08:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o"
+        }
+      ]
+    },
+    {
+      "id": "d68b444ca72afec9fc64",
+      "category": "finance",
+      "title": "Beauty advent calendars can cost hundreds but are they value for money?",
+      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "publishedAt": "2026-11-15T00:01:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o"
+        }
+      ]
+    },
+    {
+      "id": "7aaf12aa88cef79f932b",
+      "category": "politics",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "publishedAt": "2026-11-15T17:23:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o"
+        }
+      ]
+    },
+    {
+      "id": "5ab638cc62c23afdb1d4",
+      "category": "politics",
+      "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+      "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course.",
+      "publishedAt": "2026-11-15T15:57:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o"
+        }
+      ]
+    },
+    {
+      "id": "f4aa784a106a63e05262",
+      "category": "politics",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "publishedAt": "2026-11-15T14:57:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo"
+        }
+      ]
+    },
+    {
+      "id": "5ec261feee59d8328e3f",
+      "category": "politics",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "publishedAt": "2026-11-15T14:56:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+        }
+      ]
+    },
+    {
+      "id": "2836d51dacc7d38f54d8",
+      "category": "politics",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "publishedAt": "2026-11-15T14:33:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o"
+        }
+      ]
+    },
+    {
+      "id": "985f21bc1fc22e48da60",
+      "category": "politics",
+      "title": "Iran targets US military base in Bahrain with drone attack",
+      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
+      "publishedAt": "2026-11-15T13:42:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo"
+        }
+      ]
+    },
+    {
+      "id": "7889913091ebb837e31e",
+      "category": "politics",
+      "title": "South Korea's top scorer in tax accountancy exam admits cheating",
+      "summary": "Han Won-seok, 34, confessed to using a hidden camera and AI to get a near-perfect mark on the significant test.",
+      "publishedAt": "2026-11-15T13:37:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckvg2ezvpe08o"
+        }
+      ]
+    }
+  ]
+}
