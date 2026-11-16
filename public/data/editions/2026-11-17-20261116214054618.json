@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-16T21:40:54.618Z",
+  "coverageStart": "2026-11-15T21:40:54.618Z",
+  "coverageEnd": "2026-11-16T21:40:54.618Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "error",
+      "note": "HTTP 404"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "3242263f98150451dc93",
+      "category": "finance",
+      "title": "'Parents are offering to pay kids' wages': Salon owner",
+      "summary": "National Insurance (NI) paid by firms on under-25s should be gradually lowered to help create more jobs, according to a new report from former government minister Alan Milburn, due",
+      "publishedAt": "2026-11-16T18:05:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo"
+        }
+      ]
+    },
+    {
+      "id": "f4cd3366b8296c4c4904",
+      "category": "politics",
+      "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "publishedAt": "2026-11-16T20:33:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo"
+        }
+      ]
+    },
+    {
+      "id": "8ec21efa2c62273428cb",
+      "category": "ai",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "summary": "",
+      "publishedAt": "2026-11-16T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/openrouter"
+        }
+      ]
+    },
+    {
+      "id": "a10dcca4fcf2895604a3",
+      "category": "finance",
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+      "publishedAt": "2026-11-16T13:19:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko"
+        }
+      ]
+    },
+    {
+      "id": "cda24df10f730ebe4de3",
+      "category": "politics",
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "publishedAt": "2026-11-16T19:30:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go"
+        }
+      ]
+    },
+    {
+      "id": "821481b3f5bba3f5b609",
+      "category": "finance",
+      "title": "Avoid this Black Friday scam - how to check it's a real deal",
+      "summary": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+      "publishedAt": "2026-11-16T09:58:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko"
+        }
+      ]
+    },
+    {
+      "id": "6b3f9293b8b2b0bee44d",
+      "category": "politics",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "publishedAt": "2026-11-16T19:16:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+        }
+      ]
+    },
+    {
+      "id": "869dcbb5815c98686257",
+      "category": "finance",
+      "title": "Gas starts flowing from Jackdaw after government green light",
+      "summary": "Ministers last month announced the Jackdaw gas field, which lies 150 miles east of Aberdeen, had been approved after years of uncertainty.",
+      "publishedAt": "2026-11-16T06:24:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2elzm047po"
+        }
+      ]
+    },
+    {
+      "id": "4b6cc1e3f95b6f55ac96",
+      "category": "politics",
+      "title": "When will we see Robert Pattinson as Bond in cinemas?",
+      "summary": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+      "publishedAt": "2026-11-16T17:18:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o"
+        }
+      ]
+    },
+    {
+      "id": "0426e4bda92fc2658784",
+      "category": "finance",
+      "title": "Thrift shop asks shoppers to nominate a charity",
+      "summary": "The owners want customers and donors to decide what charities benefit each month.",
+      "publishedAt": "2026-11-16T06:03:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c804wp1y2ky1o"
+        }
+      ]
+    },
+    {
+      "id": "fb710be5c7d9697ccaa7",
+      "category": "politics",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "publishedAt": "2026-11-16T16:27:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go"
+        }
+      ]
+    },
+    {
+      "id": "ce6acca1fd815f54784c",
+      "category": "finance",
+      "title": "'Break-in and rising costs could kill my business'",
+      "summary": "Gordon Kidd says if things do not improve financially, he fears his firm in Shifnal will go under.",
+      "publishedAt": "2026-11-16T05:57:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9n731r5mej5o"
+        }
+      ]
+    },
+    {
+      "id": "91701301b091b2d4ce06",
+      "category": "politics",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "publishedAt": "2026-11-16T15:40:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo"
+        }
+      ]
+    },
+    {
+      "id": "675ddd29d5c7552cece6",
+      "category": "finance",
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
+      "publishedAt": "2026-11-16T03:04:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do"
+        }
+      ]
+    },
+    {
+      "id": "ab9e23c3d578b2ee9012",
+      "category": "politics",
+      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
+      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
+      "publishedAt": "2026-11-16T15:08:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo"
+        }
+      ]
+    },
+    {
+      "id": "5ec261feee59d8328e3f",
+      "category": "finance",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "publishedAt": "2026-11-16T01:47:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+        }
+      ]
+    },
+    {
+      "id": "2c43a1ccc4ed3fb58128",
+      "category": "politics",
+      "title": "Robert Pattinson: How the Twilight star became 007",
+      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
+      "publishedAt": "2026-11-16T15:02:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo"
+        }
+      ]
+    }
+  ]
+}
