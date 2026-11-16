@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-16T04:58:12.179Z",
+  "coverageStart": "2026-11-15T04:58:12.179Z",
+  "coverageEnd": "2026-11-16T04:58:12.179Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 14
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 7
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "675ddd29d5c7552cece6",
+      "category": "finance",
+      "title": "Investors sue chip giant Intel after 29% stock plunge",
+      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "publishedAt": "2026-11-16T03:04:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw62p42p288do"
+        }
+      ]
+    },
+    {
+      "id": "b64d8e389e35b44cb379",
+      "category": "politics",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "publishedAt": "2026-11-16T03:21:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo"
+        }
+      ]
+    },
+    {
+      "id": "821481b3f5bba3f5b609",
+      "category": "finance",
+      "title": "Black Friday and tax return scams - don't fall for these",
+      "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+      "publishedAt": "2026-11-16T00:50:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko"
+        }
+      ]
+    },
+    {
+      "id": "98f8478c07b7c838cb5b",
+      "category": "politics",
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "publishedAt": "2026-11-16T03:09:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o"
+        }
+      ]
+    },
+    {
+      "id": "a10dcca4fcf2895604a3",
+      "category": "finance",
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "publishedAt": "2026-11-15T22:30:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko"
+        }
+      ]
+    },
+    {
+      "id": "e3c6bc678a2741ba00f8",
+      "category": "politics",
+      "title": "Yemeni forces' retreat leaves Houthis in control of key Red Sea waterway",
+      "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden.",
+      "publishedAt": "2026-11-16T03:08:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo"
+        }
+      ]
+    },
+    {
+      "id": "91701301b091b2d4ce06",
+      "category": "finance",
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "publishedAt": "2026-11-15T22:00:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo"
+        }
+      ]
+    },
+    {
+      "id": "5ec261feee59d8328e3f",
+      "category": "politics",
+      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
+      "publishedAt": "2026-11-16T01:47:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo"
+        }
+      ]
+    },
+    {
+      "id": "4093048bf9d165e31434",
+      "category": "finance",
+      "title": "Minister backs legal right to job support for young people",
+      "summary": "The work and pensions secretary said the level of support currently on offer was too vague.",
+      "publishedAt": "2026-11-15T13:06:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o"
+        }
+      ]
+    },
+    {
+      "id": "838aa7a86c91dfbfdbdb",
+      "category": "politics",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "publishedAt": "2026-11-16T00:13:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o"
+        }
+      ]
+    },
+    {
+      "id": "d2671b80729f34c13424",
+      "category": "politics",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "publishedAt": "2026-11-15T22:57:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o"
+        }
+      ]
+    },
+    {
+      "id": "a4ace8307775c6b56645",
+      "category": "politics",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "publishedAt": "2026-11-15T22:28:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo"
+        }
+      ]
+    },
+    {
+      "id": "471362bfdd207df52977",
+      "category": "politics",
+      "title": "Canada bars Russia from Junior World Championships",
+      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
+      "publishedAt": "2026-11-15T22:01:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo"
+        }
+      ]
+    }
+  ]
+}
