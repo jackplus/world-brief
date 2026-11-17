@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T20:30:07.899Z",
+  "coverageStart": "2026-11-16T20:30:07.899Z",
+  "coverageEnd": "2026-11-17T20:30:07.899Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 23
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 13
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "38d8f9a840697731034c",
+      "category": "finance",
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "publishedAt": "2026-11-17T20:04:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo"
+        }
+      ]
+    },
+    {
+      "id": "26c8ffc003abe9516392",
+      "category": "politics",
+      "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
+      "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\".",
+      "publishedAt": "2026-11-17T20:25:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no"
+        }
+      ]
+    },
+    {
+      "id": "e6067cafd817cd59ffd4",
+      "category": "finance",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "publishedAt": "2026-11-17T15:56:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko"
+        }
+      ]
+    },
+    {
+      "id": "0936839706b70d14be34",
+      "category": "politics",
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "publishedAt": "2026-11-17T20:25:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo"
+        }
+      ]
+    },
+    {
+      "id": "7127d88efd361799ee5a",
+      "category": "finance",
+      "title": "US bank services returning to normal after major outage",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "publishedAt": "2026-11-17T15:04:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o"
+        }
+      ]
+    },
+    {
+      "id": "9bfaf1455c0b79ca3e46",
+      "category": "politics",
+      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
+      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
+      "publishedAt": "2026-11-17T18:58:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o"
+        }
+      ]
+    },
+    {
+      "id": "ef01b50c41b0f7e8585c",
+      "category": "finance",
+      "title": "Government must act now or lose Royal Mail, former minister warns",
+      "summary": "The former business secretary says \"undercutting\" by rivals will make Royal Mail \"unviable\".",
+      "publishedAt": "2026-11-17T12:43:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo"
+        }
+      ]
+    },
+    {
+      "id": "40eecc5b10757dd4ed9a",
+      "category": "politics",
+      "title": "UK sanctions firms over Israeli West Bank settlements",
+      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+      "publishedAt": "2026-11-17T18:27:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o"
+        }
+      ]
+    },
+    {
+      "id": "191aa394468b6d1eb0d5",
+      "category": "finance",
+      "title": "Where are the most jobs for 18-24 year-olds?",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "publishedAt": "2026-11-17T12:35:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko"
+        }
+      ]
+    },
+    {
+      "id": "618bf6cd43a38b1b0aaf",
+      "category": "politics",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "publishedAt": "2026-11-17T18:24:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+        }
+      ]
+    },
+    {
+      "id": "7fd08d1201fabc640c38",
+      "category": "finance",
+      "title": "Immigration arrests after organised crime blitz",
+      "summary": "Eighteen people were arrested for a range of suspected crimes including modern slavery, police say.",
+      "publishedAt": "2026-11-17T10:49:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cm3eg3q758gjo"
+        }
+      ]
+    },
+    {
+      "id": "4cd563498238d4e7bd43",
+      "category": "politics",
+      "title": "Trump says US taking 'very seriously' any Iranian plot against Washington",
+      "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\".",
+      "publishedAt": "2026-11-17T17:37:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo"
+        }
+      ]
+    },
+    {
+      "id": "6b3f9293b8b2b0bee44d",
+      "category": "finance",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "publishedAt": "2026-11-17T02:37:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+        }
+      ]
+    },
+    {
+      "id": "0156fee1c94e3027d8bb",
+      "category": "politics",
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "publishedAt": "2026-11-17T17:19:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo"
+        }
+      ]
+    },
+    {
+      "id": "29d469fa3ef791270eef",
+      "category": "finance",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+      "publishedAt": "2026-11-17T00:00:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo"
+        }
+      ]
+    },
+    {
+      "id": "7e169f37829ab000e243",
+      "category": "politics",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "publishedAt": "2026-11-17T17:10:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+        }
+      ]
+    }
+  ]
+}
