@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-17T06:46:30.957Z",
+  "coverageStart": "2026-11-16T06:46:30.957Z",
+  "coverageEnd": "2026-11-17T06:46:30.957Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "7127d88efd361799ee5a",
+      "category": "finance",
+      "title": "Customers report service outages at major US banks",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "publishedAt": "2026-11-17T00:18:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o"
+        }
+      ]
+    },
+    {
+      "id": "050a46d9a837d17aa222",
+      "category": "politics",
+      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
+      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
+      "publishedAt": "2026-11-17T05:59:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo"
+        }
+      ]
+    },
+    {
+      "id": "191aa394468b6d1eb0d5",
+      "category": "finance",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "publishedAt": "2026-11-17T00:00:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko"
+        }
+      ]
+    },
+    {
+      "id": "79e1c95f9466b4591e3e",
+      "category": "politics",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "publishedAt": "2026-11-17T05:57:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+        }
+      ]
+    },
+    {
+      "id": "29d469fa3ef791270eef",
+      "category": "finance",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with someone they don't know.",
+      "publishedAt": "2026-11-17T00:00:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo"
+        }
+      ]
+    },
+    {
+      "id": "bc50609cf1efa4f2f1c7",
+      "category": "politics",
+      "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+      "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\".",
+      "publishedAt": "2026-11-17T03:07:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo"
+        }
+      ]
+    },
+    {
+      "id": "15a4aafa0fae35bf32ae",
+      "category": "finance",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "publishedAt": "2026-11-16T22:32:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o"
+        }
+      ]
+    },
+    {
+      "id": "6b3f9293b8b2b0bee44d",
+      "category": "politics",
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "publishedAt": "2026-11-17T02:37:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go"
+        }
+      ]
+    },
+    {
+      "id": "3242263f98150451dc93",
+      "category": "finance",
+      "title": "'Parents are offering to pay kids' wages': Salon owner",
+      "summary": "National Insurance (NI) paid by firms on under-25s should be gradually lowered to help create more jobs, according to a new report from former government minister Alan Milburn, due",
+      "publishedAt": "2026-11-16T18:05:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c60rkn7vdjxxo"
+        }
+      ]
+    },
+    {
+      "id": "36feee1bc04641b422a3",
+      "category": "politics",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.",
+      "publishedAt": "2026-11-17T01:26:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko"
+        }
+      ]
+    },
+    {
+      "id": "91701301b091b2d4ce06",
+      "category": "finance",
+      "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "publishedAt": "2026-11-16T15:40:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo"
+        }
+      ]
+    },
+    {
+      "id": "aa840b6fdd19036a86e0",
+      "category": "politics",
+      "title": "Kidnap, child marriage and poverty: Why millions of Nigerian children can't go to school",
+      "summary": "BBC World Service launches programme in Hausa for out-of-school children in West Africa.",
+      "publishedAt": "2026-11-17T00:08:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3pw450ndyjqo"
+        }
+      ]
+    },
+    {
+      "id": "a10dcca4fcf2895604a3",
+      "category": "finance",
+      "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+      "summary": "Some parents are so desperate for their children to find a job that they've offered to pay their wages, one hairdresser has told the BBC.",
+      "publishedAt": "2026-11-16T13:19:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko"
+        }
+      ]
+    },
+    {
+      "id": "806702912d324c5faf96",
+      "category": "politics",
+      "title": "The AI start-ups fixing India's broken roads and messy land records",
+      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
+      "publishedAt": "2026-11-16T23:25:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo"
+        }
+      ]
+    },
+    {
+      "id": "821481b3f5bba3f5b609",
+      "category": "finance",
+      "title": "Avoid this Black Friday scam - how to check it's a real deal",
+      "summary": "Sales and the looming tax deadline mean more scams - here's how to make sure you don't get caught out.",
+      "publishedAt": "2026-11-16T09:58:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko"
+        }
+      ]
+    },
+    {
+      "id": "fb710be5c7d9697ccaa7",
+      "category": "politics",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "publishedAt": "2026-11-16T23:20:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw987343352go"
+        }
+      ]
+    }
+  ]
+}
