@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T06:04:23.205Z",
+  "coverageStart": "2026-11-17T06:04:23.205Z",
+  "coverageEnd": "2026-11-18T06:04:23.205Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 13
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "9fdc6d691b206f4df6c5",
+      "category": "finance",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "publishedAt": "2026-11-18T05:33:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo"
+        }
+      ]
+    },
+    {
+      "id": "df1977ca966d3981d6bd",
+      "category": "politics",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
+      "publishedAt": "2026-11-18T01:18:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo"
+        }
+      ]
+    },
+    {
+      "id": "5efa7e7dac148b0740a9",
+      "category": "finance",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "publishedAt": "2026-11-18T04:00:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o"
+        }
+      ]
+    },
+    {
+      "id": "b711e201cd6bb1636c2e",
+      "category": "politics",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "publishedAt": "2026-11-17T23:02:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o"
+        }
+      ]
+    },
+    {
+      "id": "2dfd1d8d61a7bbcb5394",
+      "category": "finance",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "publishedAt": "2026-11-18T03:07:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo"
+        }
+      ]
+    },
+    {
+      "id": "519aa89e59eb404a9c95",
+      "category": "politics",
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "publishedAt": "2026-11-17T22:46:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo"
+        }
+      ]
+    },
+    {
+      "id": "27cb41e2f91f7a3e6e75",
+      "category": "finance",
+      "title": "Europe plans to catch the next computer chip wave",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "publishedAt": "2026-11-18T00:00:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o"
+        }
+      ]
+    },
+    {
+      "id": "341a260697aed233bb1d",
+      "category": "politics",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "publishedAt": "2026-11-17T22:44:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo"
+        }
+      ]
+    },
+    {
+      "id": "38d8f9a840697731034c",
+      "category": "finance",
+      "title": "Speed camera fault may have allowed drivers to escape fines",
+      "summary": "The Home Office has revoked approval that allowed footage from speed cameras to be used in evidence.",
+      "publishedAt": "2026-11-17T20:04:54.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo"
+        }
+      ]
+    },
+    {
+      "id": "79e1c95f9466b4591e3e",
+      "category": "politics",
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "publishedAt": "2026-11-17T21:24:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo"
+        }
+      ]
+    },
+    {
+      "id": "f0915f4b08dfb89235fc",
+      "category": "finance",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "publishedAt": "2026-11-17T18:43:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo"
+        }
+      ]
+    },
+    {
+      "id": "0936839706b70d14be34",
+      "category": "politics",
+      "title": "Russian military plane crashes, killing all 19 on board",
+      "summary": "Russia's defence ministry says it preliminarily believes a technical malfunction was the cause of the crash in the Kemerovo region.",
+      "publishedAt": "2026-11-17T21:06:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo"
+        }
+      ]
+    },
+    {
+      "id": "618bf6cd43a38b1b0aaf",
+      "category": "finance",
+      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "publishedAt": "2026-11-17T18:24:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo"
+        }
+      ]
+    },
+    {
+      "id": "7e169f37829ab000e243",
+      "category": "politics",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "publishedAt": "2026-11-17T21:04:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo"
+        }
+      ]
+    },
+    {
+      "id": "e6067cafd817cd59ffd4",
+      "category": "finance",
+      "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+      "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says.",
+      "publishedAt": "2026-11-17T15:56:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko"
+        }
+      ]
+    },
+    {
+      "id": "7036da4c8754be8171d9",
+      "category": "politics",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "publishedAt": "2026-11-17T20:30:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo"
+        }
+      ]
+    }
+  ]
+}
