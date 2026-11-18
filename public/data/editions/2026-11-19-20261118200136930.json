@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-18T20:01:36.930Z",
+  "coverageStart": "2026-11-17T20:01:36.930Z",
+  "coverageEnd": "2026-11-18T20:01:36.930Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 31
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "d97d6f52e7ef8f38fcbb",
+      "category": "finance",
+      "title": "How high is UK inflation and how will you be affected?",
+      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+      "publishedAt": "2026-11-18T19:37:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o"
+        }
+      ]
+    },
+    {
+      "id": "239d131161fef1afe99d",
+      "category": "politics",
+      "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
+      "summary": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
+      "publishedAt": "2026-11-18T17:51:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o"
+        }
+      ]
+    },
+    {
+      "id": "f0b81ce3c14612880642",
+      "category": "ai",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+        }
+      ]
+    },
+    {
+      "id": "c0c4ef66e0d9307c0568",
+      "category": "finance",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+        }
+      ]
+    },
+    {
+      "id": "cdc6a802f0fa057102da",
+      "category": "politics",
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "publishedAt": "2026-11-18T17:34:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po"
+        }
+      ]
+    },
+    {
+      "id": "e55c8f2df06c07ffc92b",
+      "category": "ai",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:53:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+        }
+      ]
+    },
+    {
+      "id": "499f5822abba062ca588",
+      "category": "finance",
+      "title": "Cathedral's staff review 'difficult but necessary'",
+      "summary": "Gloucester Cathedral has been going through a restructure due to \"significant financial pressure\".",
+      "publishedAt": "2026-11-18T15:14:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6kgr03jlv4ro"
+        }
+      ]
+    },
+    {
+      "id": "e6f3618742b2e4795938",
+      "category": "politics",
+      "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
+      "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
+      "publishedAt": "2026-11-18T17:34:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o"
+        }
+      ]
+    },
+    {
+      "id": "aef632472a5e3af7f91b",
+      "category": "ai",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:00:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+        }
+      ]
+    },
+    {
+      "id": "36f8b4a23cb806eca29c",
+      "category": "finance",
+      "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+      "summary": "Energy bills are expected to jump by 26% a year for a typical household as UK inflation hits its highest rate for a year.",
+      "publishedAt": "2026-11-18T13:17:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo"
+        }
+      ]
+    },
+    {
+      "id": "e12a3e473d317fe0abcc",
+      "category": "politics",
+      "title": "New video shows explosions moments before part of Crimea Bridge collapses",
+      "summary": "BBC Verify analyses footage showing the final moments before part of the bridge fell and videos showing the scale of destruction.",
+      "publishedAt": "2026-11-18T17:09:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg28jy77z5o"
+        }
+      ]
+    },
+    {
+      "id": "ec56b5eff9affb1c339e",
+      "category": "ai",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/moe-expert-streaming"
+        }
+      ]
+    },
+    {
+      "id": "906b0982a9803d7a4aea",
+      "category": "finance",
+      "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+      "summary": "Prices are rising at their fastest pace for a year in the UK, and higher energy costs are on the way.",
+      "publishedAt": "2026-11-18T13:10:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o"
+        }
+      ]
+    },
+    {
+      "id": "a8922761579deba289ef",
+      "category": "politics",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "summary": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+      "publishedAt": "2026-11-18T17:00:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo"
+        }
+      ]
+    },
+    {
+      "id": "5b89a2db7f60ae9099b7",
+      "category": "ai",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "summary": "",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/rumble-2-flash"
+        }
+      ]
+    },
+    {
+      "id": "74eade274eec0f8c307d",
+      "category": "finance",
+      "title": "MP urges council to speed up heating oil payments",
+      "summary": "About 23,000 households use heating oil in Northumberland and face increasing bills this winter.",
+      "publishedAt": "2026-11-18T08:48:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm792dqz4qvyo"
+        }
+      ]
+    },
+    {
+      "id": "4b1393678d79e40ae048",
+      "category": "politics",
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "summary": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "publishedAt": "2026-11-18T17:00:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o"
+        }
+      ]
+    },
+    {
+      "id": "9fdc6d691b206f4df6c5",
+      "category": "finance",
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "publishedAt": "2026-11-18T08:47:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo"
+        }
+      ]
+    },
+    {
+      "id": "44bb7886db8285e303de",
+      "category": "politics",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "publishedAt": "2026-11-18T16:33:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o"
+        }
+      ]
+    },
+    {
+      "id": "f48018da42d6bca9b096",
+      "category": "finance",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "publishedAt": "2026-11-18T06:04:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo"
+        }
+      ]
+    },
+    {
+      "id": "ed6ab888d4f6ebdf5310",
+      "category": "politics",
+      "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+      "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+      "publishedAt": "2026-11-18T16:10:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo"
+        }
+      ]
+    }
+  ]
+}
