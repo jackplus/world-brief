@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T19:59:39.313Z",
+  "coverageStart": "2026-11-18T19:59:39.313Z",
+  "coverageEnd": "2026-11-19T19:59:39.313Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 15
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "325a2d06cee138cc11ca",
+      "category": "finance",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "publishedAt": "2026-11-19T16:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm"
+        }
+      ]
+    },
+    {
+      "id": "4517641d353957a37561",
+      "category": "politics",
+      "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+      "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin.",
+      "publishedAt": "2026-11-19T19:16:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go"
+        }
+      ]
+    },
+    {
+      "id": "cae7150e35adc05471fd",
+      "category": "finance",
+      "title": "Anthropic raises $81bn in record-breaking stock market debut",
+      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
+      "publishedAt": "2026-11-19T15:58:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo"
+        }
+      ]
+    },
+    {
+      "id": "5282d21d8c780042e746",
+      "category": "politics",
+      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
+      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
+      "publishedAt": "2026-11-19T17:38:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o"
+        }
+      ]
+    },
+    {
+      "id": "8dfe072800ef6a7a3663",
+      "category": "finance",
+      "title": "More support for households reliant on heating oil",
+      "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
+      "publishedAt": "2026-11-19T15:22:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o"
+        }
+      ]
+    },
+    {
+      "id": "62c7f8e59641a2573ffa",
+      "category": "politics",
+      "title": "Rohingya genocide: What was said in court and what happens now?",
+      "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court.",
+      "publishedAt": "2026-11-19T17:35:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o"
+        }
+      ]
+    },
+    {
+      "id": "5e9dbc2b190996500703",
+      "category": "finance",
+      "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+      "summary": "The UK's competition body says initial findings suggest the ticket-reselling website used drip pricing.",
+      "publishedAt": "2026-11-19T13:35:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo"
+        }
+      ]
+    },
+    {
+      "id": "067ed6b7042a9fb79e53",
+      "category": "politics",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "publishedAt": "2026-11-19T17:23:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo"
+        }
+      ]
+    },
+    {
+      "id": "6e07b4fc3c5036357645",
+      "category": "finance",
+      "title": "Increase in direct cremations since pandemic",
+      "summary": "A 2026 Cost of Dying Report found direct cremation was now chosen for about one in five funerals.",
+      "publishedAt": "2026-11-19T06:23:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck5ywnr59z85o"
+        }
+      ]
+    },
+    {
+      "id": "6a05d9ec97e8008b2bf7",
+      "category": "politics",
+      "title": "What did Trump, Xi and Putin get out of their historic meeting?",
+      "summary": "Trump, Putin and Xi have issued a \"joint declaration of peace\" after historical trilateral talks, but what did they get out of meeting?",
+      "publishedAt": "2026-11-19T17:23:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo"
+        }
+      ]
+    },
+    {
+      "id": "0ce4c0e45be9aa90b667",
+      "category": "finance",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market.",
+      "publishedAt": "2026-11-19T06:15:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo"
+        }
+      ]
+    },
+    {
+      "id": "116efff4a5dd6d63d86b",
+      "category": "politics",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "publishedAt": "2026-11-19T17:03:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno"
+        }
+      ]
+    },
+    {
+      "id": "02dce807da8e25f5f828",
+      "category": "finance",
+      "title": "Leftover pumpkins help deliver 1,000th free meal",
+      "summary": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+      "publishedAt": "2026-11-19T06:04:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno"
+        }
+      ]
+    },
+    {
+      "id": "5d000ade1e6277a2581a",
+      "category": "politics",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands.",
+      "publishedAt": "2026-11-19T16:55:57.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo"
+        }
+      ]
+    },
+    {
+      "id": "f9cbf15b535b820e280e",
+      "category": "finance",
+      "title": "Who are the investors ready to jump on Anthropic?",
+      "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+      "publishedAt": "2026-11-19T01:22:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo"
+        }
+      ]
+    },
+    {
+      "id": "cc4395e2f36829bd0c47",
+      "category": "politics",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "publishedAt": "2026-11-19T15:52:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo"
+        }
+      ]
+    }
+  ]
+}
