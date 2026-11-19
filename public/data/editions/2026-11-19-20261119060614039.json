@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-19T06:06:14.039Z",
+  "coverageStart": "2026-11-18T06:06:14.039Z",
+  "coverageEnd": "2026-11-19T06:06:14.039Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 18
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "02dce807da8e25f5f828",
+      "category": "finance",
+      "title": "Leftover pumpkins help deliver 1,000th free meal",
+      "summary": "\"It's a really tough time for a lot of people,\" a sustainable food organisation says.",
+      "publishedAt": "2026-11-19T06:04:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29jxgkjpno"
+        }
+      ]
+    },
+    {
+      "id": "a513a14ba10b6a2658e1",
+      "category": "politics",
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "publishedAt": "2026-11-19T04:42:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o"
+        }
+      ]
+    },
+    {
+      "id": "f0b81ce3c14612880642",
+      "category": "ai",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "summary": "",
+      "publishedAt": "2026-11-18T19:54:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+        }
+      ]
+    },
+    {
+      "id": "f9cbf15b535b820e280e",
+      "category": "finance",
+      "title": "Who are the investors ready to jump on Anthropic?",
+      "summary": "The BBC's Samira Hussain speaks to a retail investor eagerly waiting for the AI company's stock to go live on Thursday.",
+      "publishedAt": "2026-11-19T01:22:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6y0x84xx22wo"
+        }
+      ]
+    },
+    {
+      "id": "ca1d8168a34f27bc5dd5",
+      "category": "politics",
+      "title": "Crimean Bridge attacked again, Russian official says",
+      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
+      "publishedAt": "2026-11-19T04:37:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo"
+        }
+      ]
+    },
+    {
+      "id": "e55c8f2df06c07ffc92b",
+      "category": "ai",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "summary": "",
+      "publishedAt": "2026-11-18T18:53:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+        }
+      ]
+    },
+    {
+      "id": "4e59a2a6b0cb5fead4c1",
+      "category": "finance",
+      "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+      "summary": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+      "publishedAt": "2026-11-19T00:00:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno"
+        }
+      ]
+    },
+    {
+      "id": "4ff4c870a4d1aafb8dd5",
+      "category": "politics",
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "publishedAt": "2026-11-19T02:59:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o"
+        }
+      ]
+    },
+    {
+      "id": "aef632472a5e3af7f91b",
+      "category": "ai",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "summary": "",
+      "publishedAt": "2026-11-18T15:00:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse"
+        }
+      ]
+    },
+    {
+      "id": "a48badf7004703d911de",
+      "category": "finance",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "publishedAt": "2026-11-18T23:42:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o"
+        }
+      ]
+    },
+    {
+      "id": "cae7150e35adc05471fd",
+      "category": "politics",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "summary": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "publishedAt": "2026-11-19T02:20:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo"
+        }
+      ]
+    },
+    {
+      "id": "0ce4c0e45be9aa90b667",
+      "category": "finance",
+      "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+      "summary": "MSPs have heard both the pros and cons of the government's plan to launch its first ever bond to the market?",
+      "publishedAt": "2026-11-18T23:01:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo"
+        }
+      ]
+    },
+    {
+      "id": "266dd20b86fa4115256c",
+      "category": "politics",
+      "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
+      "summary": "Châtaigniers en fleurs was painted in 1890 in the final two months of Vincent van Gogh's life.",
+      "publishedAt": "2026-11-19T00:49:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c5dj1dkwzvzwo"
+        }
+      ]
+    },
+    {
+      "id": "71296a7faf1097ec8acf",
+      "category": "finance",
+      "title": "Business Daily",
+      "summary": "We examine the business of the Claude chatbot maker as it starts selling shares",
+      "publishedAt": "2026-11-18T21:30:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/sounds/play/w3ct8gm9"
+        }
+      ]
+    },
+    {
+      "id": "4f7db1fcee80eae66ebf",
+      "category": "politics",
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "publishedAt": "2026-11-19T00:38:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do"
+        }
+      ]
+    },
+    {
+      "id": "d97d6f52e7ef8f38fcbb",
+      "category": "finance",
+      "title": "How high is UK inflation and how will you be affected?",
+      "summary": "Prices rose 3.6% in the year to October, mainly because of higher petrol and diesel prices, official figures show.",
+      "publishedAt": "2026-11-18T19:37:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cxp80q5pv4q5o"
+        }
+      ]
+    },
+    {
+      "id": "49c8a8bd607f7789d730",
+      "category": "politics",
+      "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+      "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles.",
+      "publishedAt": "2026-11-18T23:47:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go"
+        }
+      ]
+    },
+    {
+      "id": "c0c4ef66e0d9307c0568",
+      "category": "finance",
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "summary": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "publishedAt": "2026-11-18T19:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm"
+        }
+      ]
+    },
+    {
+      "id": "720e16ec5af0be674390",
+      "category": "politics",
+      "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+      "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say.",
+      "publishedAt": "2026-11-18T23:28:03.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o"
+        }
+      ]
+    }
+  ]
+}
