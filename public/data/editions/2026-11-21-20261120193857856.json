@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-20T19:38:57.856Z",
+  "coverageStart": "2026-11-19T19:38:57.856Z",
+  "coverageEnd": "2026-11-20T19:38:57.856Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "8e08ea4300fb5d5aab82",
+      "category": "finance",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "publishedAt": "2026-11-20T16:41:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo"
+        }
+      ]
+    },
+    {
+      "id": "8a87ce9461bd0cd67781",
+      "category": "politics",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "publishedAt": "2026-11-20T19:27:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo"
+        }
+      ]
+    },
+    {
+      "id": "701a571706ec6c00de8b",
+      "category": "ai",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "summary": "",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/harness-adapters-at-scale"
+        }
+      ]
+    },
+    {
+      "id": "0b91abafbfcadaf8c4bb",
+      "category": "finance",
+      "title": "Airbnb's divisive new house rules come into force",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "publishedAt": "2026-11-20T15:48:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo"
+        }
+      ]
+    },
+    {
+      "id": "ff725159f4b90b5c5db0",
+      "category": "politics",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
+      "publishedAt": "2026-11-20T19:03:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo"
+        }
+      ]
+    },
+    {
+      "id": "7f178de5a5b3895d6242",
+      "category": "finance",
+      "title": "Could you spot a fake banknote?",
+      "summary": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
+      "publishedAt": "2026-11-20T15:40:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o"
+        }
+      ]
+    },
+    {
+      "id": "312bd5c0c3f4c343d63c",
+      "category": "politics",
+      "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+      "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+      "publishedAt": "2026-11-20T17:49:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o"
+        }
+      ]
+    },
+    {
+      "id": "c75baa22884a34dd65ca",
+      "category": "finance",
+      "title": "The secret cyber scramble to protect UK fridge freezers",
+      "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
+      "publishedAt": "2026-11-20T15:08:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o"
+        }
+      ]
+    },
+    {
+      "id": "bb98b992ff44e74ba9b8",
+      "category": "politics",
+      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
+      "publishedAt": "2026-11-20T17:36:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo"
+        }
+      ]
+    },
+    {
+      "id": "4b9813abbbbcba462a28",
+      "category": "finance",
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "summary": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "publishedAt": "2026-11-20T15:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm"
+        }
+      ]
+    },
+    {
+      "id": "dd678c417ecd29bb77ed",
+      "category": "politics",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "publishedAt": "2026-11-20T16:54:29.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro"
+        }
+      ]
+    },
+    {
+      "id": "29d11b513a171a2ba33a",
+      "category": "finance",
+      "title": "Thousands join cost of living protests across Europe",
+      "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
+      "publishedAt": "2026-11-20T14:43:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko"
+        }
+      ]
+    },
+    {
+      "id": "4be5e2499c7bd8e7b0d1",
+      "category": "politics",
+      "title": "Cost of living protests sweep across Europe",
+      "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues.",
+      "publishedAt": "2026-11-20T16:45:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o"
+        }
+      ]
+    },
+    {
+      "id": "c098c8dea679626b6c1d",
+      "category": "finance",
+      "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "publishedAt": "2026-11-20T13:08:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+        }
+      ]
+    },
+    {
+      "id": "3fb8e5ed49fd48eeaa6c",
+      "category": "politics",
+      "title": "Nearly 600 women killed in South Africa within three months",
+      "summary": "Police officials called for \"greater efforts to prevent... violence\" against women and children.",
+      "publishedAt": "2026-11-20T15:55:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o"
+        }
+      ]
+    },
+    {
+      "id": "b028fb2df147bd70ed4d",
+      "category": "finance",
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "publishedAt": "2026-11-20T09:44:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo"
+        }
+      ]
+    },
+    {
+      "id": "3df35227c87f6b7823da",
+      "category": "politics",
+      "title": "Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label",
+      "summary": "Carys Douglas, 23, made her stage debut this year in Anton Chekhov's play, The Seagull, in the US.",
+      "publishedAt": "2026-11-20T15:55:02.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o"
+        }
+      ]
+    }
+  ]
+}
