@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-21T05:47:47.107Z",
+  "coverageStart": "2026-11-20T05:47:47.107Z",
+  "coverageEnd": "2026-11-21T05:47:47.107Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "error",
+      "note": "HTTP 404"
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "c098c8dea679626b6c1d",
+      "category": "finance",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+        }
+      ]
+    },
+    {
+      "id": "6bd0be23632c65d99184",
+      "category": "politics",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Trump's comments came after Russia launched \"biggest attacks this year\" against Ukraine.",
+      "publishedAt": "2026-11-21T05:15:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo"
+        }
+      ]
+    },
+    {
+      "id": "8e08ea4300fb5d5aab82",
+      "category": "finance",
+      "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+      "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+      "publishedAt": "2026-11-20T16:41:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo"
+        }
+      ]
+    },
+    {
+      "id": "272d3b21cae55db040f2",
+      "category": "politics",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "publishedAt": "2026-11-21T04:34:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o"
+        }
+      ]
+    },
+    {
+      "id": "0b91abafbfcadaf8c4bb",
+      "category": "finance",
+      "title": "Airbnb's divisive new house rules come into force",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "publishedAt": "2026-11-20T15:48:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo"
+        }
+      ]
+    },
+    {
+      "id": "1aa5844ca46833177dc2",
+      "category": "politics",
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "publishedAt": "2026-11-21T01:02:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o"
+        }
+      ]
+    },
+    {
+      "id": "7f178de5a5b3895d6242",
+      "category": "finance",
+      "title": "Could you spot a fake banknote?",
+      "summary": "A landlord says he took £100 in fake banknotes during his pub's opening weekend.",
+      "publishedAt": "2026-11-20T15:40:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6808y974d13o"
+        }
+      ]
+    },
+    {
+      "id": "071cf928eef7869c7f17",
+      "category": "politics",
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "publishedAt": "2026-11-21T00:34:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo"
+        }
+      ]
+    },
+    {
+      "id": "c75baa22884a34dd65ca",
+      "category": "finance",
+      "title": "The secret cyber scramble to protect UK fridge freezers",
+      "summary": "A behind the scenes cyber-security operation has taken place to secure tens of thousands of refrigeration units from hackers, the BBC has learned.",
+      "publishedAt": "2026-11-20T15:08:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cqpv94x1zj89o"
+        }
+      ]
+    },
+    {
+      "id": "3df0760b00a421e2f3a1",
+      "category": "politics",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "publishedAt": "2026-11-21T00:01:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo"
+        }
+      ]
+    },
+    {
+      "id": "29d11b513a171a2ba33a",
+      "category": "finance",
+      "title": "Thousands join cost of living protests across Europe",
+      "summary": "Student-led protests have swept across Europe in response to the rising cost of living, housing shortages and underfunded education.",
+      "publishedAt": "2026-11-20T14:43:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko"
+        }
+      ]
+    },
+    {
+      "id": "a87b904113e0f7a72d60",
+      "category": "politics",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+      "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+      "publishedAt": "2026-11-20T23:28:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo"
+        }
+      ]
+    },
+    {
+      "id": "b028fb2df147bd70ed4d",
+      "category": "finance",
+      "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
+      "summary": "People stocking up on long-life food drove retail sales higher October, according to official data.",
+      "publishedAt": "2026-11-20T09:44:56.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo"
+        }
+      ]
+    },
+    {
+      "id": "39508776be079e4131b4",
+      "category": "politics",
+      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "publishedAt": "2026-11-20T23:20:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo"
+        }
+      ]
+    },
+    {
+      "id": "26f93c1bd10e75318fca",
+      "category": "finance",
+      "title": "Should AI be judging our credit worthiness?",
+      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "publishedAt": "2026-11-20T07:32:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo"
+        }
+      ]
+    },
+    {
+      "id": "25cd9ad450a3df45512c",
+      "category": "politics",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "publishedAt": "2026-11-20T23:15:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko"
+        }
+      ]
+    }
+  ]
+}
