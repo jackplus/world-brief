@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-21T18:44:29.758Z",
+  "coverageStart": "2026-11-20T18:44:29.758Z",
+  "coverageEnd": "2026-11-21T18:44:29.758Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "2a3ef5681dc5bbda1ac4",
+      "category": "finance",
+      "title": "Sessions offer advice on rising energy costs",
+      "summary": "A council is urging people to seek support with rising energy costs on heating this winter.",
+      "publishedAt": "2026-11-21T12:09:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49l3x893jo"
+        }
+      ]
+    },
+    {
+      "id": "0afef7db4686ed935b98",
+      "category": "politics",
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "publishedAt": "2026-11-21T18:22:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        }
+      ]
+    },
+    {
+      "id": "c098c8dea679626b6c1d",
+      "category": "finance",
+      "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+      "summary": "The mammoth figure surpasses every video game launch and single-day film box office record.",
+      "publishedAt": "2026-11-20T22:53:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o"
+        }
+      ]
+    },
+    {
+      "id": "82d79003537885226b31",
+      "category": "politics",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "publishedAt": "2026-11-21T16:35:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o"
+        }
+      ]
+    },
+    {
+      "id": "6ffb3b6c56d4e0fb0741",
+      "category": "finance",
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "summary": "Federal Reserve announces College Fed Challenge winners",
+      "publishedAt": "2026-11-20T21:15:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm"
+        }
+      ]
+    },
+    {
+      "id": "8b7bc02a677fcabd4c26",
+      "category": "politics",
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "publishedAt": "2026-11-21T14:54:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o"
+        }
+      ]
+    },
+    {
+      "id": "f6fc1dbe4ebee0d863d4",
+      "category": "politics",
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "publishedAt": "2026-11-21T13:17:38.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo"
+        }
+      ]
+    },
+    {
+      "id": "6e5196c5585d1a777c25",
+      "category": "politics",
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "publishedAt": "2026-11-21T13:15:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o"
+        }
+      ]
+    },
+    {
+      "id": "3a2a08725f018e30736d",
+      "category": "politics",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "publishedAt": "2026-11-21T10:26:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno"
+        }
+      ]
+    },
+    {
+      "id": "e7ac62ee8980691f6ae5",
+      "category": "politics",
+      "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+      "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+      "publishedAt": "2026-11-21T09:40:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o"
+        }
+      ]
+    },
+    {
+      "id": "6bd0be23632c65d99184",
+      "category": "politics",
+      "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+      "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+      "publishedAt": "2026-11-21T08:10:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo"
+        }
+      ]
+    }
+  ]
+}
