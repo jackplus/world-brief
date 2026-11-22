@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T19:05:53.422Z",
+  "coverageStart": "2026-11-21T19:05:53.422Z",
+  "coverageEnd": "2026-11-22T19:05:53.422Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 5
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "bdb651569942259d10f6",
+      "category": "finance",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "publishedAt": "2026-11-22T13:50:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o"
+        }
+      ]
+    },
+    {
+      "id": "fcb85812f82b61e0fde8",
+      "category": "politics",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "publishedAt": "2026-11-22T18:57:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo"
+        }
+      ]
+    },
+    {
+      "id": "5bf74a2be124a3e9de73",
+      "category": "finance",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "publishedAt": "2026-11-22T07:22:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo"
+        }
+      ]
+    },
+    {
+      "id": "cd68c8fe7174966ed80f",
+      "category": "politics",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "publishedAt": "2026-11-22T18:29:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo"
+        }
+      ]
+    },
+    {
+      "id": "d1a367e862c6d5d584ad",
+      "category": "finance",
+      "title": "Employers are being asked to give interview feedback - here's what applicants want",
+      "summary": "People say they often hear nothing back after applying for jobs. But could employers be forced to respond to every applicant?",
+      "publishedAt": "2026-11-22T00:04:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo"
+        }
+      ]
+    },
+    {
+      "id": "5a536dc8ad71aff4b558",
+      "category": "politics",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "summary": "COP31 climate talks fail to make breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+      "publishedAt": "2026-11-22T18:17:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        }
+      ]
+    },
+    {
+      "id": "6660a0cd7c1aaf2bf7aa",
+      "category": "politics",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "publishedAt": "2026-11-22T17:57:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o"
+        }
+      ]
+    },
+    {
+      "id": "0afef7db4686ed935b98",
+      "category": "politics",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
+      "publishedAt": "2026-11-22T17:18:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko"
+        }
+      ]
+    },
+    {
+      "id": "58887607f9ea2ca36b51",
+      "category": "politics",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "publishedAt": "2026-11-22T17:16:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        }
+      ]
+    },
+    {
+      "id": "79db65a62a994fcd09e2",
+      "category": "politics",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "publishedAt": "2026-11-22T14:05:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo"
+        }
+      ]
+    },
+    {
+      "id": "26411d0952097b7bd9dd",
+      "category": "politics",
+      "title": "South Korea education minister resigns over exam cheating scandal",
+      "summary": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
+      "publishedAt": "2026-11-22T09:20:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no"
+        }
+      ]
+    }
+  ]
+}
