@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-23T23:25:56.085Z",
+  "coverageStart": "2026-11-22T23:25:56.085Z",
+  "coverageEnd": "2026-11-23T23:25:56.085Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "ec23680aade17b729575",
+      "category": "finance",
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "publishedAt": "2026-11-23T21:40:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o"
+        }
+      ]
+    },
+    {
+      "id": "3f7a79e95d07dcbfa65f",
+      "category": "politics",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "publishedAt": "2026-11-23T23:16:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo"
+        }
+      ]
+    },
+    {
+      "id": "eb2701ff66febea27293",
+      "category": "ai",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/robotrack"
+        }
+      ]
+    },
+    {
+      "id": "b9ddec0a0e5713a74a19",
+      "category": "finance",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "publishedAt": "2026-11-23T21:23:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"
+        }
+      ]
+    },
+    {
+      "id": "054b8a7a6f1076297a6b",
+      "category": "politics",
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "publishedAt": "2026-11-23T20:48:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo"
+        }
+      ]
+    },
+    {
+      "id": "00d52199bef25f9eda98",
+      "category": "ai",
+      "title": "How to build and maintain an agentic evaluation",
+      "summary": "",
+      "publishedAt": "2026-11-23T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/agentic-evals"
+        }
+      ]
+    },
+    {
+      "id": "bdef4c1b645de4b303a1",
+      "category": "finance",
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "publishedAt": "2026-11-23T17:59:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo"
+        }
+      ]
+    },
+    {
+      "id": "78483dd0a1bfd334e185",
+      "category": "politics",
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+      "publishedAt": "2026-11-23T18:43:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo"
+        }
+      ]
+    },
+    {
+      "id": "20361ddbf3f89b379895",
+      "category": "finance",
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "publishedAt": "2026-11-23T17:11:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo"
+        }
+      ]
+    },
+    {
+      "id": "0b696fb1de3a60d8ae22",
+      "category": "politics",
+      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
+      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
+      "publishedAt": "2026-11-23T18:04:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o"
+        }
+      ]
+    },
+    {
+      "id": "f48018da42d6bca9b096",
+      "category": "finance",
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "publishedAt": "2026-11-23T16:12:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo"
+        }
+      ]
+    },
+    {
+      "id": "8f563a592b4383124117",
+      "category": "politics",
+      "title": "What failure of COP31 reveals about a divided world",
+      "summary": "Interests of oil-producing countries, a US boycott and a dispute over finance may have torpedoed climate talks.",
+      "publishedAt": "2026-11-23T17:24:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo"
+        }
+      ]
+    },
+    {
+      "id": "f11f9fec4696c7692d4d",
+      "category": "finance",
+      "title": "Nvidia reinstates CEO after affair with alleged spy",
+      "summary": "Senior US government officials backed Nvidia's decision to reinstate Jensen Huang, the company says in a statement.",
+      "publishedAt": "2026-11-23T14:51:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo"
+        }
+      ]
+    },
+    {
+      "id": "8c84f5c4d1e4bb2bbcd2",
+      "category": "politics",
+      "title": "Comedian impersonates Trump's dance moves, mocks trade talks at Canada press dinner",
+      "summary": "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+      "publishedAt": "2026-11-23T17:14:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr930y92dyx4o"
+        }
+      ]
+    },
+    {
+      "id": "e0a1ffeeb1e1903b323d",
+      "category": "finance",
+      "title": "Welfare cuts: What's been happening with Pip and universal credit?",
+      "summary": "The government commissioned a review into Pip last year after it was forced to water down planned cuts to benefits.",
+      "publishedAt": "2026-11-23T13:52:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cj924xvzrr2o"
+        }
+      ]
+    },
+    {
+      "id": "e0337e1861226ed65d45",
+      "category": "politics",
+      "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+      "summary": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+      "publishedAt": "2026-11-23T17:07:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o"
+        }
+      ]
+    },
+    {
+      "id": "8af616c319cf3211870d",
+      "category": "finance",
+      "title": "Next data accessed in cyber breach",
+      "summary": "The fashion retailer says there is no evidence customers' personal data was compromised.",
+      "publishedAt": "2026-11-23T12:34:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo"
+        }
+      ]
+    },
+    {
+      "id": "faaac939e2af4bb7d597",
+      "category": "politics",
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "publishedAt": "2026-11-23T15:49:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo"
+        }
+      ]
+    }
+  ]
+}
