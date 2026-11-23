@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-23T05:57:19.599Z",
+  "coverageStart": "2026-11-22T05:57:19.599Z",
+  "coverageEnd": "2026-11-23T05:57:19.599Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 9
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "bdef4c1b645de4b303a1",
+      "category": "finance",
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "summary": "Disability minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "publishedAt": "2026-11-23T04:01:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo"
+        }
+      ]
+    },
+    {
+      "id": "fcb85812f82b61e0fde8",
+      "category": "politics",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "publishedAt": "2026-11-23T05:34:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo"
+        }
+      ]
+    },
+    {
+      "id": "95abd8a1869bac7df2ea",
+      "category": "finance",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "publishedAt": "2026-11-23T01:05:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o"
+        }
+      ]
+    },
+    {
+      "id": "52e5a87f91246fc221fd",
+      "category": "politics",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "summary": "Eleven people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
+      "publishedAt": "2026-11-23T05:33:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go"
+        }
+      ]
+    },
+    {
+      "id": "b30040bfa497715d4404",
+      "category": "finance",
+      "title": "What is going on with Poundland?",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "publishedAt": "2026-11-23T00:22:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o"
+        }
+      ]
+    },
+    {
+      "id": "5a536dc8ad71aff4b558",
+      "category": "politics",
+      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
+      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
+      "publishedAt": "2026-11-23T05:15:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo"
+        }
+      ]
+    },
+    {
+      "id": "bdb651569942259d10f6",
+      "category": "finance",
+      "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
+      "summary": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+      "publishedAt": "2026-11-22T13:50:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o"
+        }
+      ]
+    },
+    {
+      "id": "58887607f9ea2ca36b51",
+      "category": "politics",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "publishedAt": "2026-11-23T02:59:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo"
+        }
+      ]
+    },
+    {
+      "id": "5bf74a2be124a3e9de73",
+      "category": "finance",
+      "title": "MP criticises Guernsey and Jersey company ownership register plans",
+      "summary": "Sir Andrew Mitchell says access should be easier for people tackling financial crime.",
+      "publishedAt": "2026-11-22T07:22:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo"
+        }
+      ]
+    },
+    {
+      "id": "42e3f1bf8fef0edce822",
+      "category": "politics",
+      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
+      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
+      "publishedAt": "2026-11-23T01:23:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno"
+        }
+      ]
+    },
+    {
+      "id": "ca140870714f3a54cfff",
+      "category": "politics",
+      "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+      "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+      "publishedAt": "2026-11-23T00:33:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo"
+        }
+      ]
+    },
+    {
+      "id": "2a56997e3b55295e7a30",
+      "category": "politics",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "publishedAt": "2026-11-23T00:08:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o"
+        }
+      ]
+    },
+    {
+      "id": "c0a7e9c5f62cb9e06041",
+      "category": "politics",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "publishedAt": "2026-11-22T22:49:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo"
+        }
+      ]
+    }
+  ]
+}
