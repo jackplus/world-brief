@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-24T21:56:58.110Z",
+  "coverageStart": "2026-11-23T21:56:58.110Z",
+  "coverageEnd": "2026-11-24T21:56:58.110Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 20
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "d7c39d6dae4b3b3af9f5",
+      "category": "finance",
+      "title": "Will I get the £100 energy payment and when will I receive it?",
+      "summary": "Here is what you need to know about the payment that millions will receive from January.",
+      "publishedAt": "2026-11-24T20:16:24.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o"
+        }
+      ]
+    },
+    {
+      "id": "93741d05d81014d64b7b",
+      "category": "politics",
+      "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+      "summary": "The verdict follows a months-long trial in New York.",
+      "publishedAt": "2026-11-24T21:32:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo"
+        }
+      ]
+    },
+    {
+      "id": "6a28e842b3bf4bfd8400",
+      "category": "ai",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "summary": "",
+      "publishedAt": "2026-11-24T16:34:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
+        }
+      ]
+    },
+    {
+      "id": "ee53adbaa022cb629b98",
+      "category": "finance",
+      "title": "Minutes of the Board&#39;s discount rate meetings on October 19 and October 28, 2026",
+      "summary": "Minutes of the Board&#39;s discount rate meetings on October 19 and October 28, 2026",
+      "publishedAt": "2026-11-24T19:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261124a.htm"
+        }
+      ]
+    },
+    {
+      "id": "0ff725cb7ee00c2d6a6c",
+      "category": "politics",
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "publishedAt": "2026-11-24T21:19:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo"
+        }
+      ]
+    },
+    {
+      "id": "c4b16dee2b5ea88ffbd5",
+      "category": "finance",
+      "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+      "summary": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+      "publishedAt": "2026-11-24T18:21:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o"
+        }
+      ]
+    },
+    {
+      "id": "e4b01f5ec806476d8bca",
+      "category": "politics",
+      "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
+      "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
+      "publishedAt": "2026-11-24T19:27:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o"
+        }
+      ]
+    },
+    {
+      "id": "217207187fbb2e0ff58b",
+      "category": "finance",
+      "title": "Four generations of a family working in one factory",
+      "summary": "Four generations of the Avis family have now worked at Sweetnam & Bradley in Malmesbury.",
+      "publishedAt": "2026-11-24T16:42:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ck7v2r6j1yl3o"
+        }
+      ]
+    },
+    {
+      "id": "c8c6dcd4f7308f49ccf4",
+      "category": "politics",
+      "title": "Nigerian monarch, 92, suspended after sexual assault claims",
+      "summary": "The Emir of Daura is one of Nigeria's best-known monarchs, with politicians often trying to gain his support.",
+      "publishedAt": "2026-11-24T19:10:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmglrz462nn6o"
+        }
+      ]
+    },
+    {
+      "id": "8de361dbc77daf36be14",
+      "category": "finance",
+      "title": "World Cup drove profits surge, says Marston's",
+      "summary": "The company says an \"excellent World Cup\" helped drive strong trading as annual profits rose by 18%.",
+      "publishedAt": "2026-11-24T13:03:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo"
+        }
+      ]
+    },
+    {
+      "id": "2a2c724058d61e5f9ae7",
+      "category": "politics",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
+      "publishedAt": "2026-11-24T18:07:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo"
+        }
+      ]
+    },
+    {
+      "id": "1c61dd99b40a47cfe3ce",
+      "category": "finance",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "publishedAt": "2026-11-24T10:53:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o"
+        }
+      ]
+    },
+    {
+      "id": "adab002c342460dcb8c1",
+      "category": "politics",
+      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
+      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
+      "publishedAt": "2026-11-24T17:04:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o"
+        }
+      ]
+    },
+    {
+      "id": "d4911b03ef9ba7a4391b",
+      "category": "finance",
+      "title": "The shake-up facing renters as a new kind of landlord emerges",
+      "summary": "Companies building flats that they then rent out could usher in big changes for renters.",
+      "publishedAt": "2026-11-24T00:28:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o"
+        }
+      ]
+    },
+    {
+      "id": "ce9a1668bd40780b5082",
+      "category": "politics",
+      "title": "French ex-President Sarkozy and wife Carla Bruni to face trial",
+      "summary": "It is the latest case involving Nicolas Sarkozy who became the first French ex-president to go to jail last year.",
+      "publishedAt": "2026-11-24T16:49:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c65y17pwv1z7o"
+        }
+      ]
+    },
+    {
+      "id": "8f4469e08ec0fc33cad1",
+      "category": "finance",
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "publishedAt": "2026-11-24T00:11:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po"
+        }
+      ]
+    },
+    {
+      "id": "5b1c5c7e0cff6cd55cfb",
+      "category": "politics",
+      "title": "Israeli air strike kills Hamas internal security chief in Gaza",
+      "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+      "publishedAt": "2026-11-24T15:35:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o"
+        }
+      ]
+    }
+  ]
+}
