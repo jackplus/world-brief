@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-24T08:36:59.812Z",
+  "coverageStart": "2026-11-23T08:36:59.812Z",
+  "coverageEnd": "2026-11-24T08:36:59.812Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 19
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 21
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "d4911b03ef9ba7a4391b",
+      "category": "finance",
+      "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+      "summary": "Increasing numbers of corporate landlords could usher in big changes for renters",
+      "publishedAt": "2026-11-24T00:28:48.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o"
+        }
+      ]
+    },
+    {
+      "id": "4aa184a21490e73df2cf",
+      "category": "politics",
+      "title": "What China's Xi could take away from Jensen Huang's return to Nvidia",
+      "summary": "Huang being back at the helm of Nvidia is no guarantee of relief for Beijing.",
+      "publishedAt": "2026-11-24T07:26:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o"
+        }
+      ]
+    },
+    {
+      "id": "eb2701ff66febea27293",
+      "category": "ai",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "summary": "",
+      "publishedAt": "2026-11-23T17:20:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/robotrack"
+        }
+      ]
+    },
+    {
+      "id": "8f4469e08ec0fc33cad1",
+      "category": "finance",
+      "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+      "summary": "The breeder's rating was downgraded but he continued to advertise as five-star, investigation finds.",
+      "publishedAt": "2026-11-24T00:11:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c8d36d43y8po"
+        }
+      ]
+    },
+    {
+      "id": "a441ea784420c25ff640",
+      "category": "politics",
+      "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
+      "summary": "Hasina has spoken several times of her desire to return, but this is the first time she has set a date.",
+      "publishedAt": "2026-11-24T06:23:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c60rk1yj07xeo"
+        }
+      ]
+    },
+    {
+      "id": "18918156d1ef13066011",
+      "category": "finance",
+      "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+      "summary": "Busy mothers on both sides of the Atlantic are paying companies to handle their to-do lists.",
+      "publishedAt": "2026-11-24T00:01:04.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno"
+        }
+      ]
+    },
+    {
+      "id": "2a2c724058d61e5f9ae7",
+      "category": "politics",
+      "title": "India's 'cockroach' party leader says he was stopped from flying to UK",
+      "summary": "Saurav Das said that immigration authorities at Delhi airport told him that his passport had been \"flagged\".",
+      "publishedAt": "2026-11-24T05:33:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo"
+        }
+      ]
+    },
+    {
+      "id": "ec23680aade17b729575",
+      "category": "finance",
+      "title": "A comeback for the ages: Trump's influence on Huang's return to Nvidia",
+      "summary": "The BBC's business correspondent Michelle Fleury explains what role Trump's support played in Huang's comeback.",
+      "publishedAt": "2026-11-23T21:40:30.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckp80d5nl586o"
+        }
+      ]
+    },
+    {
+      "id": "1c61dd99b40a47cfe3ce",
+      "category": "politics",
+      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
+      "publishedAt": "2026-11-24T04:36:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o"
+        }
+      ]
+    },
+    {
+      "id": "b9ddec0a0e5713a74a19",
+      "category": "finance",
+      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+      "publishedAt": "2026-11-23T21:23:42.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko"
+        }
+      ]
+    },
+    {
+      "id": "4deb70d613a15c59a924",
+      "category": "politics",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "publishedAt": "2026-11-24T02:15:59.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo"
+        }
+      ]
+    },
+    {
+      "id": "78483dd0a1bfd334e185",
+      "category": "finance",
+      "title": "'Biggest U-turn in economic history': Experts react to Jensen Huang's return to Nvidia",
+      "summary": "The Nvidia CEO was reinstated after weeks of controversy over his affair with an alleged Chinese spy.",
+      "publishedAt": "2026-11-23T18:43:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo"
+        }
+      ]
+    },
+    {
+      "id": "b0b4c3a9109dd46fc3f1",
+      "category": "politics",
+      "title": "Cheers and applause as Jensen Huang returns to Nvidia office",
+      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "publishedAt": "2026-11-24T01:21:41.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo"
+        }
+      ]
+    },
+    {
+      "id": "bdef4c1b645de4b303a1",
+      "category": "finance",
+      "title": "Pip assessments need 'fundamental overhaul', report to say",
+      "summary": "Disability Minister Sir Stephen Timms says he will recommend major reforms to the personal independence payment.",
+      "publishedAt": "2026-11-23T17:59:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo"
+        }
+      ]
+    },
+    {
+      "id": "2fac5e56d378a99d849f",
+      "category": "politics",
+      "title": "King Charles and Elton John pay tribute to Australian music legend Molly Meldrum",
+      "summary": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "publishedAt": "2026-11-24T00:23:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o"
+        }
+      ]
+    },
+    {
+      "id": "20361ddbf3f89b379895",
+      "category": "finance",
+      "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+      "summary": "Huang's role at the centre of his company's journey to lynchpin of AI proved crucial.",
+      "publishedAt": "2026-11-23T17:11:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo"
+        }
+      ]
+    },
+    {
+      "id": "52516993c8e7cfced132",
+      "category": "politics",
+      "title": "Dad who discovered daughter's murder on Facebook feels ignored by South African police",
+      "summary": "South African communities tell the BBC of measures they're taking to keep women safe after a wave of horrific killings.",
+      "publishedAt": "2026-11-24T00:02:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo"
+        }
+      ]
+    }
+  ]
+}
