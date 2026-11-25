@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-25T21:07:26.483Z",
+  "coverageStart": "2026-11-24T21:07:26.483Z",
+  "coverageEnd": "2026-11-25T21:07:26.483Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 24
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "50760e70c321e422ff38",
+      "category": "finance",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "publishedAt": "2026-11-25T20:43:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
+        }
+      ]
+    },
+    {
+      "id": "9ad12a5eb6c947beb465",
+      "category": "politics",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "publishedAt": "2026-11-25T19:54:52.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko"
+        }
+      ]
+    },
+    {
+      "id": "88bd06d7e0e9b82f43a3",
+      "category": "ai",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "publishedAt": "2026-11-25T18:52:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+        }
+      ]
+    },
+    {
+      "id": "ebcc18ee02d95aa3ed7f",
+      "category": "finance",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm"
+        }
+      ]
+    },
+    {
+      "id": "03d526814c54fd39ce6e",
+      "category": "politics",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "summary": "The Israeli PM says his trial should end after judges said there was little chance of conviction in one of three cases.",
+      "publishedAt": "2026-11-25T19:47:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o"
+        }
+      ]
+    },
+    {
+      "id": "0077e07924e43bf73f6b",
+      "category": "ai",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:22:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+        }
+      ]
+    },
+    {
+      "id": "657383e9620afc1b422f",
+      "category": "finance",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm"
+        }
+      ]
+    },
+    {
+      "id": "0552a842817dd99f1b9d",
+      "category": "politics",
+      "title": "Two children among six dead after plane crash off Mississippi coast",
+      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
+      "publishedAt": "2026-11-25T19:26:44.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo"
+        }
+      ]
+    },
+    {
+      "id": "df3be113c8aed13fbadf",
+      "category": "ai",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "summary": "",
+      "publishedAt": "2026-11-25T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+        }
+      ]
+    },
+    {
+      "id": "6b4b4b2910ae68552a90",
+      "category": "finance",
+      "title": "What we know about Trump's Thanksgiving tariffs",
+      "summary": "Donald Trump is targeting China, the European Union and 12 other jurisdictions in a new round of tariffs.",
+      "publishedAt": "2026-11-25T19:38:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo"
+        }
+      ]
+    },
+    {
+      "id": "72ed6c8b192174d726eb",
+      "category": "politics",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "publishedAt": "2026-11-25T19:19:06.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o"
+        }
+      ]
+    },
+    {
+      "id": "a5c769ee3e1720e78aad",
+      "category": "finance",
+      "title": "Martin Lewis' tips on staying warm this winter",
+      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "publishedAt": "2026-11-25T17:59:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo"
+        }
+      ]
+    },
+    {
+      "id": "f3370d38161d9195f7cc",
+      "category": "politics",
+      "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
+      "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
+      "publishedAt": "2026-11-25T18:41:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo"
+        }
+      ]
+    },
+    {
+      "id": "1ad2491e077f5b88c553",
+      "category": "finance",
+      "title": "Energy price increase 'could put me in hospital'",
+      "summary": "People on Teesside share their views on the news energy bills are expected to increase by 26%.",
+      "publishedAt": "2026-11-25T17:26:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y1g42x2wzo"
+        }
+      ]
+    },
+    {
+      "id": "0f4a0d814dee75aafea2",
+      "category": "politics",
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "publishedAt": "2026-11-25T17:48:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo"
+        }
+      ]
+    },
+    {
+      "id": "b30040bfa497715d4404",
+      "category": "finance",
+      "title": "What's gone wrong at Poundland?",
+      "summary": "Poundland has collapse into administration. Why?",
+      "publishedAt": "2026-11-25T17:00:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o"
+        }
+      ]
+    },
+    {
+      "id": "ad9d81f8adab49f8c1ab",
+      "category": "politics",
+      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
+      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
+      "publishedAt": "2026-11-25T17:30:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo"
+        }
+      ]
+    },
+    {
+      "id": "1cde895dab57536f35e5",
+      "category": "finance",
+      "title": "Scots react to news of rising energy prices",
+      "summary": "Scots describe how an increase in energy bills will affect them.",
+      "publishedAt": "2026-11-25T16:56:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cmqlq07d71yko"
+        }
+      ]
+    },
+    {
+      "id": "0a34feb65b8b47c143ad",
+      "category": "politics",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "publishedAt": "2026-11-25T16:21:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
+        }
+      ]
+    }
+  ]
+}
