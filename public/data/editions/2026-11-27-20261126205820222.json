@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T20:58:20.222Z",
+  "coverageStart": "2026-11-25T20:58:20.222Z",
+  "coverageEnd": "2026-11-26T20:58:20.222Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 20
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "a3f951f1927e6a6d2264",
+      "category": "finance",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "publishedAt": "2026-11-26T19:55:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o"
+        }
+      ]
+    },
+    {
+      "id": "9cf58e9b5260d4142ac8",
+      "category": "politics",
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "publishedAt": "2026-11-26T20:35:39.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o"
+        }
+      ]
+    },
+    {
+      "id": "a734da9d3a1d876054f8",
+      "category": "ai",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+        }
+      ]
+    },
+    {
+      "id": "dbd4151a20f8ecdcc8d4",
+      "category": "finance",
+      "title": "When will Poundland shops close? Five key questions answered",
+      "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+      "publishedAt": "2026-11-26T17:21:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo"
+        }
+      ]
+    },
+    {
+      "id": "22b662a37464cef1b849",
+      "category": "politics",
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "summary": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "publishedAt": "2026-11-26T19:26:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o"
+        }
+      ]
+    },
+    {
+      "id": "3d2697b636d74b834fc0",
+      "category": "ai",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+        }
+      ]
+    },
+    {
+      "id": "deab0b2cafb9f1c4f5b2",
+      "category": "finance",
+      "title": "Norse Atlantic suspends all flights as it faces potential collapse",
+      "summary": "The carrier is looking for urgent funding, but will file for bankruptcy without a financial lifeline.",
+      "publishedAt": "2026-11-26T14:28:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo"
+        }
+      ]
+    },
+    {
+      "id": "736700ee3456683a8fa1",
+      "category": "politics",
+      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
+      "summary": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
+      "publishedAt": "2026-11-26T16:21:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo"
+        }
+      ]
+    },
+    {
+      "id": "819f2bb8e324e5e7f3ab",
+      "category": "ai",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "summary": "",
+      "publishedAt": "2026-11-26T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/training-swarms"
+        }
+      ]
+    },
+    {
+      "id": "a12d127e8f0cc2062b4d",
+      "category": "finance",
+      "title": "Millions of people to see average monthly mortgage payments rise by £100",
+      "summary": "More people face higher mortgage repayments when they roll off a fixed deal than previously estimated.",
+      "publishedAt": "2026-11-26T14:00:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo"
+        }
+      ]
+    },
+    {
+      "id": "e1fe904595a6043e3d76",
+      "category": "politics",
+      "title": "New UK-EU treaty has 10-year termination clause",
+      "summary": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "publishedAt": "2026-11-26T15:23:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo"
+        }
+      ]
+    },
+    {
+      "id": "57ff9d68589773817939",
+      "category": "finance",
+      "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
+      "summary": "Poundland's management and MPs blame the retailer's owners, Gordon Brothers, but the US firm says without them the chain would have collapsed last year.",
+      "publishedAt": "2026-11-26T13:40:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo"
+        }
+      ]
+    },
+    {
+      "id": "9dafd6803806c501f569",
+      "category": "politics",
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "publishedAt": "2026-11-26T15:17:18.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do"
+        }
+      ]
+    },
+    {
+      "id": "5966e02366c220fa4bf1",
+      "category": "finance",
+      "title": "Cost of living roadshow highlights support on offer",
+      "summary": "This event in Sheerness is funded by the Crisis and Resilience Fund for those facing cash issues.",
+      "publishedAt": "2026-11-26T12:49:07.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqz0ky4204jlo"
+        }
+      ]
+    },
+    {
+      "id": "72a1a2ada54b58c7e63d",
+      "category": "politics",
+      "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+      "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+      "publishedAt": "2026-11-26T14:44:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o"
+        }
+      ]
+    },
+    {
+      "id": "6fa0d7605dcb7353ec53",
+      "category": "finance",
+      "title": "New boss appointed to lead Travelodge",
+      "summary": "The new CEO will lead the Thame-based company from 1 December following Jo Boydell's resignation.",
+      "publishedAt": "2026-11-26T12:03:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo"
+        }
+      ]
+    },
+    {
+      "id": "66d3107190513c374b49",
+      "category": "politics",
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "publishedAt": "2026-11-26T14:35:22.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo"
+        }
+      ]
+    },
+    {
+      "id": "ef9b58f6093687e0f518",
+      "category": "finance",
+      "title": "Drivers over 70 face eye tests every three years under new plans",
+      "summary": "The changes could see drivers over 70 stripped of licences if they do not meet standards.",
+      "publishedAt": "2026-11-26T11:21:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo"
+        }
+      ]
+    },
+    {
+      "id": "ff3888f91e6e95305561",
+      "category": "politics",
+      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
+      "summary": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
+      "publishedAt": "2026-11-26T12:33:23.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po"
+        }
+      ]
+    }
+  ]
+}
