@@ -1,0 +1,314 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-26T07:00:02.172Z",
+  "coverageStart": "2026-11-25T07:00:02.172Z",
+  "coverageEnd": "2026-11-26T07:00:02.172Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 26
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 2
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 3
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "f6946b635b3f104e27e5",
+      "category": "finance",
+      "title": "Parents cutting basics at Christmas, charity warns",
+      "summary": "The chief executive of Worthing Soup Kitchen says some families choose between food and presents.",
+      "publishedAt": "2026-11-26T06:13:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cq1k98gpzmy4o"
+        }
+      ]
+    },
+    {
+      "id": "0a34feb65b8b47c143ad",
+      "category": "politics",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "publishedAt": "2026-11-26T04:10:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o"
+        }
+      ]
+    },
+    {
+      "id": "3d2697b636d74b834fc0",
+      "category": "ai",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "summary": "",
+      "publishedAt": "2026-11-26T05:05:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin"
+        }
+      ]
+    },
+    {
+      "id": "e1fe904595a6043e3d76",
+      "category": "finance",
+      "title": "New UK-EU treaties have 10-year termination clause, BBC understands",
+      "summary": "Text of treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
+      "publishedAt": "2026-11-26T02:13:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo"
+        }
+      ]
+    },
+    {
+      "id": "baf26c4be0d1577e239b",
+      "category": "politics",
+      "title": "Macy's postpones Thanksgiving parade due to severe weather",
+      "summary": "The was the first time ever that the iconic celebration was delayed because of storms. New York expects damaging winds and heavy rainfall over the Thanksgiving holiday.",
+      "publishedAt": "2026-11-26T04:04:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo"
+        }
+      ]
+    },
+    {
+      "id": "88bd06d7e0e9b82f43a3",
+      "category": "ai",
+      "title": "Where scientists draw the line on AI agents",
+      "summary": "",
+      "publishedAt": "2026-11-25T18:52:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+        }
+      ]
+    },
+    {
+      "id": "3e9db239b14ee432fe83",
+      "category": "finance",
+      "title": "US approves SpaceX plan to send a million data satellites to space",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "publishedAt": "2026-11-26T00:07:51.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo"
+        }
+      ]
+    },
+    {
+      "id": "ab380d349d1f63f4d40b",
+      "category": "politics",
+      "title": "FedEx plane overshoots Miami runway, with flights briefly suspended at airport",
+      "summary": "The brief ground stop comes on the day before the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "publishedAt": "2026-11-26T03:27:33.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o"
+        }
+      ]
+    },
+    {
+      "id": "0077e07924e43bf73f6b",
+      "category": "ai",
+      "title": "An Indic Voice Agent with CUGA",
+      "summary": "",
+      "publishedAt": "2026-11-25T10:22:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
+        }
+      ]
+    },
+    {
+      "id": "21a6f8d0051db304ff30",
+      "category": "finance",
+      "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+      "summary": "US company Fender is in dispute with a German firm that makes generic versions of its key model.",
+      "publishedAt": "2026-11-26T00:01:37.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o"
+        }
+      ]
+    },
+    {
+      "id": "b1f31c06c98d26bd6233",
+      "category": "politics",
+      "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
+      "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
+      "publishedAt": "2026-11-26T02:06:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo"
+        }
+      ]
+    },
+    {
+      "id": "50760e70c321e422ff38",
+      "category": "finance",
+      "title": "Poundland collapses putting 11,000 jobs at risk",
+      "summary": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+      "publishedAt": "2026-11-25T21:31:10.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o"
+        }
+      ]
+    },
+    {
+      "id": "737f291db3ae407c58fd",
+      "category": "politics",
+      "title": "California warns of flooding as King Tides peak over Thanksgiving",
+      "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms and flooding, which come as millions of people travel for the holiday.",
+      "publishedAt": "2026-11-26T01:22:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po"
+        }
+      ]
+    },
+    {
+      "id": "ebcc18ee02d95aa3ed7f",
+      "category": "finance",
+      "title": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "summary": "Agencies announce dollar thresholds for applicability of truth in lending and consumer leasing rules for consumer credit and lease transactions",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125b.htm"
+        }
+      ]
+    },
+    {
+      "id": "15859bdf61735fd86162",
+      "category": "politics",
+      "title": "The US pastor who wants to see women's right to vote overturned",
+      "summary": "The movement to repeal women's right to vote has gained traction amongst some very conservative Christians.",
+      "publishedAt": "2026-11-26T00:24:25.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwe89jyz4012o"
+        }
+      ]
+    },
+    {
+      "id": "657383e9620afc1b422f",
+      "category": "finance",
+      "title": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "summary": "Agencies announce dollar thresholds for smaller loan exemption from appraisal requirements for higher-priced mortgage loans",
+      "publishedAt": "2026-11-25T20:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "美联储公告",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261125a.htm"
+        }
+      ]
+    },
+    {
+      "id": "9428e511be36ee35d53f",
+      "category": "politics",
+      "title": "Spanish elections: What you need to know and what's at stake",
+      "summary": "After eight years of Socialist-led rule, snap elections are taking place on Sunday with conservative Alberto Núñez Feijóo vying to win office.",
+      "publishedAt": "2026-11-26T00:23:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo"
+        }
+      ]
+    },
+    {
+      "id": "a5c769ee3e1720e78aad",
+      "category": "finance",
+      "title": "Martin Lewis' tips on staying warm this winter",
+      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "publishedAt": "2026-11-25T17:59:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cjr4gw12k2lwo"
+        }
+      ]
+    },
+    {
+      "id": "4ea3dda5d8aae35c3b98",
+      "category": "politics",
+      "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
+      "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election.",
+      "publishedAt": "2026-11-26T00:23:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro"
+        }
+      ]
+    }
+  ]
+}
