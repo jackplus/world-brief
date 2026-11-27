@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T06:56:08.244Z",
+  "coverageStart": "2026-11-26T06:56:08.244Z",
+  "coverageEnd": "2026-11-27T06:56:08.244Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 27
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 22
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "ae9d7b2be9f1bc738fbe",
+      "category": "finance",
+      "title": "How much is your rent in Birmingham?",
+      "summary": "We ask people in the UK's second biggest how much they pay for their homes.",
+      "publishedAt": "2026-11-27T06:11:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no"
+        }
+      ]
+    },
+    {
+      "id": "05d3e5b421e6476c8b28",
+      "category": "politics",
+      "title": "Could housing decide Spain's general election?",
+      "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "publishedAt": "2026-11-27T06:09:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo"
+        }
+      ]
+    },
+    {
+      "id": "a734da9d3a1d876054f8",
+      "category": "ai",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "summary": "",
+      "publishedAt": "2026-11-26T11:37:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+        }
+      ]
+    },
+    {
+      "id": "5ea437e58d405299f1ce",
+      "category": "finance",
+      "title": "The food bank helping pet owners with rising bills",
+      "summary": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+      "publishedAt": "2026-11-27T06:11:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o"
+        }
+      ]
+    },
+    {
+      "id": "ab380d349d1f63f4d40b",
+      "category": "politics",
+      "title": "Major Thanksgiving storm brings flooding, flight delays across US",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
+      "publishedAt": "2026-11-27T05:15:26.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o"
+        }
+      ]
+    },
+    {
+      "id": "aa40604eb349e04d668a",
+      "category": "finance",
+      "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "publishedAt": "2026-11-27T00:54:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
+        }
+      ]
+    },
+    {
+      "id": "f06cfe25e70c7bfb7834",
+      "category": "politics",
+      "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+      "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
+      "publishedAt": "2026-11-27T03:28:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o"
+        }
+      ]
+    },
+    {
+      "id": "83034ad2491c89b8042a",
+      "category": "finance",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "publishedAt": "2026-11-27T00:02:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo"
+        }
+      ]
+    },
+    {
+      "id": "2515ccac1512265433c4",
+      "category": "politics",
+      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+      "summary": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "publishedAt": "2026-11-27T00:48:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o"
+        }
+      ]
+    },
+    {
+      "id": "d8267e1a1357da608781",
+      "category": "finance",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "publishedAt": "2026-11-26T23:17:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego"
+        }
+      ]
+    },
+    {
+      "id": "32c093353a68a1528f20",
+      "category": "politics",
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "summary": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "publishedAt": "2026-11-27T00:47:43.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o"
+        }
+      ]
+    },
+    {
+      "id": "e61623718150f3be2297",
+      "category": "finance",
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "publishedAt": "2026-11-26T23:08:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo"
+        }
+      ]
+    },
+    {
+      "id": "f491f6fbd4bc05e53895",
+      "category": "politics",
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "publishedAt": "2026-11-26T23:03:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo"
+        }
+      ]
+    },
+    {
+      "id": "a3f951f1927e6a6d2264",
+      "category": "finance",
+      "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
+      "summary": "Other countries have rerouted trade in response to his first tariff salvo, now they are looking beyond Trump's tenure.",
+      "publishedAt": "2026-11-26T19:55:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o"
+        }
+      ]
+    },
+    {
+      "id": "0ee55cb0595725e90ab0",
+      "category": "politics",
+      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+      "publishedAt": "2026-11-26T22:49:27.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        }
+      ]
+    },
+    {
+      "id": "dbd4151a20f8ecdcc8d4",
+      "category": "finance",
+      "title": "When will Poundland shops close? Five key questions answered",
+      "summary": "Why is Poundland closing down, and what will happen to staff and suppliers?",
+      "publishedAt": "2026-11-26T17:21:21.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo"
+        }
+      ]
+    },
+    {
+      "id": "883ff1fa1de53b459f9c",
+      "category": "politics",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "publishedAt": "2026-11-26T22:06:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o"
+        }
+      ]
+    }
+  ]
+}
