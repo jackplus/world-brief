@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-27T20:43:34.075Z",
+  "coverageStart": "2026-11-26T20:43:34.075Z",
+  "coverageEnd": "2026-11-27T20:43:34.075Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 25
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 11
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 1
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "4513ddf259774f91504d",
+      "category": "finance",
+      "title": "Will new energy fixes cost more in January?",
+      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "publishedAt": "2026-11-27T16:05:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o"
+        }
+      ]
+    },
+    {
+      "id": "802c13684b23c24cf5e3",
+      "category": "politics",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "publishedAt": "2026-11-27T20:34:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo"
+        }
+      ]
+    },
+    {
+      "id": "c2bd7953104652e48b06",
+      "category": "ai",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "summary": "",
+      "publishedAt": "2026-11-27T00:00:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "Hugging Face 博客（含社区）",
+          "url": "https://huggingface.co/blog/video-trainium3"
+        }
+      ]
+    },
+    {
+      "id": "aa40604eb349e04d668a",
+      "category": "finance",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "publishedAt": "2026-11-27T10:10:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
+        }
+      ]
+    },
+    {
+      "id": "21d8bca4dce98adf5a68",
+      "category": "politics",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "publishedAt": "2026-11-27T20:09:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo"
+        }
+      ]
+    },
+    {
+      "id": "041f8409620aad7db82b",
+      "category": "finance",
+      "title": "'We're scared to turn our heating on'",
+      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "publishedAt": "2026-11-27T08:47:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo"
+        }
+      ]
+    },
+    {
+      "id": "d72130f063dbefc9f8dd",
+      "category": "politics",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "publishedAt": "2026-11-27T20:06:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo"
+        }
+      ]
+    },
+    {
+      "id": "ae9d7b2be9f1bc738fbe",
+      "category": "finance",
+      "title": "How much is your rent in Birmingham?",
+      "summary": "We ask people in the UK's second biggest how much they pay for their homes.",
+      "publishedAt": "2026-11-27T06:11:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckg5r02mqp4no"
+        }
+      ]
+    },
+    {
+      "id": "1c974769ed69a27d4f84",
+      "category": "politics",
+      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
+      "publishedAt": "2026-11-27T18:42:50.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o"
+        }
+      ]
+    },
+    {
+      "id": "5ea437e58d405299f1ce",
+      "category": "finance",
+      "title": "The food bank helping pet owners with rising bills",
+      "summary": "RSPCA hands out food, vet vouchers, cat litter and toys to pet owners struggling with bills.",
+      "publishedAt": "2026-11-27T06:11:13.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c623jgz7zmg8o"
+        }
+      ]
+    },
+    {
+      "id": "0ee55cb0595725e90ab0",
+      "category": "politics",
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "publishedAt": "2026-11-27T18:00:40.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo"
+        }
+      ]
+    },
+    {
+      "id": "9435e76a29ab0aa9e6f3",
+      "category": "finance",
+      "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+      "summary": "Networks of plumbers and electricians are scamming people on a large scale, the BBC reveals.",
+      "publishedAt": "2026-11-27T00:58:49.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o"
+        }
+      ]
+    },
+    {
+      "id": "21d4ccee9e47ba7f4252",
+      "category": "politics",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "publishedAt": "2026-11-27T17:19:31.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo"
+        }
+      ]
+    },
+    {
+      "id": "83034ad2491c89b8042a",
+      "category": "finance",
+      "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+      "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
+      "publishedAt": "2026-11-27T00:02:19.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo"
+        }
+      ]
+    },
+    {
+      "id": "bd6ce6132fe50dc817a9",
+      "category": "politics",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "publishedAt": "2026-11-27T16:53:46.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o"
+        }
+      ]
+    },
+    {
+      "id": "d8267e1a1357da608781",
+      "category": "finance",
+      "title": "UK to pay 'participation' fee to deliver EU deals",
+      "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+      "publishedAt": "2026-11-26T23:17:12.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego"
+        }
+      ]
+    },
+    {
+      "id": "218dc7c39562269a538a",
+      "category": "politics",
+      "title": "Brazil pushes back on Macron calling its meat 'doped'",
+      "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products.",
+      "publishedAt": "2026-11-27T15:54:15.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo"
+        }
+      ]
+    }
+  ]
+}
