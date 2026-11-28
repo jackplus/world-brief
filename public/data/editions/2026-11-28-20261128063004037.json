@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T06:30:04.037Z",
+  "coverageStart": "2026-11-27T06:30:04.037Z",
+  "coverageEnd": "2026-11-28T06:30:04.037Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 17
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "4513ddf259774f91504d",
+      "category": "finance",
+      "title": "Will new energy fixes cost more in January?",
+      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "publishedAt": "2026-11-27T16:05:32.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o"
+        }
+      ]
+    },
+    {
+      "id": "ccb005aa315bd08681f1",
+      "category": "politics",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "publishedAt": "2026-11-28T04:19:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o"
+        }
+      ]
+    },
+    {
+      "id": "aa40604eb349e04d668a",
+      "category": "finance",
+      "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
+      "summary": "Solo-dining is being embraced as a self-care trend and it's reshaping the restaurant industry.",
+      "publishedAt": "2026-11-27T10:10:36.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo"
+        }
+      ]
+    },
+    {
+      "id": "8f05146db1ecfc9d0dd6",
+      "category": "politics",
+      "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+      "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government.",
+      "publishedAt": "2026-11-28T04:13:45.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo"
+        }
+      ]
+    },
+    {
+      "id": "041f8409620aad7db82b",
+      "category": "finance",
+      "title": "'We're scared to turn our heating on'",
+      "summary": "Energy bills will soar by 26% for millions of households in January after a surge in gas prices sparked by the Iran war.",
+      "publishedAt": "2026-11-27T08:47:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/c6jd7yj4ve9xo"
+        }
+      ]
+    },
+    {
+      "id": "210c71fefa4073b54be0",
+      "category": "politics",
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "publishedAt": "2026-11-28T01:20:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o"
+        }
+      ]
+    },
+    {
+      "id": "7954e56f5de6a8e44351",
+      "category": "politics",
+      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
+      "publishedAt": "2026-11-28T00:56:55.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo"
+        }
+      ]
+    },
+    {
+      "id": "1b4d91dae09c9a8b9b61",
+      "category": "politics",
+      "title": "The Indian 'Tamasha queen' whose fans paid for a show that never happened",
+      "summary": "A new Bollywood flim spotlights the remarkable life of dancer and singer Vithabhai Narayangaonkar.",
+      "publishedAt": "2026-11-28T00:50:11.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cj20q9pw0116o"
+        }
+      ]
+    },
+    {
+      "id": "a73fdec89d52dece7d97",
+      "category": "politics",
+      "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "publishedAt": "2026-11-28T00:05:17.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno"
+        }
+      ]
+    },
+    {
+      "id": "99499c5abfc0b02963b2",
+      "category": "politics",
+      "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+      "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
+      "publishedAt": "2026-11-27T23:02:35.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o"
+        }
+      ]
+    },
+    {
+      "id": "21d8bca4dce98adf5a68",
+      "category": "politics",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "publishedAt": "2026-11-27T21:55:53.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo"
+        }
+      ]
+    }
+  ]
+}
