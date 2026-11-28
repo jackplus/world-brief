@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-28T19:35:47.295Z",
+  "coverageStart": "2026-11-27T19:35:47.295Z",
+  "coverageEnd": "2026-11-28T19:35:47.295Z",
+  "mode": "excerpt",
+  "notice": "AI 服务暂不可用或输出未通过校验，当前展示原文标题与来源摘录。",
+  "sourceStatus": [
+    {
+      "id": "bbc-world",
+      "name": "BBC News · 国际",
+      "state": "ok",
+      "count": 16
+    },
+    {
+      "id": "bbc-business",
+      "name": "BBC News · 财经",
+      "state": "ok",
+      "count": 4
+    },
+    {
+      "id": "fed",
+      "name": "美联储公告",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "huggingface",
+      "name": "Hugging Face 博客（含社区）",
+      "state": "ok",
+      "count": 0
+    },
+    {
+      "id": "cns-world",
+      "name": "中新网 · 国际",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    },
+    {
+      "id": "cns-finance",
+      "name": "中新网 · 财经",
+      "state": "disabled",
+      "note": "Official RSS endpoint verified: HTTP 200, valid RSS, 30 items on 2026-10-14. Disabled pending written authorization for public excerpts."
+    }
+  ],
+  "items": [
+    {
+      "id": "15bf597562e4084b9127",
+      "category": "finance",
+      "title": "Being scammed is 'such a challenge to overcome'",
+      "summary": "Ollie Griggs says he was scammed two years ago when someone phoned him pretending to be from a bank.",
+      "publishedAt": "2026-11-28T15:05:00.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/c6vg2n8px3rko"
+        }
+      ]
+    },
+    {
+      "id": "a41785405e824f474522",
+      "category": "politics",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "publishedAt": "2026-11-28T18:01:05.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno"
+        }
+      ]
+    },
+    {
+      "id": "ffcb617306f512b86ca3",
+      "category": "finance",
+      "title": "Christmas market 'absolutely vital' for businesses",
+      "summary": "The Truro market began on 21 November.",
+      "publishedAt": "2026-11-28T12:09:09.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/cx1l0evzj54qo"
+        }
+      ]
+    },
+    {
+      "id": "805a5265d7d9567bbcbb",
+      "category": "politics",
+      "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+      "summary": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+      "publishedAt": "2026-11-28T16:53:20.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo"
+        }
+      ]
+    },
+    {
+      "id": "fe199e784bd75ecc8e34",
+      "category": "finance",
+      "title": "Poundland closure 'big loss' for former mining town",
+      "summary": "Shoppers and staff reflect on the possible closure of the Poundland store in Camborne.",
+      "publishedAt": "2026-11-28T12:07:08.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/videos/ckvg20jj2r1po"
+        }
+      ]
+    },
+    {
+      "id": "a73fdec89d52dece7d97",
+      "category": "politics",
+      "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
+      "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them.",
+      "publishedAt": "2026-11-28T16:18:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno"
+        }
+      ]
+    },
+    {
+      "id": "d13a3eb5554b29a0dbe1",
+      "category": "finance",
+      "title": "Butcher blames costs for closure after 127 years",
+      "summary": "Bennett Butchers in Spalding says rises in National Insurance and energy have made it \"unviable\".",
+      "publishedAt": "2026-11-28T07:18:47.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 财经",
+          "url": "https://www.bbc.co.uk/news/articles/cqe9k3m9mvexo"
+        }
+      ]
+    },
+    {
+      "id": "8b5bc555b906b1902288",
+      "category": "politics",
+      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
+      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
+      "publishedAt": "2026-11-28T14:10:01.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o"
+        }
+      ]
+    },
+    {
+      "id": "12ead7c29904d533c934",
+      "category": "politics",
+      "title": "OpenAI counter-sues Apple over alleged theft of trade secrets",
+      "summary": "The ChatGPT-maker alleges that tech giant Apple stole trade secrets through a former employee.",
+      "publishedAt": "2026-11-28T11:35:34.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm15ekqvlezeo"
+        }
+      ]
+    },
+    {
+      "id": "ec89f0560f504921721e",
+      "category": "politics",
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "publishedAt": "2026-11-28T10:34:58.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o"
+        }
+      ]
+    },
+    {
+      "id": "ea32a82baf8f7519eae1",
+      "category": "politics",
+      "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
+      "summary": "Tributes have flooded in for the 38-year-old Australian who is survived by his pregnant wife, Paige, their daughter.",
+      "publishedAt": "2026-11-28T07:31:14.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cvwy08g70ldko"
+        }
+      ]
+    },
+    {
+      "id": "ccb005aa315bd08681f1",
+      "category": "politics",
+      "title": "Eight killed in Peruvian military helicopter crash",
+      "summary": "The pilot was the sole survivor of the crash during a rescue mission in a remote area known for drug trafficking.",
+      "publishedAt": "2026-11-28T04:19:16.000Z",
+      "mode": "excerpt",
+      "sources": [
+        {
+          "name": "BBC News · 国际",
+          "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o"
+        }
+      ]
+    }
+  ]
+}
